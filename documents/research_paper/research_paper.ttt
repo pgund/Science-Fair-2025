@@ -1,0 +1,15 @@
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htbp]
+    \centering
+    \caption{Descriptive Caption for the Table}
+    \begin{tabular}{ll}
+    \hline
+    Column1 & Column2 \\
+    \hline
+    Data1   & Data2 \\
+    Data3   & Data4 \\
+    \hline
+    \end{tabular}
+    \label{table:example}
+\end{table*}

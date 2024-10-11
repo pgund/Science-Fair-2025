@@ -1,0 +1,8 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htbp]
+    \centering
+    \includegraphics[width=0.5\textwidth]{your-figure.png}  % Replace with your figure
+    \caption{Descriptive Caption for the Figure}
+    \label{fig:example}
+\end{figure*}
