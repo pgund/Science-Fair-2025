@@ -1,0 +1,861 @@
+ssm_id	dna_change	protein_change	type	consequence	num_ssm_affected_cases	num_PTEN_cases	ssm_affected_cases_percentage	num_gdc_ssm_affected_cases	num_gdc_ssm_cases	gdc_ssm_affected_cases_percentage	vep_impact	sift_impact	sift_score	polyphen_impact	polyphen_score
+1012a5b1-76ce-5628-a8ec-f4e6b1a7b560	chr10:g.87933147C>G	PTEN R130G	Substitution	Missense	69	3534	1.95	69	16508	0.42	MODERATE	deleterious	0.0	probably_damaging	0.999
+71f9e49d-a4c9-58f2-b6d1-d79390eacdf6	chr10:g.87933148G>A	PTEN R130Q	Substitution	Missense	66	3534	1.87	66	16508	0.40	MODERATE	deleterious	0.02	probably_damaging	0.998
+9319a74d-d505-5997-b96e-311313ce0350	chr10:g.87957915C>T	PTEN R233*	Substitution	Stop Gained	53	3534	1.50	53	16508	0.32	HIGH				
+8df018d6-4cfd-53d9-ade2-7c79b5a71f45	chr10:g.87958013delA	PTEN K267Rfs*9	Deletion	Frameshift	40	3534	1.13	40	16508	0.24	HIGH				
+3a71bd4b-9d7e-5b54-b2fc-eaad238adea8	chr10:g.87933147C>T	PTEN R130*	Substitution	Stop Gained	39	3534	1.10	39	16508	0.24	HIGH				
+1a9909bd-1028-5794-88b5-7c6eb0a24c41	chr10:g.87961042delTACT	PTEN T319*	Deletion	Frameshift	37	3534	1.05	37	16508	0.22	HIGH				
+2dd705d1-5189-5af0-a628-1bdb93fe3deb	chr10:g.87961055delA	PTEN N323Mfs*21	Deletion	Frameshift	23	3534	0.65	23	16508	0.14	HIGH				
+623f5993-2de8-5018-bdb4-7922e85a6a0b	chr10:g.87961054_87961055insA	PTEN N323Kfs*2	Insertion	Frameshift	20	3534	0.57	20	16508	0.12	HIGH				
+6ae8a845-4b1e-5568-9fcf-98cec145b611	chr10:g.87952142C>T	PTEN R173C	Substitution	Missense	18	3534	0.51	18	16508	0.11	MODERATE	deleterious	0.02	probably_damaging	0.966
+c956ce32-5cbc-54ad-bab5-c21367ee0960	chr10:g.87864488G>T	PTEN E7*	Substitution	Stop Gained	17	3534	0.48	17	16508	0.10	HIGH				
+ef928a40-69f3-541f-be40-c97360f4cfc8	chr10:g.87960987G>T	PTEN E299*	Substitution	Stop Gained	13	3534	0.37	13	16508	0.08	HIGH				
+99ffe38c-a11a-5269-bc79-e780463a83b1	chr10:g.87960955delA	PTEN V290*	Deletion	Frameshift	12	3534	0.34	12	16508	0.07	HIGH				
+4c5319ff-eeda-5fb5-9d11-86a6241b43c2	chr10:g.87933183C>T	PTEN R142W	Substitution	Missense	11	3534	0.31	11	16508	0.07	MODERATE	deleterious	0.01	probably_damaging	0.995
+5bb31601-f00c-5cb7-8235-c052b0da8913	chr10:g.87961095C>T	PTEN R335*	Substitution	Stop Gained	11	3534	0.31	11	16508	0.07	HIGH				
+d42b6d86-f140-532c-9331-f1f3e2d995b6	chr10:g.87933165T>C	PTEN C136R	Substitution	Missense	11	3534	0.31	11	16508	0.07	MODERATE	deleterious	0.02	probably_damaging	0.999
+5427391c-4128-57fc-8c53-5823c62845e2	chr10:g.87957958_87957959insA	PTEN P248Tfs*5	Insertion	Frameshift	10	3534	0.28	10	16508	0.06	HIGH				
+5b41a505-250c-5aa3-be37-40c9e0535518	chr10:g.87958012_87958013insA	PTEN D268Gfs*30	Insertion	Frameshift	10	3534	0.28	10	16508	0.06	HIGH				
+8b638564-0052-57b4-a6b1-177591945998	chr10:g.87957951C>T	PTEN Q245*	Substitution	Stop Gained	10	3534	0.28	10	16508	0.06	HIGH				
+992046e5-ecf0-5427-a927-2c812131ed9a	chr10:g.87933037A>G	PTEN H93R	Substitution	Missense	10	3534	0.28	10	16508	0.06	MODERATE	deleterious	0.03	probably_damaging	0.998
+27c4d7c1-e941-5e46-95d5-276695ad5141	chr10:g.87961113T>G	PTEN F341V	Substitution	Missense	9	3534	0.25	9	16508	0.05	MODERATE	deleterious	0.0	probably_damaging	0.998
+9fa7038f-0a3c-5108-ae0c-9e8aba1fe97c	chr10:g.87952143G>A	PTEN R173H	Substitution	Missense	9	3534	0.25	9	16508	0.05	MODERATE	deleterious	0.03	probably_damaging	0.966
+da206a77-c7d3-5209-afbb-fda2490250d8	chr10:g.87933154G>A	PTEN G132D	Substitution	Missense	9	3534	0.25	9	16508	0.05	MODERATE	deleterious	0.03	probably_damaging	1.0
+22771a9a-cb97-5b8f-b65d-d5c00c148a06	chr10:g.87933148G>T	PTEN R130L	Substitution	Missense	8	3534	0.23	8	16508	0.05	MODERATE	deleterious	0.0	probably_damaging	0.999
+4035c6e7-dd49-5940-8006-b860423192ba	chr10:g.87965474delT	PTEN	Deletion	3 Prime Utr	7	3534	0.20	7	16508	0.04	MODIFIER				
+44828365-ef5e-546c-a732-9355c61ec4c0	chr10:g.87933245_87933246insA	PTEN V166Sfs*14	Insertion	Frameshift	7	3534	0.20	7	16508	0.04	HIGH				
+76b9b6f5-a56b-5de8-8634-3fd4ab301458	chr10:g.87933145G>A	PTEN G129E	Substitution	Missense	7	3534	0.20	7	16508	0.04	MODERATE	deleterious	0.0	probably_damaging	1.0
+86367490-65ee-5c63-bd2f-597eca763922	chr10:g.87925513_87925514insT	PTEN L57Ffs*6	Insertion	Frameshift	7	3534	0.20	7	16508	0.04	HIGH				
+92c3c050-d7a4-58d5-b5c5-ae2aced5fe92	chr10:g.87960984C>T	PTEN Q298*	Substitution	Stop Gained	7	3534	0.20	7	16508	0.04	HIGH				
+15377547-2281-5100-9aef-9545236269a0	chr10:g.87933246delA	PTEN K164Rfs*3	Deletion	Frameshift	6	3534	0.17	6	16508	0.04	HIGH				
+219425f7-f28e-5a74-8508-089078deaf2e	chr10:g.87960954_87960955insA	PTEN V290Sfs*8	Insertion	Frameshift	6	3534	0.17	6	16508	0.04	HIGH				
+2a58ce26-1f98-5503-a362-7c8435674b53	chr10:g.87933033G>T	PTEN D92Y	Substitution	Missense	6	3534	0.17	6	16508	0.04	MODERATE	deleterious	0.0	probably_damaging	1.0
+3a2bee28-d023-52e2-aa27-5248ac6b304d	chr10:g.87957955C>T	PTEN P246L	Substitution	Missense	6	3534	0.17	6	16508	0.04	MODERATE	tolerated	0.06	benign	0.116
+3a68887e-e39e-5724-944c-71a69f62eb25	chr10:g.87933148G>C	PTEN R130P	Substitution	Missense	6	3534	0.17	6	16508	0.04	MODERATE	deleterious	0.0	probably_damaging	0.999
+4291c7ec-077c-562d-bcb3-f4e0f20cae58	chr10:g.87933035C>G	PTEN D92E	Substitution	Missense	6	3534	0.17	6	16508	0.04	MODERATE	deleterious	0.0	probably_damaging	0.998
+6da9feba-a9f6-51f5-83f0-bd2189239efb	chr10:g.87961046_87961047insA	PTEN T319Nfs*6	Insertion	Frameshift	6	3534	0.17	6	16508	0.04	HIGH				
+9ebd07ae-7e8a-57df-b231-5f481fe486c4	chr10:g.87952118G>A	PTEN G165R	Substitution	Missense	6	3534	0.17	6	16508	0.04	MODERATE	deleterious	0.0	probably_damaging	1.0
+e069c048-c177-5680-8e9f-f0745fe09a5e	chr10:g.87894039delATT	PTEN I33del	Deletion	Inframe Deletion	6	3534	0.17	6	16508	0.04	MODERATE				
+f36c011b-af46-5cdc-9411-341f385715d5	chr10:g.87957858C>T	PTEN Q214*	Substitution	Stop Gained	6	3534	0.17	6	16508	0.04	HIGH				
+01098dc3-b049-56e9-8229-00db55461959	chr10:g.87952119G>A	PTEN G165E	Substitution	Missense	5	3534	0.14	5	16508	0.03	MODERATE	deleterious	0.0	probably_damaging	1.0
+0a53d850-883e-5dd7-a666-8c601ba821b7	chr10:g.87933207G>T	PTEN E150*	Substitution	Stop Gained	5	3534	0.14	5	16508	0.03	HIGH				
+24744af7-03d6-5b41-9154-9091c2011ba0	chr10:g.87864518C>T	PTEN Q17*	Substitution	Stop Gained	5	3534	0.14	5	16508	0.03	HIGH				
+587879f1-5daf-53ef-8d26-4f564cdba2e9	chr10:g.87957938_87957939insT	PTEN E242*	Insertion	Frameshift	5	3534	0.14	5	16508	0.03	HIGH				
+59b80cd5-1ec3-5e3b-90df-51f27184e959	chr10:g.87960969delG	PTEN G293Efs*14	Deletion	Frameshift	5	3534	0.14	5	16508	0.03	HIGH				
+77c991c7-4fde-58f0-83b9-d28795862bf9	chr10:g.87961119G>A	PTEN X342_splice	Substitution	Splice Donor	5	3534	0.14	5	16508	0.03	HIGH				
+a2dbaa69-d49c-57df-a733-ebe710b41339	chr10:g.87894057C>T	PTEN P38S	Substitution	Missense	5	3534	0.14	5	16508	0.03	MODERATE	deleterious	0.0	probably_damaging	0.996
+a438cbbe-69d6-57b5-9c4e-81eb8e0b5df2	chr10:g.87952136C>T	PTEN Q171*	Substitution	Stop Gained	5	3534	0.14	5	16508	0.03	HIGH				
+b654b7f3-6dcf-5051-8775-02af89f5d737	chr10:g.87894051G>A	PTEN G36R	Substitution	Missense	5	3534	0.14	5	16508	0.03	MODERATE	deleterious	0.04	probably_damaging	0.999
+c8bafd05-584c-5b47-946e-f810ea27ef27	chr10:g.87933139G>T	PTEN G127V	Substitution	Missense	5	3534	0.14	5	16508	0.03	MODERATE	deleterious	0.0	probably_damaging	1.0
+ddbd6368-c1d4-5ab1-8108-147c0b4e10db	chr10:g.87933148delG	PTEN R130Qfs*4	Deletion	Frameshift	5	3534	0.14	5	16508	0.03	HIGH				
+fb93268d-3071-5617-a933-4813f7a11d50	chr10:g.87965286G>A	PTEN X343_splice	Substitution	Splice Acceptor	5	3534	0.14	5	16508	0.03	HIGH				
+32accdaa-5861-5508-9620-472c470525b1	chr10:g.87933129T>A	PTEN C124S	Substitution	Missense	4	3534	0.11	4	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.998
+37c2dc07-700f-5a6d-bce8-3b1f2e42efc6	chr10:g.87864540A>G	PTEN D24G	Substitution	Missense	4	3534	0.11	4	16508	0.02	MODERATE	deleterious	0.0	benign	0.193
+3b2d5fac-4573-5f4d-b896-0bd5e604a294	chr10:g.87933204C>T	PTEN Q149*	Substitution	Stop Gained	4	3534	0.11	4	16508	0.02	HIGH				
+3e1be139-1ec6-5183-8a36-0a06c73391f0	chr10:g.87952259delAGTA	PTEN X212_splice	Deletion	Splice Donor	4	3534	0.11	4	16508	0.02	HIGH				
+4ddf14ac-0668-579a-90c7-bdf0b7489ca4	chr10:g.87864510G>T	PTEN R14M	Substitution	Missense	4	3534	0.11	4	16508	0.02	MODERATE	deleterious	0.01	possibly_damaging	0.65
+54af6aff-7e09-58a9-9cb8-222fdb7905a5	chr10:g.87961114T>G	PTEN F341C	Substitution	Missense	4	3534	0.11	4	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.999
+6807a91f-09f5-5ed7-8118-8f2aaaa250ee	chr10:g.87864539G>C	PTEN D24H	Substitution	Missense	4	3534	0.11	4	16508	0.02	MODERATE	deleterious	0.0	possibly_damaging	0.684
+6b123f3e-6661-5d59-a9b4-bb399ec86b91	chr10:g.87864485delAA	PTEN K6Rfs*4	Deletion	Frameshift	4	3534	0.11	4	16508	0.02	HIGH				
+74bb3d71-4b76-5eca-888d-fb2255205c2b	chr10:g.87965286G>T	PTEN X343_splice	Substitution	Splice Acceptor	4	3534	0.11	4	16508	0.02	HIGH				
+7de5e410-5479-503e-bdf6-c4fb6fe2ac15	chr10:g.87933135G>A	PTEN A126T	Substitution	Missense	4	3534	0.11	4	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.999
+80835bef-f61d-5dc0-9452-cb43efa21054	chr10:g.87933166G>T	PTEN C136F	Substitution	Missense	4	3534	0.11	4	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.999
+8aa87262-f774-5bab-801b-607b43d35447	chr10:g.87961076delAAAT	PTEN N329Kfs*14	Deletion	Frameshift	4	3534	0.11	4	16508	0.02	HIGH				
+a2eeaa2e-99f1-5e92-a84a-74f5d815bda9	chr10:g.87960952C>G	PTEN S287*	Substitution	Stop Gained	4	3534	0.11	4	16508	0.02	HIGH				
+ba0c8854-97ce-5861-ba61-92b856d84cc1	chr10:g.87960893G>A	PTEN X268_splice	Substitution	Splice Acceptor	4	3534	0.11	4	16508	0.02	HIGH				
+bc0460ba-961e-5af8-a3b7-d48dbef1dc34	chr10:g.87933166G>A	PTEN C136Y	Substitution	Missense	4	3534	0.11	4	16508	0.02	MODERATE	deleterious	0.04	probably_damaging	0.999
+bd8761a3-ba52-5720-b237-9f93786863be	chr10:g.87933048C>T	PTEN Q97*	Substitution	Stop Gained	4	3534	0.11	4	16508	0.02	HIGH				
+cf210767-4e5a-5472-bb7a-0803cd794582	chr10:g.87960992C>T	PTEN I300=	Substitution	Synonymous	4	3534	0.11	4	16508	0.02	LOW				
+ea8c3f94-6f13-5d24-8a33-83f80d0179a3	chr10:g.87933178T>G	PTEN L140*	Substitution	Stop Gained	4	3534	0.11	4	16508	0.02	HIGH				
+f030fdfc-894b-58ea-8425-10b69f9493d7	chr10:g.87952134G>A	PTEN S170N	Substitution	Missense	4	3534	0.11	4	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.996
+f40aa7c5-c8f1-5125-846d-6beadc9d9088	chr10:g.87925524C>G	PTEN S59*	Substitution	Stop Gained	4	3534	0.11	4	16508	0.02	HIGH				
+ffc7e3d7-facc-5e72-a030-900cefe5c510	chr10:g.87952170_87952171insA	PTEN N184Efs*6	Insertion	Frameshift	4	3534	0.11	4	16508	0.02	HIGH				
+03f8f2fd-8bc6-51e4-85b2-3abffb3eca27	chr10:g.87933161G>C	PTEN M134I	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.977
+0732601f-3277-502e-b91c-289843499345	chr10:g.87952156T>G	PTEN Y177*	Substitution	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+0975656f-ee2c-51d4-a016-6e3b3667128b	chr10:g.87952171delA	PTEN K183Rfs*16	Deletion	Frameshift	3	3534	0.08	3	16508	0.02	HIGH				
+09aaf52c-8ab5-52b9-96b0-c51a9f3978ea	chr10:g.87952116A>G	PTEN X165_splice	Substitution	Splice Acceptor	3	3534	0.08	3	16508	0.02	HIGH				
+09ab73ed-540e-5d20-8c14-b86f2a458c37	chr10:g.87952260G>T	PTEN X212_splice	Substitution	Splice Donor	3	3534	0.08	3	16508	0.02	HIGH				
+0b127e83-9b83-5eea-b426-dd4c2c0e8e62	chr10:g.87961071delA	PTEN A328Qfs*16	Deletion	Frameshift	3	3534	0.08	3	16508	0.02	HIGH				
+0d76fae7-4be4-5af5-a543-ee229308f605	chr10:g.87933018C>T	PTEN Q87*	Substitution	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+1d0ef6ef-bf31-5fdf-be4d-608833ed6fec	chr10:g.87957852G>T	PTEN X212_splice	Substitution	Splice Acceptor	3	3534	0.08	3	16508	0.02	HIGH				
+23bbe70e-5f99-5649-9697-e2b7d0241e4f	chr10:g.87931048G>A	PTEN C71Y	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.999
+264bf69a-81fb-5922-b6ac-c23bfcc0f0ef	chr10:g.87933035C>A	PTEN D92E	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.998
+2dc9760f-65fe-5474-9e7b-4b01554f8ac8	chr10:g.87864498G>A	PTEN S10N	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	benign	0.123
+2ffc66b2-53be-5515-9335-9ab367a50ac3	chr10:g.87925558delGTAA	PTEN X70_splice	Deletion	Splice Donor	3	3534	0.08	3	16508	0.02	HIGH				
+38efe9e1-9af6-5e92-bc7b-71bf001ceaf1	chr10:g.87958005A>T	PTEN K263*	Substitution	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+4b0d9b68-da5a-5eb2-a9f6-b8d7198790f9	chr10:g.87894051G>T	PTEN G36*	Substitution	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+4da36ca3-eada-51c1-ae1e-c203853997c2	chr10:g.87933192delT	PTEN L146*	Deletion	Frameshift	3	3534	0.08	3	16508	0.02	HIGH				
+612011b5-c78c-5972-b321-04851525044d	chr10:g.87933061T>C	PTEN I101T	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.998
+661851c8-43b3-5bdd-8135-5274bc5c5611	chr10:g.87961098_87961099insA	PTEN Y336*	Insertion	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+70cc91bc-c4e3-53b3-a75e-8f23ebf8fa2a	chr10:g.87960909delT	PTEN W274Gfs*2	Deletion	Frameshift	3	3534	0.08	3	16508	0.02	HIGH				
+7260f682-79a6-599a-a8f9-ed8a519cddfb	chr10:g.87952146A>G	PTEN Y174C	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.964
+76e338d1-e226-5d84-8b53-d086938fabae	chr10:g.87933034A>T	PTEN D92V	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.999
+7e5072ea-d82e-5991-9e47-111f919732ea	chr10:g.87958000delAG	PTEN N262Qfs*35	Deletion	Frameshift	3	3534	0.08	3	16508	0.02	HIGH				
+8a1ca47a-c642-52e2-8370-7d9505b8d94c	chr10:g.87933126C>T	PTEN H123Y	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.996
+953f38aa-c236-5a33-b54e-3c790e7db0f5	chr10:g.87933138G>A	PTEN G127R	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	1.0
+a57380b4-ac5e-5c36-939e-5e7918271536	chr10:g.87894072G>T	PTEN E43*	Substitution	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+a948e0ec-168a-552e-b54b-af27a1b138dd	chr10:g.87952226G>T	PTEN E201*	Substitution	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+b023c88c-5c7e-5893-8a64-f30ec0e36853	chr10:g.87925543C>G	PTEN Y65*	Substitution	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+b824adb1-e212-5956-8191-a6731ac097db	chr10:g.87933033G>A	PTEN D92N	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.999
+b8cfb148-1971-5b86-86b4-e708dad8d62e	chr10:g.87957962delTG	PTEN C250Wfs*2	Deletion	Frameshift	3	3534	0.08	3	16508	0.02	HIGH				
+bc989a82-14eb-5205-a97a-c5c2c8185094	chr10:g.87933135G>T	PTEN A126S	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.998
+bef98d85-6de7-5564-a2c3-748e0d3a196b	chr10:g.87933191_87933192insT	PTEN L146Ffs*34	Insertion	Frameshift	3	3534	0.08	3	16508	0.02	HIGH				
+cba2e7fa-6139-5f2a-be66-073ce43a568a	chr10:g.87933223A>G	PTEN Y155C	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.999
+cceb4c13-f662-5ed8-8e26-0b51778e39cd	chr10:g.87957904C>G	PTEN S229*	Substitution	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+ce90bc72-10ea-51db-b59e-1bae8a7fbc1b	chr10:g.87961048delCTTT	PTEN T319Kfs*24	Deletion	Frameshift	3	3534	0.08	3	16508	0.02	HIGH				
+d804cbdf-1abc-5637-a4fb-34f2cd203a8e	chr10:g.87933136C>A	PTEN A126D	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.999
+d8a66287-8323-5e29-9a61-1257b51dddf9	chr10:g.87933236G>T	PTEN R159S	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	0.998
+da64b414-517f-5449-bdaf-1b0fba7b5e04	chr10:g.87933144G>A	PTEN G129R	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.0	probably_damaging	1.0
+e68776f4-5dcc-5a2b-a886-994ba3375fa6	chr10:g.87961100C>A	PTEN Y336*	Substitution	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+eb96c5bf-223f-5a16-84e9-2e6f36d1e616	chr10:g.87960914G>A	PTEN W274*	Substitution	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+f0876af7-e2f5-5fe1-8b69-a6eea44ba49f	chr10:g.87952250G>T	PTEN G209*	Substitution	Stop Gained	3	3534	0.08	3	16508	0.02	HIGH				
+f5daba4b-ed56-5ad8-9023-e7b0edc48489	chr10:g.87952260G>A	PTEN X212_splice	Substitution	Splice Donor	3	3534	0.08	3	16508	0.02	HIGH				
+fb10200d-7793-5226-afa4-4ccc0eb17b38	chr10:g.87894085G>A	PTEN R47K	Substitution	Missense	3	3534	0.08	3	16508	0.02	MODERATE	deleterious	0.02	probably_damaging	0.992
+004f9c53-0a69-5102-9a1b-e89b0f79689d	chr10:g.87957970G>T	PTEN G251V	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.949
+0187a67d-4a08-58f6-b427-d7b0d86552d7	chr10:g.87957852G>C	PTEN X212_splice	Substitution	Splice Acceptor	2	3534	0.06	2	16508	0.01	HIGH				
+0314e032-ed36-5d7d-9c43-add351c791b8	chr10:g.87957852G>A	PTEN X212_splice	Substitution	Splice Acceptor	2	3534	0.06	2	16508	0.01	HIGH				
+057c0136-e8b9-5b62-8a35-59e2712855b6	chr10:g.87952136C>G	PTEN Q171E	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.02	possibly_damaging	0.665
+0a3b0614-1b3d-5faf-830d-e947f1b38df1	chr10:g.87864101delGGCT	PTEN	Deletion	5 Prime Utr	2	3534	0.06	2	16508	0.01	MODIFIER				
+0b4a344e-e62a-5d7b-834c-64af53d2eed7	chr10:g.87894045G>C	PTEN A34P	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+103410e6-7f4d-51e6-af4f-ade5a05204c2	chr10:g.87933026delT	PTEN F90Lfs*9	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+10e833b9-f5a1-5ce7-9032-9160b3ea5027	chr10:g.87933129T>G	PTEN C124G	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.01	probably_damaging	0.998
+1b5ba4fb-cacf-522f-8a45-8350b732c497	chr10:g.87894058C>T	PTEN P38L	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+1cab1808-643f-5d95-8b5f-9c83c3a4620a	chr10:g.87864513G>C	PTEN R15T	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	benign	0.247
+1d919d4c-901d-5d91-9ab4-3e105a26174c	chr10:g.87960969G>T	PTEN G293*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+2208bf38-0462-5f5c-8c6e-d674d3b223bb	chr10:g.87933145G>T	PTEN G129V	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+2367d142-83db-5540-86a8-6fffe83bf8c7	chr10:g.87933154G>T	PTEN G132V	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+25bb9a7b-120a-5da9-bc96-01ccdebaf268	chr10:g.87894052G>A	PTEN G36E	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+2b177415-6c04-5751-ad1e-d650cd79fdca	chr10:g.87957879A>T	PTEN K221*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+34703507-a34b-536a-98c7-558639262f2b	chr10:g.87960945G>T	PTEN E285*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+39504cf0-3aa1-5287-b8be-bc95f5eda4aa	chr10:g.87933036C>T	PTEN H93Y	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+3a5f641b-4981-588f-9c16-19ce04054a54	chr10:g.87933073G>A	PTEN C105Y	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+3bca0518-10fc-50b8-8bec-4568be4a877d	chr10:g.87933124T>A	PTEN I122N	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.985
+3bd03b81-94e7-5110-9f5b-7d35005c6cb5	chr10:g.87933092G>A	PTEN W111*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+3c799b76-dbc2-581a-bb3e-c53bc7b659f7	chr10:g.87961044_87961045insT	PTEN T319Yfs*6	Insertion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+3d450b39-bc6f-5539-ad1f-6b18c1c347a6	chr10:g.87933053delA	PTEN E99Nfs*14	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+3f8ec310-bd5e-5c5c-b2be-86bd20363dee	chr10:g.87952230C>T	PTEN T202I	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	tolerated	0.05	probably_damaging	0.999
+3fdc3261-38ae-5f31-a3e9-fa5a322a3177	chr10:g.87894072G>A	PTEN E43K	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.04	probably_damaging	0.985
+407bcd9a-59d6-56c7-b155-2f753e8f72e6	chr10:g.87925537delC	PTEN H64Ifs*35	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+40c0f258-4470-581a-9179-2a2f29e3da9b	chr10:g.87925530A>T	PTEN H61L	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+420715da-5ec3-5cee-9d82-c7c669927bbd	chr10:g.87864485A>G	PTEN K6E	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	benign	0.051
+422bf5f8-8498-5639-9eb0-aeec170e65c1	chr10:g.87933138G>T	PTEN G127*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+45844084-b1ec-51db-9efb-f474b5737bda	chr10:g.87952133A>G	PTEN S170G	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.992
+46e2c811-31ef-5189-9690-5a65071ba774	chr10:g.87933012G>A	PTEN X85_splice	Substitution	Splice Acceptor	2	3534	0.06	2	16508	0.01	HIGH				
+47286f63-17e2-5040-89ae-d477afc4e9e6	chr10:g.87957984G>T	PTEN E256*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+473fe083-638f-545a-b904-c4202e7b9c80	chr10:g.87894088A>G	PTEN N48S	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	tolerated	0.07	probably_damaging	0.996
+49c2c41b-ea5b-573a-b6a9-1ebde0fd068a	chr10:g.87931089G>T	PTEN V85F	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.01	probably_damaging	0.999
+4e8f6481-ea55-5dd4-911a-dae217eb71e4	chr10:g.87925514delT	PTEN L57Wfs*42	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+4ea08efa-d173-57e6-b644-6557d4bf490f	chr10:g.87931062delTA	PTEN Y76*	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+4f4ba1e3-95e6-5d9c-83f4-5059dc11e7cc	chr10:g.87960922C>T	PTEN T277I	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	benign	0.332
+5095ec9f-937a-5ec0-ae3f-2dedf8a348e2	chr10:g.87957872C>A	PTEN C218*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+51255b41-7214-503f-8621-b02e5b19d11d	chr10:g.87957915delC	PTEN R233Dfs*23	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+56afa39d-2101-5742-af0f-8e259ebf1538	chr10:g.87960992delC	PTEN I300Mfs*7	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+58dff261-088e-5a35-9871-d9c2fa61d804	chr10:g.87952132delCA	PTEN Q171Efs*8	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+5a299949-f578-53f2-82d7-1e13b068f6ea	chr10:g.87925557delTG	PTEN X70_splice	Deletion	Splice Donor	2	3534	0.06	2	16508	0.01	HIGH				
+5c0cc55d-185a-5ba6-8232-ffb14d0752bb	chr10:g.87925558G>A	PTEN X70_splice	Substitution	Splice Donor	2	3534	0.06	2	16508	0.01	HIGH				
+62d6b8a3-52f4-5c6d-bbe0-5931f4f5c306	chr10:g.87957862T>C	PTEN F215S	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.767
+64e153b5-002f-5a10-be3c-81a0476bc0f6	chr10:g.87957938C>A	PTEN Y240*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+652fd525-49a7-5e74-bdbf-d1ffb792437e	chr10:g.87958020G>T	PTEN X267_splice	Substitution	Splice Donor	2	3534	0.06	2	16508	0.01	HIGH				
+66260a32-0008-509f-aff3-f7feaf0fd9d3	chr10:g.87952153T>G	PTEN Y176*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+67b1358f-6fb2-5e20-994d-e9c0888de39a	chr10:g.87925552C>G	PTEN Y68*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+68e82487-c65c-53dd-9041-5a9051fa10d7	chr10:g.87933251delG	PTEN	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+69e8a81c-b009-5f33-8d28-2e1a56be1e08	chr10:g.87864513G>A	PTEN R15K	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	benign	0.003
+6a148bfb-b6e1-5251-bc9b-99107f127741	chr10:g.87933129T>C	PTEN C124R	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+6b6dedb8-f2fb-57a1-8bb2-bac4f82b14c0	chr10:g.87957972G>T	PTEN D252Y	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.977
+6ce140de-42fd-51e3-a7c0-c2378a41834a	chr10:g.87933045C>T	PTEN P96S	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	0.999
+724ef46d-fc9c-522c-a141-c5153e2e2b52	chr10:g.87864502delA	PTEN N12Tfs*12	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+740470be-d8bf-5f42-ae11-87bed682cc76	chr10:g.87933078G>C	PTEN D107H	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+74e3a6bf-ff27-5650-a706-35a0626bae69	chr10:g.87933045C>A	PTEN P96T	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+775487ec-c778-51e6-9911-b3f4e4875eb0	chr10:g.87925532delA	PTEN N63Tfs*36	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+7b30328e-1a8e-56d5-9721-1b36f01fe5a6	chr10:g.87952203delTGT	PTEN L194del	Deletion	Inframe Deletion	2	3534	0.06	2	16508	0.01	MODERATE				
+7eb4aa39-e4df-595e-8703-9cf9a9fdf8de	chr10:g.87933033G>C	PTEN D92H	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+7ec376b8-bb85-5a58-808b-00734707eecb	chr10:g.87894026T>G	PTEN Y27*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+805e6f0c-eee3-5fbe-a554-f4d990fdc830	chr10:g.87933151C>T	PTEN T131I	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.999
+82a22284-e833-5add-81a5-a90e307213e3	chr10:g.87960976delTA	PTEN C296*	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+8437b0e7-6e52-5ea0-b584-dbf4f9e80583	chr10:g.87894110G>A	PTEN X55_splice	Substitution	Splice Donor	2	3534	0.06	2	16508	0.01	HIGH				
+86845851-e7f1-5a7d-8ee7-75dff6156f1f	chr10:g.87933120G>A	PTEN A121T	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.953
+86ffd35f-a537-569f-83a7-f45039dbb9fc	chr10:g.87961051T>C	PTEN L320S	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.99
+87d00998-34de-57be-a92a-3cf30b9d7afa	chr10:g.87961066T>G	PTEN L325R	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	benign	0.042
+881769db-9cf2-5367-886c-edff14842ae7	chr10:g.87960902G>A	PTEN M270I	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	tolerated	0.06	benign	0.437
+89121084-6e71-5aec-8776-7339010aed00	chr10:g.87961119G>C	PTEN X342_splice	Substitution	Splice Donor	2	3534	0.06	2	16508	0.01	HIGH				
+8a4c823e-98cc-5ac0-b918-79dea5cc1522	chr10:g.87961049delT	PTEN L320*	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+8c59c889-b69a-5a86-8106-7992140a0246	chr10:g.87925551A>G	PTEN Y68C	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+8f5fc5ed-f8b4-5bcc-a3c0-b5a3b57eaafb	chr10:g.87894023delAG	PTEN X27_splice	Deletion	Splice Acceptor	2	3534	0.06	2	16508	0.01	HIGH				
+91d084b9-9205-5a6a-9590-bdd33a4e2b90	chr10:g.87933078G>T	PTEN D107Y	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+9239d652-6578-59b7-96ec-8decbc076d41	chr10:g.87894076G>A	PTEN G44D	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.968
+93904da2-05c2-5ba2-adbc-cc20518aa7c3	chr10:g.87864517T>A	PTEN Y16*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+95a2deb7-0b3f-507c-89f5-478c7daab60b	chr10:g.87933054G>T	PTEN E99*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+9abca681-c21d-5c4a-b999-0a52506e1e20	chr10:g.87957939delT	PTEN F241Lfs*15	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+9cad6094-55fa-5ab2-84f7-b545694c124a	chr10:g.87931045G>A	PTEN X70_splice	Substitution	Splice Acceptor	2	3534	0.06	2	16508	0.01	HIGH				
+a1d2144a-4aaf-54bf-b59b-842aac0b187e	chr10:g.87933224_87933225insG	PTEN E157Gfs*23	Insertion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+a59a6df8-bcac-5581-bff7-7506dfb50345	chr10:g.87864516delATC	PTEN Y16_Q17delins*	Deletion	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+a5f7cc5d-adf7-5b37-be4e-d7220f27f057	chr10:g.87933061T>G	PTEN I101S	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	0.998
+a70e34a3-27d9-525b-8c05-b3364813a43d	chr10:g.87965285A>G	PTEN X343_splice	Substitution	Splice Acceptor	2	3534	0.06	2	16508	0.01	HIGH				
+a7e5cb30-ad34-567e-a04c-6adab870ca2d	chr10:g.87933167T>A	PTEN C136*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+b00302c9-eb22-5c0f-b740-54e0e54d8310	chr10:g.87933216G>T	PTEN D153Y	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.924
+b12bb40e-9bae-5151-bc6d-d1d9afcb13c0	chr10:g.87952134G>T	PTEN S170I	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+b1347d92-b88f-5923-95c6-74d68f65583a	chr10:g.87952231delTA	PTEN I203Sfs*39	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+b579689e-d6aa-56b1-8692-e4bb5947cb6a	chr10:g.87952236C>T	PTEN P204L	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.04	possibly_damaging	0.883
+b65a0381-812a-5123-9c32-8cf19cfa0b88	chr10:g.87958014A>T	PTEN K266*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+b8f5e876-eac4-51f7-a212-35458eee0b1b	chr10:g.87957913_87957914insA	PTEN R233Tfs*10	Insertion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+b96698bc-1922-5a8c-b91e-02462443452b	chr10:g.87960904T>C	PTEN F271S	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.954
+bbcfdb85-6aff-52d5-9c92-525bec94814f	chr10:g.87961118G>A	PTEN K342=	Substitution	Splice Region	2	3534	0.06	2	16508	0.01	LOW				
+bf425296-06f4-57e1-9125-a1d3f2a7013c	chr10:g.87933169C>T	PTEN A137V	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.02	possibly_damaging	0.858
+c419cf1f-42a8-54fe-852c-bbc6ee5cc531	chr10:g.87952125C>G	PTEN T167S	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.861
+c426904d-cf54-5017-84ef-d0c3c1420b47	chr10:g.87864515_87864516insA	PTEN Y16*	Insertion	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+c4b851fe-0832-5fef-9d0d-971087f0bd0d	chr10:g.87957954C>T	PTEN P246S	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	tolerated	0.18	possibly_damaging	0.767
+c5817480-732f-56ec-ae5d-b86b5aed4e86	chr10:g.87961032G>T	PTEN E314*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+c59cf824-94ae-5559-a041-9b18400b2e3f	chr10:g.87960913G>A	PTEN W274*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+cc442695-2587-5616-995d-3e08cfbbd100	chr10:g.87961118G>T	PTEN K342N	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.04	probably_damaging	0.979
+cda76adf-8bf5-58cb-b966-50845e34b53f	chr10:g.87961051T>A	PTEN L320*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+d052a187-f312-5e17-919b-5851e0db6a8b	chr10:g.87957921G>T	PTEN E235*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+d0fb4528-af46-56d7-8930-4b46cbdefb31	chr10:g.87933196T>A	PTEN L146*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+d4cae586-ad67-542f-b6ba-1ae80308cc7c	chr10:g.87933126C>G	PTEN H123D	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+d7d8427d-72a3-58b2-a665-d2a339922404	chr10:g.87933043C>T	PTEN P95L	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+d92fe739-65d8-53c3-920d-94fe0a375c19	chr10:g.87933147delC	PTEN R130Efs*4	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+db47856c-af7c-5f67-a3fe-83af6bc1f18b	chr10:g.87894048A>G	PTEN M35V	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.914
+dcbbdb55-1775-55d1-9732-d55ff4b0ef32	chr10:g.87864548T>G	PTEN Y27D	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.04	benign	0.007
+dce0c4b3-60ab-533f-82a1-3467a4f4a38f	chr10:g.87933244A>T	PTEN D162V	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.985
+dee2adc7-c74a-5654-819e-e05238d67cb3	chr10:g.87933141A>C	PTEN K128Q	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+df7d8408-8bc7-55bd-ab3c-0e59e491ac3e	chr10:g.87894087delA	PTEN N48Tfs*6	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+e2318d09-6314-5195-b97f-637e51cc796c	chr10:g.87933252G>A	PTEN X164_splice	Substitution	Splice Donor	2	3534	0.06	2	16508	0.01	HIGH				
+ef19af61-414b-55f2-a6a2-e6227b582f10	chr10:g.87960968_87960969insG	PTEN S294Kfs*4	Insertion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+efd8bbec-1e0b-5c7c-881e-90d80b466314	chr10:g.87952167T>C	PTEN L181P	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.816
+f0ee4863-4dde-5b93-8416-cf1cfd522fca	chr10:g.87960942G>T	PTEN E284*	Substitution	Stop Gained	2	3534	0.06	2	16508	0.01	HIGH				
+f20f43ea-bb25-581e-894e-ef254dbfb0b2	chr10:g.87931044A>G	PTEN X70_splice	Substitution	Splice Acceptor	2	3534	0.06	2	16508	0.01	HIGH				
+f56034c1-6c88-5f12-93e2-d66114c0b34b	chr10:g.87957973A>G	PTEN D252G	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.862
+f9e41ef1-6dc1-5807-8d09-9123ee3ea415	chr10:g.87957947delC	PTEN P244Lfs*12	Deletion	Frameshift	2	3534	0.06	2	16508	0.01	HIGH				
+fb759877-4da2-5ee7-97ff-7d05f8440ff7	chr10:g.87957956G>A	PTEN P246=	Substitution	Synonymous	2	3534	0.06	2	16508	0.01	LOW				
+fba2cb89-2f61-5b27-a15b-cf7e8c4b7604	chr10:g.87894046C>T	PTEN A34V	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.994
+fc11c7f3-e2a6-5aa9-b20a-eabcb2de6bb4	chr10:g.87894085G>T	PTEN R47M	Substitution	Missense	2	3534	0.06	2	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+0004edc1-2c82-53c8-8820-0eed4877e247	chr10:g.87864559C>T	PTEN	Substitution	Intron	1	3534	0.03	1	16508	0.01	MODIFIER				
+0050d24d-dd45-57f7-b292-97d9c23fbaa3	chr10:g.87925545A>C	PTEN K66T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.998
+00b212d1-41c9-5551-a52b-d16c2ca87c16	chr10:g.87960950delCTCAGAAA	PTEN E288Rfs*7	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+01204f33-6f2a-57b0-b49c-950c07abcdf3	chr10:g.87864489_87864490insTT	PTEN E7Dfs*2	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+0168d9fb-52e4-5623-9fdf-9d7013fd988f	chr10:g.87933099G>T	PTEN E114*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+01931549-8d24-5921-b566-a8fd0e45ca46	chr10:g.87894026T>A	PTEN Y27*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+0195071a-a71c-5912-9e47-c7e0af339f6d	chr10:g.87952158A>G	PTEN Y178C	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	probably_damaging	0.997
+01b5770f-b229-5e61-93ab-455af1023ea8	chr10:g.87957976T>A	PTEN I253N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+01e058a0-0fdd-5050-a79f-f5d90ba92c45	chr10:g.87952256_87952257insG	PTEN C211Wfs*32	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+01fa5022-2b2b-5b01-9555-7682c648b279	chr10:g.87933011A>T	PTEN X85_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+021e6872-62da-52d1-9288-055a666f3f49	chr10:g.87933221C>A	PTEN F154L	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.07	possibly_damaging	0.813
+02c0f974-5e70-57cb-be6f-071329737493	chr10:g.87931056_87931057insG	PTEN H75Tfs*3	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+0363f17e-f1c5-5602-9e52-da9e056ae931	chr10:g.87894079_87894080insATAC	PTEN R47Ifs*6	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+03cfe42c-66ff-5fba-8f9f-b0dbb5ca8983	chr10:g.87952141G>A	PTEN R172=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+0463a6ad-4e60-5672-ba05-ee01d84e5021	chr10:g.87864514A>C	PTEN R15S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.123
+04930745-3f3d-557a-93e7-f284bc0048fd	chr10:g.87864548delTGTATCCAT	PTEN X27_splice	Deletion	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+04fe8aff-ad55-5e11-85dc-ba0d421e687d	chr10:g.87958021T>C	PTEN X267_splice	Substitution	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+05154dcd-8381-55b0-90c9-8db98286c306	chr10:g.87957938C>G	PTEN Y240*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+052298e4-9191-59fa-b429-773b87a0405a	chr10:g.87952156T>C	PTEN Y177=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+058179b8-11b9-5b85-88ac-a4bb1508d022	chr10:g.87933057C>T	PTEN L100F	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.06	probably_damaging	0.999
+05944b75-0fae-50c3-ab9f-ffa6eb718196	chr10:g.87894067G>C	PTEN R41T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	possibly_damaging	0.628
+05c25c08-3fa6-59fd-ae9c-c54d2f2606cf	chr10:g.87957945delT	PTEN F243Sfs*13	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+0608b20d-254d-5b4d-804b-aaf16bf8fff2	chr10:g.87952256_87952257insGC	PTEN N212Afs*10	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+06656af0-a758-537d-b3d1-36a4e34b44c9	chr10:g.87894043T>A	PTEN I33N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.942
+06921a88-f0e2-5214-810b-6a93b68d67fe	chr10:g.87894079T>A	PTEN V45E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.852
+06eddb9e-ddf8-537c-aefc-a167b8287490	chr10:g.87933115T>G	PTEN V119G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.99
+07095534-f63c-593c-a976-bbe72fa76c2b	chr10:g.87952216delGAT	PTEN M199del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+0711602d-2bc4-5845-8c4b-2f6006d0d8ee	chr10:g.87933082T>C	PTEN L108P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.959
+07265fb8-fb17-552f-bd8c-4c68439cf30d	chr10:g.87933090T>G	PTEN W111G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.784
+0788edc8-e327-58d4-92a5-b6fd18484575	chr10:g.87931054delA	PTEN R74Dfs*25	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+08b34d70-87f5-52dd-a0ed-851a57402deb	chr10:g.87933150A>G	PTEN T131A	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+08ec4075-578d-5b1f-ab3d-94ebcc52fbb0	chr10:g.87933137delTGG	PTEN G127del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+091894c4-6b0d-5fa7-a140-a45bd50bac2f	chr10:g.87933131T>G	PTEN C124W	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	0.999
+0982c427-f8cb-592f-9121-c4f6e55f3c75	chr10:g.87894057C>A	PTEN P38T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+0a6ed242-c530-53e3-83b8-41b3d5312482	chr10:g.87933153G>A	PTEN G132S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+0b74c7f0-8c49-5946-a5a2-6533e393ed42	chr10:g.87933084G>T	PTEN D109Y	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+0b7a83ae-cf4c-5eda-a80b-d08bdcb249da	chr10:g.87970387A>C	PTEN	Substitution	3 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+0bbe7caf-2547-577c-87f0-53da06256191	chr10:g.87931076delAT	PTEN K80Nfs*2	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+0c166417-5945-5095-8886-a7dd6f0ba42d	chr10:g.87961045delTTACT	PTEN T319Nfs*4	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+0d55be51-f879-57df-bcc5-0f562c93a739	chr10:g.87960843delAATTAAATATGTCATTTCATTTCTTTTTCTTTTCTTTTTTTTTTTTTTTAG	PTEN X268_splice	Deletion	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+0df89381-fe85-56fe-a784-d97f5fb31f47	chr10:g.87894081T>C	PTEN Y46H	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.04	probably_damaging	0.996
+0e5a3146-4991-5ab1-8e87-ef5862100572	chr10:g.87960907A>G	PTEN H272R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	benign	0.332
+0e945923-2238-5b7a-a528-86ea205cd5de	chr10:g.87966887T>G	PTEN	Substitution	3 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+0ef091c6-a2cc-5cfe-bcee-172ffe2b61c0	chr10:g.87952243C>G	PTEN F206L	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.14	benign	0.015
+0f134539-6b0b-52b5-bfbd-057b63013df7	chr10:g.87961048C>T	PTEN T319I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.09	possibly_damaging	0.575
+0f9f1030-eeab-5f20-b2da-375df8cfc1b7	chr10:g.87961014C>T	PTEN R308C	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.14	benign	0.003
+100ce0c2-c9d7-5109-91b2-352b68bc92e9	chr10:g.87952154T>G	PTEN Y177D	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.64
+1093ea13-fb56-5374-8368-c72773a50101	chr10:g.87952209T>C	PTEN F195S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.958
+111b3ed8-ec46-570b-8a11-f43f7726ebdd	chr10:g.87864533delGACTTA	PTEN D24_L25del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+120d7c70-f2ee-5546-803d-623757c73934	chr10:g.87925555delTC	PTEN A72*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+13061d04-4af9-594c-a6e7-5a74d8526fe9	chr10:g.87933193T>G	PTEN F145C	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.04	probably_damaging	0.999
+130feb08-bed2-50f8-8cc7-7d77ff780308	chr10:g.87864517delT	PTEN Q17Kfs*7	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+133ec748-51a6-5aaa-b715-32fc0ce4fe2c	chr10:g.87961070delCAAAG	PTEN A328*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+13620e12-b5d7-53e2-bf08-0ca3fc8d28ea	chr10:g.87952261T>C	PTEN X212_splice	Substitution	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+136f3727-90ea-5a0f-83b6-87578ed8154a	chr10:g.87960906C>T	PTEN H272Y	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.945
+138669b5-ce7e-5aca-8b2d-9a5dfcef6eb2	chr10:g.87957974_87957975insA	PTEN I253Nfs*45	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+13e4eece-d719-5703-a3d7-b5412b60b9da	chr10:g.87925550T>C	PTEN Y68H	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	probably_damaging	0.999
+145d31a6-9f7f-54e4-9270-6a0a52635a28	chr10:g.87864514_87864515insT	PTEN Y16Lfs*28	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+146df2a0-b87f-589d-ada6-191243dc735a	chr10:g.87957868T>A	PTEN V217D	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	0.969
+14c4c5f4-4cff-5c4a-9eb0-0d4834c0dd33	chr10:g.87864482delATCAAAGAGAT	PTEN I5Rfs*2	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+14f51aab-772b-5beb-bab3-4017d57d8871	chr10:g.87957906G>T	PTEN G230*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+15498a05-3b12-58e3-ba40-b3bd9bf0b964	chr10:g.87965301C>A	PTEN F347L	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.13	probably_damaging	0.992
+15bed56c-5870-510c-8ada-83edcf62568d	chr10:g.87925524C>A	PTEN S59*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+16140a4e-b255-570c-9193-e19b8a7e402a	chr10:g.87925548T>C	PTEN I67T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.828
+165a0730-8c9d-56a8-a48e-89bd99ab0b73	chr10:g.87864541C>G	PTEN D24E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.06	benign	0.193
+166ad52a-5c4e-552c-8ddc-c6af4b43a478	chr10:g.87894040delT	PTEN I33Lfs*21	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+16732cfa-bbb8-55c5-8801-bd6b632d2b3d	chr10:g.87933162A>G	PTEN I135V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.28	probably_damaging	0.987
+1763044b-6ffd-5fc3-8acb-13f72d87eecd	chr10:g.87933128_87933129insTG	PTEN K125Vfs*10	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+1794204e-6b59-52e8-ad59-75d401dae884	chr10:g.87957888delAT	PTEN Y225Ffs*17	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+1808002c-b5d5-5cdf-8771-f92539183fd2	chr10:g.87961052delAACA	PTEN T321Kfs*22	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+187ab75d-2904-5d9f-b442-58ab87b91eed	chr10:g.87864497A>C	PTEN S10R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.188
+18e1e9d8-90ee-5e53-b376-68b0d2399dbe	chr10:g.87960970G>A	PTEN G293E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.04	probably_damaging	0.992
+199af5ff-a1f9-56c4-ae1b-3abe0d2dc5ee	chr10:g.87933144G>T	PTEN G129*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+19d50af1-a7cf-57b0-8e75-2f482821c4f8	chr10:g.87957869delC	PTEN C218Afs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+1a2b429a-1c8a-5b90-8d13-1ced7889d79e	chr10:g.87933253delT	PTEN X164_splice	Deletion	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+1a95915f-1e93-56fb-b9db-b06807e569cb	chr10:g.87933111_87933112insA	PTEN H118Qfs*8	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+1aa783c5-7b8f-590b-8b58-956c49e3fbde	chr10:g.87864508delAAG	PTEN R15del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+1ac5e3aa-1ef3-5125-ba41-cf9ceff8e8bd	chr10:g.87957915_87957915insGA	PTEN R233Efs*10	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+1acc0bc2-580b-5830-b02d-68a15b25740a	chr10:g.87952168_87952169insT	PTEN L182Ffs*8	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+1adad858-8d5d-50e6-a1e5-7b8f21e26c86	chr10:g.87933139G>A	PTEN G127E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	1.0
+1b792425-e50d-5fb0-a6e7-90696cb4101b	chr10:g.87894045G>T	PTEN A34S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	probably_damaging	0.991
+1be0791f-47ec-582f-82c6-0518b6ab5b9d	chr10:g.87960907A>C	PTEN H272P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	probably_damaging	0.977
+1be36800-14c7-56c9-b37a-a182c4274882	chr10:g.87957940T>C	PTEN F241S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.05	benign	0.033
+1c2a9cea-7825-5cb4-a118-07d1c4784395	chr10:g.87894083C>G	PTEN Y46*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+1c47cd55-5440-5230-8742-23f4a6a07613	chr10:g.87952125C>A	PTEN T167N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.955
+1c61d101-0cf9-5f89-8070-93ebe6e46d10	chr10:g.87957960delCCTGT	PTEN P248Vfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+1c740d4b-c75e-5e1e-abe9-83e68fee09a0	chr10:g.87925554A>C	PTEN N69T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+1cbb6b96-9d06-5adf-a107-375b0270b19e	chr10:g.87966392C>T	PTEN	Substitution	3 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+1d808ca0-249b-540c-b4ad-a6caec718746	chr10:g.87894031delATCCAAAC	PTEN P30Yfs*11	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+1daefb8a-3ab7-543c-a45e-c22168fdecae	chr10:g.87957987T>C	PTEN F257L	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.2	benign	0.069
+1dc199fe-40f4-5aba-8034-9dabb9bba173	chr10:g.87933125T>G	PTEN I122M	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.977
+1dd0a2d7-f876-547e-9bc6-f31c0c894040	chr10:g.87925541T>G	PTEN Y65D	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+1ddb8e22-30e7-5267-8744-859cd36d011c	chr10:g.87933130G>T	PTEN C124F	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+1e775f62-07b1-569e-8f5d-6fc5fc4bf419	chr10:g.87894025A>G	PTEN Y27C	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.05	possibly_damaging	0.733
+1f44919f-5e2c-58a4-b219-a76d8f3579a8	chr10:g.87933143G>C	PTEN K128N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	0.998
+20a281ed-1673-5c4d-8508-8ee8efbbb721	chr10:g.87957992delC	PTEN H259Tfs*7	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+20f111fa-e71f-54fd-b521-e8e1217024f1	chr10:g.87925550_87925551insA	PTEN Y68*	Insertion	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+20f31bc6-5332-5433-bb35-6a9b8bddee7f	chr10:g.87933041delC	PTEN P95Hfs*4	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+223e3184-a0b6-5bad-9aa7-674d479b5af4	chr10:g.87894054delTT	PTEN F37Sfs*6	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+226a74c6-131d-5b66-b243-0e3cf5405a25	chr10:g.87958018delAG	PTEN K267Rfs*30	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+228f7a97-e228-5f77-9c4d-a72c1f1e3e58	chr10:g.87957972G>A	PTEN D252N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.934
+229fbb47-9ccd-5c4f-99d5-a170b355e596	chr10:g.87961023delA	PTEN N311Mfs*6	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+232bbdad-743d-5f9c-b667-9df607ddc05d	chr10:g.87961030delAGGAATATCTAGTACTTACTTTAACAAAAAATGATCT	PTEN K313Mfs*19	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+2416c19c-167a-59ea-8900-487c6fbd8687	chr10:g.87957919_87957920insGGCCCCCC	PTEN E235Afs*24	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+25231f66-7b90-5799-a5a4-5d483790b4ee	chr10:g.87961060delATGATCTTGACAAAGCAAATAAAGACAAAGCCAACCG	PTEN D324Tfs*8	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+25c1662a-e29f-505b-8592-846920079da6	chr10:g.87952209_87952210insTC	PTEN H196Lfs*4	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+262dcfba-318d-506b-a809-51a2cc347315	chr10:g.87952156T>A	PTEN Y177*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+263cccd8-6005-5c64-bf6c-576d69258911	chr10:g.87952125_87952126insTAGT	PTEN I168Sfs*13	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+277cf738-aa7f-5cad-97c8-5ff9e713964c	chr10:g.87933254delAA	PTEN	Deletion	Splice Region	1	3534	0.03	1	16508	0.01	LOW				
+27817b38-dda8-5897-8888-b7c2076b427c	chr10:g.87864505delCAAAAGGAGATAT	PTEN R15Mfs*5	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+27a11755-a419-586a-abd8-29e947d470b0	chr10:g.87957885delA	PTEN K223Rfs*33	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+27c3ef7a-2737-5ec0-a8be-21a0d37be2bb	chr10:g.87957970G>C	PTEN G251A	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.844
+29927957-4ca7-5f74-a268-547ea46ee964	chr10:g.87960943delAGGAAACCTC	PTEN E285Kfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+299b89cb-eedf-5eee-821b-5b776b53ae91	chr10:g.87961011delGAGC	PTEN E307Vfs*9	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+2aba20cf-b6d3-5e73-99c0-cb4679ad172f	chr10:g.87952254delC	PTEN T210Ifs*11	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+2b0d8c3d-6187-5873-92e9-93805196e265	chr10:g.87957935delG	PTEN M239Ifs*17	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+2bece16a-2895-5aef-9820-9a31cf3c7211	chr10:g.87960981G>A	PTEN D297N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.15	benign	0.005
+2c07b80f-a913-58ea-b410-3f3188a79765	chr10:g.87957904C>A	PTEN S229*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+2d57c9c4-d6c2-56af-bab2-5bf3538f4d81	chr10:g.87864492delT	PTEN I8Tfs*16	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+2e32f3a7-5020-5ba1-821c-ac82b592802d	chr10:g.87933160T>C	PTEN M134T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	0.985
+2f6ccd77-b586-5672-9932-b5f2cbc7cb3f	chr10:g.87961048_87961049insT	PTEN L320Ffs*5	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+2f9a0e39-aec9-546d-944c-d6aea61e6c09	chr10:g.87933163T>A	PTEN I135K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	0.999
+2fb630d8-3cf6-565c-9c49-2725ac077478	chr10:g.87960915_87960916insTAA	PTEN V275_N276insI	Insertion	Inframe Insertion	1	3534	0.03	1	16508	0.01	MODERATE				
+3016fb0e-90f1-5de7-97a4-e4f6592e3bc2	chr10:g.87957893T>G	PTEN Y225*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+30246d60-9dab-5024-af98-50c28ce181d9	chr10:g.87894060G>C	PTEN A39P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+3142e1ef-4de2-5bff-8241-0acac9b75514	chr10:g.87931053delGAAA	PTEN E73Dfs*25	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3156b7fd-972c-516e-a7eb-5b38ac2f034a	chr10:g.87894049T>A	PTEN M35K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.942
+318ad295-0980-5d6d-b608-90d48a7c0696	chr10:g.87933186delGGCAAATTTTTAAA	PTEN K144Tfs*31	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3216913d-0731-509e-81ac-ca8048b2709c	chr10:g.87864537T>G	PTEN L23*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+324d088e-312e-517a-aef8-b8e951d3914c	chr10:g.87864515delT	PTEN Y16Ifs*8	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+32bc9f0a-6544-5975-9173-56609ee82f6a	chr10:g.87960901T>C	PTEN M270T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	possibly_damaging	0.696
+3302f0b2-2c32-51a6-b1cb-0ed826e05219	chr10:g.87960920T>G	PTEN N276K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+33156b3c-915e-596d-88d4-f2666a9c47d3	chr10:g.87933079A>T	PTEN D107V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+33a72957-1644-53ba-9b4e-b8564a2790be	chr10:g.87863818G>A	PTEN	Substitution	5 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+33b30b83-d5f9-50a8-b048-a74cbb62e149	chr10:g.87957958T>G	PTEN L247*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+33c1bc55-3954-58c3-af25-223dc2efb3ba	chr10:g.87894040T>G	PTEN I32S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.991
+340335cc-f91b-5365-80e8-faa4c1b3f97c	chr10:g.87933125T>C	PTEN I122=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+34dfa6ce-d6a5-5238-9032-878b51ed3af5	chr10:g.87933202_87933203insA	PTEN Q149Tfs*31	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+350a9758-8b48-5c50-9796-c421be3c810f	chr10:g.87933240delAG	PTEN D162Qfs*17	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+355caeab-ab2e-5925-a292-3b95201ced8e	chr10:g.87965290delA	PTEN K344Sfs*8	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+35a5996a-0dbd-53f8-899d-f0ad96cced9b	chr10:g.87952259delAGT	PTEN X212_splice	Deletion	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+35ad249e-f43e-5125-ad55-c49c12f5e2d7	chr10:g.87952136C>A	PTEN Q171K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.751
+35b84c65-74b3-5b75-9e06-b2f8f180e276	chr10:g.87961075delCAAATAAAGACAAAGC	PTEN N329Tfs*10	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3661be12-e1b2-5aa6-b663-156a350155e3	chr10:g.87864506A>G	PTEN K13E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.212
+3665e641-91dc-5998-99fc-eb7343c99bdb	chr10:g.87925524delCAAAGCATAAAAAC	PTEN K60Lfs*9	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+36f7737c-b8cd-5bc8-941f-bcaddbb8f5b7	chr10:g.87894099_87894100insA	PTEN D52Efs*11	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+380e7acd-efe8-505f-a29e-150ed2a0ed5f	chr10:g.87933235G>A	PTEN R159K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.04	probably_damaging	0.992
+382b8f94-1482-5f0a-9032-4bc23c5aa509	chr10:g.87931047T>C	PTEN C71R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+385fa608-af99-5bc5-9e44-52af806ab4fe	chr10:g.87961031delG	PTEN E314Nfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+38c2aad1-9e85-5330-8ebf-2f13d449ecd0	chr10:g.87952131C>A	PTEN P169H	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+390f10d3-7560-58c2-9bdf-9d9d99354da6	chr10:g.87957956_87957956insCCT	PTEN P248Yfs*9	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+39764ece-9192-5378-b219-c59c1db63d0f	chr10:g.87960921_87960922insCATTGAGGGGAAATC	PTEN T277_F278insLRGNP	Insertion	Inframe Insertion	1	3534	0.03	1	16508	0.01	MODERATE				
+3978066d-c5fd-588a-bbf3-ba7dd5a0612e	chr10:g.87960962delA	PTEN E291Kfs*16	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+397f3fb8-eb9f-5917-a69c-a825d135ef29	chr10:g.87961105delCTCCAAATTTTAAGGTCA	PTEN X338_splice	Deletion	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+39e83213-f556-5fd9-8c75-f73fcd901e48	chr10:g.87952214delA	PTEN K197Rfs*2	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+39f22820-f6ff-55fc-bab5-ffa84f11234b	chr10:g.87894058C>G	PTEN P38R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.998
+3a05acf1-ca5d-52b0-b3eb-f6e3cb3e7791	chr10:g.87965373delC	PTEN D371Efs*45	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3a07bc74-cef4-51b9-8a26-fa2a007ae2c2	chr10:g.87931064T>A	PTEN Y76*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+3a2321c2-c46d-5ea8-ada8-cfb1b1f3baac	chr10:g.87894058delCTGCAG	PTEN P38_E40delinsQ	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+3b4347b8-6a9f-5706-a4ae-da034727b675	chr10:g.87894095delTG	PTEN D51*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3bb42ded-d862-51b0-b901-c0eb721b7879	chr10:g.87957953_87957954insC	PTEN L247Vfs*6	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3bf3d15d-6c42-5db3-878d-fe47b0e5f566	chr10:g.87961047delACTTTAACAA	PTEN T319Kfs*22	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3c1213e8-0ffa-546f-a249-ceef340c96e1	chr10:g.87952116A>C	PTEN X165_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+3c92cec1-4f2b-55f6-aef3-acc231fc8c58	chr10:g.87864505_87864506insA	PTEN R14Kfs*30	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3cf06f18-14c8-561d-b12d-989625417767	chr10:g.87952124A>G	PTEN T167A	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.682
+3d6dd2bb-3b7b-5de5-839d-5bce15485d6e	chr10:g.87933184G>C	PTEN R142P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.18	probably_damaging	0.992
+3d7eaf4d-b0e7-51bd-9220-9c3895d2eda3	chr10:g.87952128delT	PTEN S170Vfs*13	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3d9f21d9-42cb-5e57-a941-fd8c9672d9c3	chr10:g.87961021A>G	PTEN D310G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.39	benign	0.0
+3dd3c9dd-54fe-5c85-890c-a17b4f073cb3	chr10:g.87931066delAC	PTEN T78Rfs*4	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3ea1909e-0780-577e-9c74-80bee68dabaf	chr10:g.87925559delT	PTEN X70_splice	Deletion	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+3ec52560-f219-5e8d-a90b-a44b27181b61	chr10:g.87957951C>G	PTEN Q245E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.21	possibly_damaging	0.492
+3f4b095f-9092-53e9-baef-93f3358299ad	chr10:g.87961076delA	PTEN N329Ifs*15	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3f66a681-8b6d-5625-9956-1325778a1126	chr10:g.87957956_87957956insTCCGC	PTEN L247Pfs*7	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+3fad005f-8b50-5287-9ac1-bd221b401a7d	chr10:g.87957864delGTG	PTEN V217del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+3fe418b1-97a2-59d4-9676-a5f00769e33f	chr10:g.87933176delATTACATCGGG	PTEN L140Qfs*36	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+40305146-0a78-52d1-a11e-63e2f6af401d	chr10:g.87894081T>A	PTEN Y46N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+41b4c812-97b7-5a2f-ae8c-49bab4f00dcc	chr10:g.87933130G>A	PTEN C124Y	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+4234105b-0df6-5684-8915-7fff28474082	chr10:g.87957941T>G	PTEN F241L	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.45	benign	0.123
+43294c88-113f-5120-9340-e44a7c5deefe	chr10:g.87933021T>G	PTEN Y88D	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.93
+4340cbd2-418c-522b-a0f9-36ad1aa8fa32	chr10:g.87864486A>C	PTEN K6T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.127
+437bf7a3-058b-5586-9705-1e892ea8a4e4	chr10:g.87933229delAAGT	PTEN V158Gfs*8	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+441ad5aa-56fa-5718-b5c5-9388b82f9fc3	chr10:g.87894071delTGAAGGCGTATACA	PTEN G44Qfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+44b261e2-1549-5b1c-8662-44233bb2905e	chr10:g.87933159delATG	PTEN M134del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+44b9539d-36d3-5792-b0e4-21187f4974f3	chr10:g.87864482A>G	PTEN I5V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	benign	0.021
+4528c26d-33d8-51ae-9557-d1be9a06f6c7	chr10:g.87933037A>C	PTEN H93P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+46273416-f998-5a4e-ba58-b82f74bc240a	chr10:g.87952203delT	PTEN L193Rfs*6	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+46b41724-0462-5e7c-aba8-0237c25ea1e3	chr10:g.87894033delC	PTEN P30Qfs*24	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+46c82167-c724-5b88-9a0e-5d0c337f8c8b	chr10:g.87894049T>C	PTEN M35T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.942
+474fd2f2-af69-53b4-b304-cc8ce8e6fd82	chr10:g.87961046delTA	PTEN T319Ffs*5	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+47706509-1c67-5f8d-8f8e-17d67d59f8a6	chr10:g.87960949C>T	PTEN T286I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.21	benign	0.023
+47efb11f-7026-5216-8943-f94d903387b5	chr10:g.87957877delT	PTEN L220Qfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+4815ca87-d45a-54e4-8288-a98dc1ad2b35	chr10:g.87957916_87957917insCCCT	PTEN R233Pfs*24	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+483980a1-88b5-5877-9f77-355f18e49389	chr10:g.87933201G>T	PTEN A148S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	benign	0.371
+48e4a419-bbdb-59d5-9ccf-73f9cd786d1e	chr10:g.87952212_87952213insC	PTEN K197Qfs*5	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+49eaa25e-046f-5859-bc5f-3bb303da7830	chr10:g.87957907G>A	PTEN G230E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.27	benign	0.129
+4a55fc39-1475-53ab-ad1e-a3b1b242fd3b	chr10:g.87864523delG	PTEN D19Mfs*5	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+4a69a107-db36-5db6-b600-4eaf8ab2554d	chr10:g.87894085delG	PTEN N48Tfs*6	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+4b1a5c36-0b09-5bed-83aa-4d6a2aa75876	chr10:g.87965293C>A	PTEN L345M	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.14	benign	0.186
+4be1311c-0aa0-59e6-862c-d88fec27ea07	chr10:g.87952241T>C	PTEN F206L	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.14	benign	0.015
+4c51c7a4-1121-5cbe-87a7-2feab49833bc	chr10:g.87961120T>A	PTEN X342_splice	Substitution	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+4cc68685-9d64-5e93-99ec-a69b7dff1fce	chr10:g.87894100delA	PTEN D52Vfs*2	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+4d0c4aae-56ae-56a9-9f2b-bd84714f3bd8	chr10:g.87894110G>T	PTEN X55_splice	Substitution	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+4d14c0c4-a9fe-5609-ba3b-7bbbbdca5746	chr10:g.87961022_87961023insC	PTEN N311Qfs*2	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+4d36fc24-4357-561d-8019-78488cdced9d	chr10:g.87952171delAA	PTEN K183Efs*6	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+4d9bbbf4-d0a6-5ac9-a79f-f682f5f61f70	chr10:g.87952260delGTAAGTGCTT	PTEN X212_splice	Deletion	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+4da179ff-db50-50b5-9bd8-8bd48d5a6b48	chr10:g.87933244A>G	PTEN D162G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.869
+4e344b25-e71c-5610-b0cc-be883e1900e3	chr10:g.87933226G>A	PTEN G156E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.837
+4e4d411a-3b6d-5ed9-93fb-eb6aec531d3b	chr10:g.87957942delG	PTEN E242Sfs*14	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+4ea7f78d-776a-5eb5-931f-62f91f367910	chr10:g.87965298C>G	PTEN Y346*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+4f386de9-f40e-51c3-970f-58b86a1ee87e	chr10:g.87933072T>G	PTEN C105G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	probably_damaging	0.998
+4f602a1d-4bbb-5b1d-add9-6294584c152d	chr10:g.87961054C>G	PTEN T321R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.58	benign	0.007
+4f786810-53e5-5ea8-85b0-1a70c61edcbc	chr10:g.87864529A>G	PTEN G20=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+4f8a07ec-63b7-5913-8b13-ca93fda1ff6e	chr10:g.87933152delTGGTGTAATGATATG	PTEN G132_C136del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+4f98e942-f7da-50d0-b539-852b7bda471f	chr10:g.87933196_87933197insAA	PTEN A148Rfs*6	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+4fe794c7-562b-55c0-ac93-e8ed04177277	chr10:g.87925536delACCATT	PTEN H64_Y65del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+4ffcb697-3b3c-52ae-a519-555bc2a7d1fd	chr10:g.87863744C>T	PTEN	Substitution	5 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+5018b7e2-a1ad-53d1-b4d2-5b12b5e87df7	chr10:g.87933127A>G	PTEN H123R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+503ec29d-a35e-5ba2-aad0-d04dff688dca	chr10:g.87961043_87961044insCTTACTT	PTEN L320Sfs*7	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+505ba5f9-b7c9-5e8b-8b8e-41e6427b0b41	chr10:g.87864513G>T	PTEN R15I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.403
+509eb283-7595-5207-bbd5-d9fa9f44b405	chr10:g.87925535A>C	PTEN N63H	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.671
+50e1bcb8-ae19-54f9-b614-099080074853	chr10:g.87925530A>G	PTEN H61R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+510c0e2e-cef6-516c-8c41-1a7e780329e5	chr10:g.87965901G>A	PTEN	Substitution	3 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+5131034a-9042-53bb-9196-7fd4a3183785	chr10:g.87933016C>T	PTEN A86V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.08	possibly_damaging	0.545
+516285b7-c600-54f0-a01d-e72af7235f7f	chr10:g.87961096G>C	PTEN R335P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.968
+516d01f9-5ffd-5c3d-a795-5f437c532865	chr10:g.87952218T>C	PTEN M198T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.122
+5183e1cf-a13c-50fe-9e57-b9ff2494e526	chr10:g.87960928T>C	PTEN F279S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.966
+525b53bc-d9be-5d8c-b999-e86cbfbaa2af	chr10:g.87894089C>A	PTEN N48K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+52866132-876d-56bb-a512-7101b96bfc76	chr10:g.87894041delTATTGC	PTEN I33_A34del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+53c129dc-fd9d-519b-8db0-698d28b87cb4	chr10:g.87933119_87933120insCC	PTEN A121Pfs*14	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+554ea2e4-bb20-5c59-8ee7-54cdec0f83da	chr10:g.87957917_87957918insGGGAACCCCCACGTAA	PTEN R234Gfs*5	Insertion	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+55603abd-86a2-5ccd-914d-88830d5caf59	chr10:g.87894057delC	PTEN P38Lfs*16	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+559c122b-cf7c-576e-9eea-d3adae6fc590	chr10:g.87957918_87957919insTCGTA	PTEN R234delinsS*	Insertion	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+560a9426-ee66-5b54-99e0-760e6003e92b	chr10:g.87894038C>G	PTEN N31K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	0.994
+56b5eea2-5bce-5d72-ad48-b257365f8d36	chr10:g.87931062T>G	PTEN Y76D	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+56efe61d-9adb-50ba-a30b-0b863d0a391e	chr10:g.87960994delATAGC	PTEN S302Lfs*8	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+57648ed8-3133-5417-8cd1-ca43947cf001	chr10:g.87952207_87952208insT	PTEN H196Sfs*6	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+585f6640-759f-56e6-85e9-faf8f1747211	chr10:g.87958009T>G	PTEN M264R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	benign	0.009
+58683e7f-99ca-50ba-ae4e-9dcc623bed5d	chr10:g.87933088delA	PTEN Q110Hfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+58a8ce11-6e45-5950-987a-20def431c3ee	chr10:g.87933023T>A	PTEN Y88*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+59104116-e98f-5d06-8915-a846c2d504c9	chr10:g.87957851A>C	PTEN X212_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+593a5989-6abf-57c8-bf31-051169791660	chr10:g.87933157_87933158insAATGA	PTEN I135Kfs*2	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+59e89f5b-d727-55e3-8409-528e2ec5ee63	chr10:g.87931069C>G	PTEN T78S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.56	benign	0.007
+59f0e6ad-ffec-5beb-b488-32f41bf30b25	chr10:g.87957903delTCAGGACCCACACGA	PTEN S229_R233delinsKN	Deletion	Protein Altering	1	3534	0.03	1	16508	0.01	MODERATE				
+5a32c65c-3677-5170-9fcb-9d8dfa9070e1	chr10:g.87961037T>A	PTEN Y315*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+5a978613-c788-518a-b0b7-bace0c55ea93	chr10:g.87933192T>A	PTEN F145I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	probably_damaging	0.998
+5aa3f684-0672-56bf-99d3-516cf8b3e407	chr10:g.87933093delCTAAGTGAAGATGA	PTEN L112Qfs*9	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+5ac793c0-76b9-5c46-9b26-adbf4e08270f	chr10:g.87864497delAGC	PTEN S10del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+5b2c6a23-8a04-55c4-abe1-747549f229f3	chr10:g.87965366delT	PTEN S370Vfs*46	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+5b442fed-cc8b-5d74-8d9f-eb470b9583c6	chr10:g.87933157_87933158insA	PTEN M134Nfs*46	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+5bc43c1d-752a-5128-b59c-2a3789b6fcbc	chr10:g.87961029delA	PTEN K313Rfs*4	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+5bf042dc-2f13-5959-9ef9-a6593a8cf86d	chr10:g.87933054_87933055insA	PTEN L100Tfs*7	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+5c89b3c9-97e4-57a2-8069-0359c00939b7	chr10:g.87957877_87957878insA	PTEN V222Gfs*21	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+5d43f8cf-c4dd-5472-87ee-fbad6d6cd991	chr10:g.87925550T>A	PTEN Y68N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.999
+5e47a51a-ffa4-5f01-a1b0-5a8be9a5d5c2	chr10:g.87960973_87960974insT	PTEN L295Sfs*3	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+5e595b02-f8d3-53d3-b6ac-9fb8ce2fc8bd	chr10:g.87957915_87957915insGGCCTCAAGGGGTA	PTEN R233Gfs*5	Insertion	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+5fb8d101-3d80-5491-a0c3-054201833253	chr10:g.87894111T>C	PTEN X55_splice	Substitution	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+5ff9b58c-bd13-59d0-9d10-97d564eec221	chr10:g.87894080delATACAGGA	PTEN Y46Qfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+60414fcd-0020-5320-9f23-66fccff2d972	chr10:g.87952129_87952130insC	PTEN S170Qfs*10	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+60d13a4f-c47f-5d95-90a5-e3dabe77a602	chr10:g.87960926C>G	PTEN F278L	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.754
+6136caa6-bd5a-55b0-b900-edc766fc5069	chr10:g.87864544G>T	PTEN L25F	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.69
+61554239-10b2-5264-8fa8-48ff5b77bbfc	chr10:g.87960984delC	PTEN Q298Kfs*9	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+622bc3ad-a149-50b3-bc30-4ca84cfb3799	chr10:g.87960994delATAGCATTTGCAGT	PTEN S302Rfs*5	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+62aa0bd0-5b46-5ef4-9a0f-bd2ed5d065f4	chr10:g.87952227delA	PTEN T202Lfs*19	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+62aab379-2cbd-5ebe-bae4-84aaf0126d57	chr10:g.87933167delTGCATATTTAT	PTEN A137Tfs*39	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+6367725a-1afc-573b-b8d1-5ff7c22b2ecf	chr10:g.87894043T>G	PTEN I33S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.915
+64620600-2056-5e0d-ad76-15e5a8cda681	chr10:g.87864482delATCAA	PTEN I5Rfs*4	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+6464f1a9-4ab3-5ce6-90bb-c8f2c4cf71b1	chr10:g.87864359G>A	PTEN	Substitution	5 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+646c91e5-f61f-5dd0-ab8b-6dc506e8e785	chr10:g.87957927delAAGTTCATGTACTTT	PTEN K237_F241del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+64c92384-7c82-5d06-b7ef-f4453b095266	chr10:g.87931064T>G	PTEN Y76*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+6528805c-105c-59fc-8935-17ee4852e94f	chr10:g.87931045G>C	PTEN X70_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+65c94b8d-80f6-5c3b-943a-f3cf57f15e9c	chr10:g.87952153T>A	PTEN Y176*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+6667f651-ae77-55de-83f3-a2aa66be39dc	chr10:g.87925512G>A	PTEN X55_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+666b53e8-2406-5917-9524-dc1903df6515	chr10:g.87965296T>G	PTEN Y346D	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.09	benign	0.209
+66b3ff86-9c94-5981-9aa5-eeb4aa495eb1	chr10:g.87961068G>C	PTEN D326H	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+66dede23-9207-5da8-88d0-7a441975decc	chr10:g.87864537delTAGA	PTEN L23Sfs*2	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+66f16afe-3888-50c3-9ad9-25d5267f29d0	chr10:g.87933030G>T	PTEN E91*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+67b1c503-81ec-549c-8fc2-4f62fe391ed2	chr10:g.87965303_87965304insA	PTEN T350Nfs*11	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+67e3bf99-ce13-5ff0-8a56-4a4d7a1552ff	chr10:g.87864536delT	PTEN L23*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+68e1084f-96d0-5326-91ee-2879607f0b60	chr10:g.87894069C>G	PTEN L42V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.05	benign	0.1
+6961a145-9407-5669-8276-ac10b25be88e	chr10:g.87931051C>T	PTEN A72V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	0.946
+69ed354a-b68b-59ae-bc82-40ab99cb551d	chr10:g.87894045G>A	PTEN A34T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+6a0f6640-58ea-5f48-8488-2658f1ad950c	chr10:g.87957996A>T	PTEN K260*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+6a64bfcf-5f18-5330-8981-9ae9d65c6819	chr10:g.87965440G>A	PTEN E394K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious_low_confidence	0.02	benign	0.055
+6acc9df4-3619-5a14-960f-908192deacc0	chr10:g.87894084delAG	PTEN R47Efs*4	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+6b685344-d5b5-5dc6-895b-5bc1ae63e64b	chr10:g.87933017delACA	PTEN Q87Hfs*12	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+6b8b5349-daa2-5c9e-a142-4f141fc98399	chr10:g.87960908_87960909insT	PTEN W274Lfs*24	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+6bb1a90e-28a0-5e92-b367-ac7562e7c5a9	chr10:g.87931053delGAA	PTEN E73*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+6c0d6ed4-7460-5b79-a2db-916b47f90549	chr10:g.87952229delACTATTCCAATGTTCAGTG	PTEN T202Afs*13	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+6c9d6a8b-5cb9-5217-8d8f-c93cea87c23a	chr10:g.87957999C>T	PTEN Q261*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+6cde3efd-aa16-500b-a844-a2c2b731762e	chr10:g.87957942G>T	PTEN E242*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+6d937e90-a567-553b-ab70-d025146d8c0d	chr10:g.87925515T>G	PTEN F56C	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+6e4c4fb6-d85d-5843-a624-7d08207a0a01	chr10:g.87864499C>G	PTEN S10R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.188
+6eb68001-e0de-56e1-91c5-2a2e3f2322be	chr10:g.87933161G>A	PTEN M134I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.977
+6ec659bf-11c5-5a93-a447-5014d668fd2a	chr10:g.87952145T>A	PTEN Y174N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.906
+6f90993b-32e4-57c0-82db-c421ae9e1cce	chr10:g.87957893delT	PTEN S226Pfs*30	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+6fba4b39-1070-5770-895f-dd57e6ab91d0	chr10:g.87957970G>A	PTEN G251D	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	0.973
+70a38738-4e1d-513f-919d-adca4cb5be06	chr10:g.87957916_87957917insAC	PTEN R234Hfs*23	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+7144e435-7642-5689-857b-4a611ad562ea	chr10:g.87894037A>T	PTEN N31I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.997
+718024d2-ce78-5892-b856-21160301d110	chr10:g.87961101T>A	PTEN F337I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.977
+71dc422a-d769-5f90-8241-84e0500e2de2	chr10:g.87933222T>G	PTEN Y155D	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+726db0ac-0692-5a7b-9718-ae539fa7a4af	chr10:g.87957954_87957955insCT	PTEN L247Rfs*10	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+728e60b5-7e3f-578d-b80a-d3042102e6d2	chr10:g.87952174delG	PTEN N184Ifs*15	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+728f5ad2-f156-502a-b09d-ec5ca97f83a3	chr10:g.87933136C>G	PTEN A126G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+7294586b-4027-512a-882e-ab7dfc5f86ab	chr10:g.87933035delCCATAACCCACCACAG	PTEN H93*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+73554148-d15d-5bc0-83dc-adf75a53f954	chr10:g.87931057G>C	PTEN R74T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+73d572d1-d04e-59a0-a37c-b105bc2a039f	chr10:g.87957933A>G	PTEN M239V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.5	benign	0.005
+74a17f94-af56-54ed-b3de-fee8caedeedf	chr10:g.87933175T>A	PTEN L139*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+74e4f81c-de56-5ed1-8ee5-00fdd6f0ac3c	chr10:g.87933107delCAATCATGTTG	PTEN N117Sfs*5	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+7531293f-6828-5fe7-b9cc-0b992c18e67f	chr10:g.87925546G>T	PTEN K66N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+759fa93a-d833-5a23-b0ca-7bcb73a609d7	chr10:g.87933246A>T	PTEN K163*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+75e6d159-0e3d-502c-ad1d-fe69e3c1ad07	chr10:g.87933246delAAAAAGGT	PTEN X163_splice	Deletion	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+76410a4b-21ab-589b-aa47-b0e87882a4c6	chr10:g.87894063G>T	PTEN E40*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+7666c553-9a41-548a-8cbe-c73df351afbf	chr10:g.87894062delAGAA	PTEN E40Dfs*13	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+76b72595-1969-5d79-bb99-82bfabfaee96	chr10:g.87952155A>G	PTEN Y177C	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.87
+77219646-39d0-5c2b-ac38-d549777621c6	chr10:g.87925511A>C	PTEN X55_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+77914dbb-2838-5860-9c3d-b5c806ee9557	chr10:g.87965374delAATG	PTEN E373Lfs*42	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+78200bdf-f626-54d4-9499-08a90493a570	chr10:g.87933214delT	PTEN L152Qfs*7	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+78af62a8-40ce-5cb8-be66-b73b157fb33f	chr10:g.87957989delC	PTEN F258Sfs*8	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+79b576e3-6ca7-585b-bfb4-748601a9b442	chr10:g.87957867delGTCTGCCAGCTAAAGGT	PTEN V217Efs*20	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+7a1f7e66-500c-5f50-a485-ce254bb432a0	chr10:g.87969461G>T	PTEN	Substitution	3 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+7a3637a4-ba20-5d67-b220-b9d6a8459847	chr10:g.87933019delAATAT	PTEN Q87Pfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+7a7f9c7f-11f6-5679-9772-573efc3374c0	chr10:g.87933123delATTCACTGTAAAGC	PTEN I122Wfs*53	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+7b461b85-727f-5c67-beb5-1668214d0e0b	chr10:g.87894091A>C	PTEN N49T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	possibly_damaging	0.824
+7c242468-45ff-5b17-8247-9abbb9f84a00	chr10:g.87952148G>T	PTEN V175L	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.994
+7c46e9ac-2010-5d1e-a275-06577a7a9072	chr10:g.87960959A>G	PTEN K289=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+7c937f43-c495-5716-b92a-500835407a60	chr10:g.87960939delC	PTEN P283Qfs*8	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+7ccbbacb-b620-577a-bc50-fe4a751dc5e4	chr10:g.87952168delGTTAA	PTEN L182_K183delins*	Deletion	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+7d058a3f-1b6d-5a79-83e0-a9899a1b96f1	chr10:g.87933023T>G	PTEN Y88*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+7d11d577-ca15-5d76-80ae-fee801f6888e	chr10:g.87952122T>G	PTEN V166G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.864
+7d4a0b0e-c9a6-5eaf-8ae8-7e923bab3ce5	chr10:g.87957898delC	PTEN N228Ifs*28	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+7d6e57f4-1e38-5306-b394-c27b034e90ce	chr10:g.87957973delAT	PTEN I253Qfs*44	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+7de4822b-4cfd-5c80-b88f-0ddd858bb5b5	chr10:g.87957996delAA	PTEN K260Tfs*37	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+7dff6963-777b-545f-b700-f7f68f624362	chr10:g.87960964delA	PTEN N292Mfs*15	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+7eba428f-220f-5d42-84aa-92a7d038e52b	chr10:g.87925523delTC	PTEN S59Kfs*40	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+7f346f7d-938e-56f4-ac62-eba424ccd3a3	chr10:g.87894088A>T	PTEN N48I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+817f47b3-8b76-563d-9cdb-8ccd1ea0d4cb	chr10:g.87864502delAAACAAA	PTEN N12Gfs*10	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+81a45917-347d-588e-a5ed-57c59fbd9ea7	chr10:g.87957970delGTGATATCAAA	PTEN D252Rfs*42	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+81b93e39-c1da-567e-9253-ba6499d2d72e	chr10:g.87864551delATCCATTTCTGC	PTEN	Deletion	Splice Region	1	3534	0.03	1	16508	0.01	LOW				
+8283bce0-04bf-5867-bd74-7387c9151359	chr10:g.87957956delGTT	PTEN L247del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+82c001cc-6ee8-519c-8651-1218c25f1c0a	chr10:g.87864542T>G	PTEN L25V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.193
+83b9619d-2125-5bd3-83e4-13dd715428e1	chr10:g.87952122_87952123insA	PTEN T167Nfs*13	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+83be0178-bc81-50f1-b4c4-e86c4ae56018	chr10:g.87960925T>C	PTEN F278S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.977
+8408e9f9-b3ab-55ac-a377-ce091cd64a00	chr10:g.87925552C>A	PTEN Y68*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+845b13cd-cec8-5720-bb23-e656059f1322	chr10:g.87933132A>G	PTEN K125E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+84d1e901-37a3-52f9-b529-eeb2713fb3b2	chr10:g.87864497A>T	PTEN S10C	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.65
+85837009-86f7-5d12-9967-0f9d66a445ac	chr10:g.87864447T>C	PTEN	Substitution	5 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+85fe59c8-fa27-5236-9578-ad17ef387008	chr10:g.87952138G>C	PTEN Q171H	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.934
+861b24b3-cbfa-5066-bd1e-39b4a4623d8b	chr10:g.87933095delAAGTG	PTEN S113Rfs*2	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+8792ce8d-82e7-512a-abbb-e21dffb07290	chr10:g.87931069C>T	PTEN T78I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.48	benign	0.023
+8810c798-f15d-59bf-a360-08e7775bf179	chr10:g.87933174T>G	PTEN L139V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+88800d50-249c-59ce-93f1-536fcee8fcab	chr10:g.87952189T>G	PTEN Y188*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+88e4086a-d4de-5a3e-aabb-67c38aa510c5	chr10:g.87933132delAAAGCTGGAAAGGGACGAACTGGTGTA	PTEN K125_V133del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+897db57a-34d8-5db0-a250-31ba2bc9d59c	chr10:g.87864522_87864523insG	PTEN D19Gfs*25	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+8ad24326-9f6b-579b-b630-a79719411bce	chr10:g.87925535_87925536insACCATTAC	PTEN K66Tfs*36	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+8ae0b69f-3866-5ce5-ab4d-11802044fd11	chr10:g.87925557T>A	PTEN L70H	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+8aed58ed-ede6-54ef-8712-8064458c905e	chr10:g.87933091G>A	PTEN W111*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+8b51553b-8ca9-59e7-82dc-eb2557c89269	chr10:g.87864537_87864538insA	PTEN D24Rfs*20	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+8bb9225b-5a4d-58ef-8b8f-8b9220dbcae6	chr10:g.87957854delTCC	PTEN P213del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+8c88b6bc-1c54-55ed-9321-cdd85f28e0f9	chr10:g.87933021T>C	PTEN Y88H	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.93
+8dc79243-7c8b-5d9f-952f-0f1d8d58937a	chr10:g.87894026delT	PTEN Y27*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+8dfcd2c5-26a7-59e8-b426-e79bf6ab3398	chr10:g.87933094T>G	PTEN L112R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+8dfd851b-8840-5554-9b6f-9dc3d4c900cd	chr10:g.87961015delGT	PTEN A309Rfs*2	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+8ec71f2a-3c52-547c-bc3e-015440ab116a	chr10:g.87952139delA	PTEN R172Gfs*11	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+8efdc83e-408d-5965-9b9d-16c5800b4d79	chr10:g.87961074delG	PTEN A328Qfs*16	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+8f0364ec-082d-5d7c-8115-5df878645ef5	chr10:g.87931060A>C	PTEN H75P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.18	benign	0.377
+8f4839f5-3653-5745-9e67-e24b87f3cfc6	chr10:g.87957995delC	PTEN H259Qfs*7	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+91422fb6-da6d-5caa-80af-0f69ddb58e1e	chr10:g.87961004C>A	PTEN C304*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+91aecf4a-9262-5b09-b8dc-7811ffadaa45	chr10:g.87957914_87957915insCAGCCGCCGCTTTTGGAGGG	PTEN R233Qfs*30	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+922dbdae-a52f-550d-a17e-abe4fc391321	chr10:g.87894061C>T	PTEN A39V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.994
+92bfb800-4eb9-5cfc-934c-7ba7c4e8be58	chr10:g.87970158A>G	PTEN	Substitution	3 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+9328d8ab-d4f4-54e0-8c33-aa65e4e6c7d8	chr10:g.87933221C>T	PTEN F154=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+9350bb97-d7f2-5716-aebf-6dd784863430	chr10:g.87925512G>T	PTEN X55_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+95aeba51-fc2b-55e2-bfef-e1cb6d442d88	chr10:g.87957914_87957915insT	PTEN R233Sfs*10	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+96354b07-cbbf-5bb7-918f-3541d81f8661	chr10:g.87965285A>T	PTEN X343_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+964ddffb-fdd6-5d97-9d1f-e2a3206900ea	chr10:g.87957952A>C	PTEN Q245P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.14	benign	0.015
+965195ef-ef23-5e3c-bc38-b0786cf68500	chr10:g.87952231T>G	PTEN T202=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+96678eaa-f2c1-5b17-9ca3-cbfffa8f30ae	chr10:g.87933069delT	PTEN C105Vfs*8	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+9695f31e-406b-5cd6-8038-957b6e8727fb	chr10:g.87864511G>T	PTEN R14S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	benign	0.123
+96fa5964-dac2-5ede-8b3b-ce1f73ea93e1	chr10:g.87952244delA	PTEN S207Vfs*14	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+972c64be-9426-55f1-9164-3f03d05e0e1d	chr10:g.87933219delTTCTATGGGGAAGTAAGGACCAGAGACAAAAAGGTAAG	PTEN X154_splice	Deletion	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+9770f296-4e7a-5118-ac63-e1962a9e168b	chr10:g.87952155A>C	PTEN Y177S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	benign	0.03
+98468740-04f7-59f1-b184-17b093a7ac08	chr10:g.87961100_87961101insT	PTEN S338Ffs*5	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+989df7cc-0123-50b7-99e2-ad62369817ff	chr10:g.87952155A>T	PTEN Y177F	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.588
+989f44e7-8f13-5b3c-a6ab-24668e7e671c	chr10:g.87864533delGACTTAGACTT	PTEN D24Yfs*16	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+98b63d37-052a-51e0-b3c3-9b81001bfd96	chr10:g.87894051G>C	PTEN G36R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.04	probably_damaging	0.999
+98c37ca0-cfa4-5b4d-89c4-5630b358037e	chr10:g.87933142A>T	PTEN K128M	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+991a2e03-a98d-5b14-a1d8-ca5484d864a2	chr10:g.87933090T>C	PTEN W111R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.845
+99393b5a-bf4a-55c8-a12a-fd1fe9ace2a3	chr10:g.87864517delTC	PTEN Y16*	Deletion	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+9940a2bb-2801-5402-9ee9-cf39cb154122	chr10:g.87864517T>G	PTEN Y16*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+99a0f139-1b8e-59f2-b532-85452592a76e	chr10:g.87925512G>C	PTEN X55_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+99d88aae-28ce-5064-a5c5-5f6533164cb6	chr10:g.87961098delTACTT	PTEN Y336Ffs*5	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+9a0d6088-53b6-51af-b131-ae4581a72404	chr10:g.87960910T>C	PTEN F273S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+9a56e679-7877-5ff3-8023-0129f96d267f	chr10:g.87864539G>A	PTEN D24N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.012
+9ae8e704-5035-5771-a955-0cd7c789a8e2	chr10:g.87960948_87960949insCGTTT	PTEN S287Ffs*6	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+9b043dcf-368e-5112-b038-646172665113	chr10:g.87933022delATCCTTTTGA	PTEN Y88*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+9b2d1cf0-d2f6-5ec1-ab56-0a92979fcbf8	chr10:g.87961026G>A	PTEN D312N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.15	benign	0.383
+9bf90f24-a8dd-5a18-922c-6f239e91caa3	chr10:g.87933133A>C	PTEN K125T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+9c841c05-7031-5f9c-bfa0-fe722a076eaf	chr10:g.87957985_87957986insG	PTEN F257Vfs*41	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+9d93ad69-1a92-52b2-a23a-b21792582597	chr10:g.87952149T>A	PTEN V175E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+9dacbc98-d73e-5d3b-8114-bfc40ff4e2b1	chr10:g.87961034_87961035insT	PTEN Y315Lfs*10	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+9dbfc8f5-032d-566b-a485-3a30d2a7c203	chr10:g.87894095delTGA	PTEN D52del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+9e58d34e-8a18-5a81-aa84-1935d96cb80b	chr10:g.87957912delA	PTEN T232Hfs*24	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+9f53da5c-43c7-5570-9152-6b7a85154c0f	chr10:g.87958016A>T	PTEN K266N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.06	possibly_damaging	0.855
+9f94c232-4a59-5199-a3c4-448d81eb1ecc	chr10:g.87952233delTT	PTEN I203Tfs*39	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+9fff2a33-6bd0-55d7-8fb0-ce6e31768074	chr10:g.87957914_87957915insTCGAACGT	PTEN R233Sfs*26	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a1225661-c849-535b-914c-bfbd46548540	chr10:g.87957986_87957987insT	PTEN F258Lfs*40	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a18a64c4-d9c9-54b2-b9d7-ea20ef94c1f6	chr10:g.87957912delACACGA	PTEN T232_R233del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+a1978828-56b1-58b8-8ab2-e3b3f2f0a00f	chr10:g.87933111C>T	PTEN H118Y	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.871
+a1a2f1b3-ce04-573f-875d-8e51b01bd5cd	chr10:g.87960920T>A	PTEN N276K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+a293e52e-2195-5e97-aeb9-606a71a4fa84	chr10:g.87961052delA	PTEN T321Qfs*23	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a2d42a92-f26f-5e2a-80d3-6ed2fc17ec0d	chr10:g.87961027delA	PTEN D312Afs*5	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a39006ad-9cff-5fe3-a6cf-42b0311bdff0	chr10:g.87933163_87933164insA	PTEN C136Mfs*44	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a404f9b0-f3a3-5aac-b184-941ea4110f7b	chr10:g.87957908_87957909insC	PTEN T232Hfs*11	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a4f5d404-a906-51d7-83b5-ebd951c4b82b	chr10:g.87933046C>A	PTEN P96Q	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+a50a6c2f-8a0d-5d0b-829f-7d84d0ff8e42	chr10:g.87957915C>A	PTEN R233=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+a5811650-a292-572b-ada4-3dfc58fb5346	chr10:g.87933207_87933208insA	PTEN A151Gfs*29	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a620e445-5488-5e53-8c95-c49cb64fd92f	chr10:g.87933084G>A	PTEN D109N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.999
+a669bfd9-011f-5bc9-bf3e-ba349ea20451	chr10:g.87933132delA	PTEN A126Lfs*8	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a6d6337f-eb14-5165-b969-c769f1fb1abe	chr10:g.87957915_87957915insGG	PTEN R233Gfs*10	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a6dea25f-e51d-59f8-badf-12f39257ff7b	chr10:g.87933228G>T	PTEN E157*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+a7193a53-2b17-566c-837a-3f2504e07ba6	chr10:g.87968831G>A	PTEN	Substitution	3 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+a7526749-6669-5cfc-97f9-ec00d15b78e6	chr10:g.87965271delAATTTTCTTTCTCTAGGTGAAGCT	PTEN X343_splice	Deletion	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+a7bacc1d-bb3e-5882-b6b8-a6a3e8792a03	chr10:g.87957918_87957919insG	PTEN E235Gfs*8	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a7eac1b3-b079-5aae-afaa-b047be116507	chr10:g.87933114G>T	PTEN V119F	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.986
+a83f92fa-7653-5634-b4bd-06c88416ce9d	chr10:g.87933061T>A	PTEN I101N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+a857af00-fca2-5266-b4d7-dffd67a8a95c	chr10:g.87933149delAACTGGTGTAATGAT	PTEN T131Mfs*44	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a88d37a3-0111-5c69-97f5-ff15c89c9c1c	chr10:g.87933144G>C	PTEN G129R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+a91baa1f-1b2b-5e11-a9ef-fba1e355ff76	chr10:g.87894100_87894101insT	PTEN V53Cfs*10	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+a9a03e6e-9ea8-58e3-9377-977b5dd8d361	chr10:g.87925523T>C	PTEN S59P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.943
+a9b59060-754e-548b-be3c-959c6cbebf9f	chr10:g.87864501G>T	PTEN R11I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.055
+aa3be899-78e4-5601-8dc5-200afc0f21de	chr10:g.87894031A>C	PTEN Y29S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.32	possibly_damaging	0.879
+aa818585-1a72-583e-a32c-044b910dcfd7	chr10:g.87957914_87957915insG	PTEN R233Afs*10	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+aaa4d103-112f-5974-a3c6-c8bdd0ec581e	chr10:g.87957878delA	PTEN K221Rfs*2	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+aab058b9-bcd1-5d52-bc79-89bafebb05f4	chr10:g.87925558_87925559insT	PTEN X70_splice	Insertion	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+ab95cefb-dc79-558c-ba86-b9801d01e66b	chr10:g.87957962delT	PTEN V249Cfs*7	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+ac54628e-a149-5157-af7a-0c42f068a912	chr10:g.87894034C>A	PTEN P30Q	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.05	probably_damaging	0.998
+ac6f9e16-7dc0-55fb-b924-896c834edd76	chr10:g.87864509delAGG	PTEN R15del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+ac8485b4-66f6-5f11-bef4-88ff51ff9b87	chr10:g.87961038delCTAGTACTTA	PTEN V317*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+adfcaa8a-3470-5e57-b151-dac6e266c018	chr10:g.87952251G>C	PTEN G209A	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.13	benign	0.086
+ae6ace17-2d4e-51ba-b0be-3dee0a686139	chr10:g.87952118G>T	PTEN G165*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+af74e4b4-013d-5a54-bc0b-19791db0857a	chr10:g.87961060delATG	PTEN D324del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+af770c8f-43ef-5182-b2d1-72fd02a0d1eb	chr10:g.87933025_87933026insTTTTTTTT	PTEN E91Ffs*11	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+af7bbc40-a547-5d90-a869-88802de47931	chr10:g.87894050G>T	PTEN M35I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.914
+afd424bc-e80a-5ece-b9e3-03a485f68da0	chr10:g.87957952_87957953insGCCAG	PTEN L247Gfs*11	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+afe43a89-1925-5ccd-a179-274fbf64f4fe	chr10:g.87931090G>T	PTEN X85_splice	Substitution	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+b0802ba4-b057-56fa-a357-c1b71bb6f1cf	chr10:g.87933011A>C	PTEN X85_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+b0ff6dad-7cc0-5834-a4aa-9135b9871095	chr10:g.87933239C>G	PTEN T160=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+b11103a9-a9b0-59fe-8eff-043d8ad6c774	chr10:g.87957940_87957941insAGCC	PTEN F241Lfs*3	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+b137d89d-5c07-5d17-aeab-732199b74d59	chr10:g.87952251_87952252insA	PTEN T210Nfs*33	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+b16e46b2-0af7-5232-b6eb-bf27c4da2d7d	chr10:g.87952249C>T	PTEN G208=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+b1bdf60e-bef0-54fb-9534-c9515effedd6	chr10:g.87952208T>A	PTEN F195I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.35	possibly_damaging	0.621
+b1e83ab4-6507-56df-99b6-210baf3c7034	chr10:g.87894083delC	PTEN Y46*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+b20bf595-caae-5c56-b18a-bff4fe3b0604	chr10:g.87864469C>T	PTEN	Substitution	5 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+b2dad8ef-469f-5851-beaf-964a8ddb83aa	chr10:g.87933218delT	PTEN F154Sfs*5	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+b2dd19d9-04e1-5f7f-9bd2-429c11fb2713	chr10:g.87864553delCCATTTC	PTEN	Deletion	Splice Region	1	3534	0.03	1	16508	0.01	LOW				
+b3254dea-363f-50fe-abd4-d3fb8bdcd22b	chr10:g.87961058delAAATGATCTTGACAAAGCAAATAAAGAC	PTEN N323Kfs*12	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+b491fe6a-128a-5d24-b33f-e1b6c50bee91	chr10:g.87933130G>C	PTEN C124S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+b4d7c231-40f1-514c-b158-ec397d6691e9	chr10:g.87933093C>G	PTEN L112V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+b5ab57af-b693-5bf4-9dbe-fa9b76919b92	chr10:g.87957954_87957955insCGTGGG	PTEN P246_L247insWA	Insertion	Inframe Insertion	1	3534	0.03	1	16508	0.01	MODERATE				
+b6276b98-a207-56ab-804f-ccfb5235edff	chr10:g.87864489_87864490insG	PTEN I8Dfs*3	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+b65df1b8-917b-5463-9fe1-9cd4b7220e7b	chr10:g.87957909_87957910insCCACACG	PTEN R234Hfs*11	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+b6a02e27-9a05-5e20-96fe-099a89d79fa8	chr10:g.87957917delACGGGAAGACAA	PTEN R234_K237delinsPS	Deletion	Protein Altering	1	3534	0.03	1	16508	0.01	MODERATE				
+b6ad29c7-da75-5ab7-a2da-f8e8ebb18f3e	chr10:g.87957918delC	PTEN R234Gfs*22	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+b71fdf6c-09dc-542b-9c02-dab71dc791ae	chr10:g.87894089delC	PTEN N48Kfs*6	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+b7b63fac-bc78-530d-bb48-9e286ecea0ea	chr10:g.87864492T>C	PTEN I8T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.05	benign	0.011
+b83038b7-6444-5331-90d0-1dc022fb7a01	chr10:g.87961094delC	PTEN R335Dfs*9	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+b87ab20b-e735-5668-9952-cb567c64b7b7	chr10:g.87931063A>T	PTEN Y76F	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+b8eb7fc6-eb32-5a37-96cb-a8a8f0917c8b	chr10:g.87952143G>T	PTEN R173L	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.06	benign	0.073
+b93e8f76-33b1-5d1c-a777-c836083b9cc5	chr10:g.87957955C>G	PTEN P246R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	possibly_damaging	0.86
+b94fab29-a93b-5e08-9ba5-8b13766c1e56	chr10:g.87960930delA	PTEN I280Yfs*11	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+bb0c281e-de4e-5bcc-ab2d-3d281d68345d	chr10:g.87933034A>G	PTEN D92G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+bb147e7c-2c6a-5889-9b88-1f3ed93115b6	chr10:g.87965396A>T	PTEN Y379F	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated_low_confidence	0.22	probably_damaging	0.956
+bb601f6b-7469-5653-b790-8879f0049089	chr10:g.87933146delACGA	PTEN R130Lfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+bb915e78-bd65-5cba-bda6-886a01cc50a0	chr10:g.87957888delATATATTCCTCCA	PTEN Y225Qfs*27	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+bbdfe3c3-9e9b-5458-b120-aecf6d551049	chr10:g.87961118delG	PTEN	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+bd5e5e9a-71d9-5b65-9161-87b6cf6b3023	chr10:g.87933210delGCCCTAGATTTC	PTEN A151_F154del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+bd622019-5d6c-52d2-9aff-252cbb4dd0c7	chr10:g.87960953delAG	PTEN E288Kfs*9	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+bdcfbb0c-aabf-50cd-a38c-ce1e7a0184fe	chr10:g.87957855delC	PTEN P213Lfs*8	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+be04ccd3-c40b-5bb7-830b-8b03d9056252	chr10:g.87952254delCTTGCAGTAAG	PTEN X210_splice	Deletion	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+be2f0667-e6c0-5279-bc93-6b6987451cea	chr10:g.87894064delA	PTEN R41Dfs*13	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+be75b253-ca92-583b-ad89-f5f057fa31c0	chr10:g.87925546G>A	PTEN K66=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+c00492ae-10b4-5229-895a-23c1e69f9fdd	chr10:g.87952218delTGATGTTT	PTEN M198Rfs*42	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+c0327ab4-9156-5121-85a9-5f626d683ea1	chr10:g.87957924G>A	PTEN D236N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.28	benign	0.174
+c0c34c70-ea34-5718-b2fd-1debc8df118e	chr10:g.87933172A>G	PTEN Y138C	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+c0fadcbe-3ab9-5630-b385-e771cee4f654	chr10:g.87965374A>G	PTEN N372D	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.13	benign	0.393
+c12baff4-cec4-5eb8-86bc-996675e0fff1	chr10:g.87957968_87957969insGGCCGTTTGA	PTEN C250Wfs*4	Insertion	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+c228d51a-94b2-5b46-8dc2-b7ef1bec9568	chr10:g.87960969delGGAA	PTEN G293Vfs*13	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+c2d028df-9200-532e-bfc9-97b5012c5e9f	chr10:g.87965382delT	PTEN D375Ifs*41	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+c3901170-8319-5edd-a17f-457bab1d830d	chr10:g.87957958delTAC	PTEN L247_P248delinsS	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+c40901f5-f8a7-5433-9f4d-d0b3a00aa80e	chr10:g.87965296delTACTTCACAA	PTEN Y346Kfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+c5dbfa91-a4e9-51bb-9f72-652c08c3f32f	chr10:g.87863822C>T	PTEN	Substitution	5 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+c649a6b8-5613-584b-9954-13982895430f	chr10:g.87931054delAA	PTEN R74Tfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+c6b751da-7058-5390-8a41-64302c3cb313	chr10:g.87961009_87961010insA	PTEN E307Rfs*5	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+c758e9c0-98f3-5177-a7ce-6603f5373d84	chr10:g.87933011delA	PTEN X85_splice	Deletion	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+c764ecde-077c-514f-a699-0ea04540a5c8	chr10:g.87957916delGACGGGAA	PTEN R234Qfs*6	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+c78e04be-9d88-591e-afac-e0c7fa741c0b	chr10:g.87925531delT	PTEN H61Qfs*38	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+c7965f7f-7828-5d43-b174-cfce422e7f8f	chr10:g.87961120T>G	PTEN X342_splice	Substitution	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+c7f8a516-77eb-57f1-b132-a943ed8298bc	chr10:g.87933072T>C	PTEN C105R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+c84bc553-b167-5ebf-a9ca-199f73224e39	chr10:g.87933171_87933172insA	PTEN Y138*	Insertion	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+c8df97f4-d7a3-5ff2-ac33-c5bc96f34280	chr10:g.87960988delA	PTEN I300Sfs*7	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+c8ef363c-6bc7-551c-92e8-c6419e863ee2	chr10:g.87864501G>A	PTEN R11K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	1.0	benign	0.0
+c9f3a5a4-54be-5022-87c3-995a9a32b891	chr10:g.87933094T>C	PTEN L112P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+cac88894-d288-5bdd-b6f9-b0917ae76812	chr10:g.87957980delAGT	PTEN V255del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+caeb9ac8-8d49-5188-acaf-253437256034	chr10:g.87894023A>C	PTEN X27_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+cb0c1389-732d-5190-815b-d15e7db3a092	chr10:g.87961041_87961042insTACT	PTEN L320Yfs*6	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+cb468307-b0ab-56e8-8980-01782d808f27	chr10:g.87957934T>G	PTEN M239R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.06	possibly_damaging	0.472
+cc537d34-9ee3-5a66-90ac-29660631049e	chr10:g.87958012T>A	PTEN L265Q	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.15	benign	0.399
+ccadaeff-f1c5-55d0-ac03-45eef061de34	chr10:g.87933042_87933043insCACCA	PTEN Q97Hfs*4	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+ccb284b2-318c-5199-a400-6935b93eda6b	chr10:g.87933146delACG	PTEN R130Qfs*4	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+cd88b83a-a813-5a9d-b87c-0bd71a9cbeb0	chr10:g.87957968T>A	PTEN C250*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+cd908ff6-78aa-59eb-aa7d-8beb98b7c9bb	chr10:g.87961100C>G	PTEN Y336*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+ce361f8e-bd3f-5201-825b-79fe8af58627	chr10:g.87960936G>T	PTEN G282*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+ce681c11-6067-5663-9bdb-9ca6c5d0ed25	chr10:g.87925539A>C	PTEN H64P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.977
+ceb0766c-948a-5871-b47a-95c8c304569b	chr10:g.87925531_87925532insA	PTEN N63Kfs*11	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+cec72bef-ea52-5dd5-910b-229968c98494	chr10:g.87957862T>G	PTEN F215C	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.964
+cf044bbc-ba93-5bb0-8cdb-0ce6e062fb43	chr10:g.87960983delT	PTEN Q298Kfs*9	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+cf7a17df-6dbf-546d-aca1-fc4883dafbe7	chr10:g.87864528G>C	PTEN G20A	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.249
+d019e52f-6892-5de1-9049-0056096b60b8	chr10:g.87952137A>G	PTEN Q171R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.808
+d0a0b2f2-f26a-5b74-8e26-68e9e0edf6ce	chr10:g.87925548T>A	PTEN I67K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.958
+d129f7ef-139b-550b-bb06-dcd2d724f0ad	chr10:g.87933190A>C	PTEN K144T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.27	possibly_damaging	0.636
+d1741a7a-65eb-509d-8d8c-70b5e3f562de	chr10:g.87864512A>T	PTEN R15*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+d1d06238-0a12-5e87-a4d9-e00cc5f126e9	chr10:g.87933231G>C	PTEN V158L	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.28	possibly_damaging	0.626
+d25d6902-a874-5b41-84eb-dedb78a0e76e	chr10:g.87952130delCCCA	PTEN P169Vfs*13	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+d2b4ef37-5a8e-5bb5-b8b4-5c9d14610408	chr10:g.87933189delAAATTTTT	PTEN F145Gfs*32	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+d4088c52-788e-5bc4-b061-4a1a5f883a7c	chr10:g.87961090delC	PTEN N334Tfs*10	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+d418f7b1-aa5a-5c73-8b2e-cb7a76128147	chr10:g.87960993delG	PTEN D301Ifs*6	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+d42732d8-600a-5658-9919-721a46157428	chr10:g.87894071T>C	PTEN L42=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+d439f7e6-f239-5626-ab19-c96724937216	chr10:g.87961070_87961071insA	PTEN A328Sfs*3	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+d47cd0da-df40-5a86-bd4c-08c7627a9ffd	chr10:g.87965427T>C	PTEN N389=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+d4c8c2c2-59c0-59ea-8826-406f4288e165	chr10:g.87965515T>G	PTEN	Substitution	3 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+d5021b50-f755-55ed-a50b-f15b4eac79fd	chr10:g.87864540A>T	PTEN D24V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.617
+d50dc446-8568-52c3-9330-75f04400b19d	chr10:g.87933242A>C	PTEN R161S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.19	benign	0.185
+d54c0f6a-e95d-524a-b26b-954579a553c4	chr10:g.87925526A>T	PTEN K60*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+d5df49c1-dabd-553d-86fe-2f609e2c5e37	chr10:g.87965322G>A	PTEN P354=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+d5f09f30-9569-5e54-bd16-c27cb68d07d7	chr10:g.87864553C>G	PTEN	Substitution	Splice Region	1	3534	0.03	1	16508	0.01	LOW				
+d6194a45-93e0-5d92-b591-cca980828f96	chr10:g.87925513G>T	PTEN R55S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+d6b30e94-b055-5f3c-8231-f5fca55ae057	chr10:g.87864471T>A	PTEN M1?	Substitution	Start Lost	1	3534	0.03	1	16508	0.01	HIGH	deleterious	0.0	possibly_damaging	0.888
+d75f1a3d-ac90-53ab-b52a-ce45cf2cb5bf	chr10:g.87933235G>C	PTEN R159T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+d78f1b8a-d368-5cd2-ad9e-94f61b5422b8	chr10:g.87933293C>A	PTEN	Substitution	Intron	1	3534	0.03	1	16508	0.01	MODIFIER				
+d7d2c10a-442b-5556-bfe2-23dc0cd6b046	chr10:g.87894044T>C	PTEN I33=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+d8336ffd-8c2a-5729-8a8a-af473cb7a272	chr10:g.87933240A>G	PTEN R161G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.13	benign	0.237
+d859986c-1d28-56e0-be58-c085cc4fe7fb	chr10:g.87952133A>C	PTEN S170R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+d859ee19-3670-5e58-a463-4d27db820c78	chr10:g.87966852G>A	PTEN	Substitution	3 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+d8d9b614-c883-592a-8400-afab074e9a6f	chr10:g.87931063delATGACACC	PTEN Y76Cfs*4	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+d8ea8cec-6d75-5bfa-81c7-46d92615502f	chr10:g.87965294T>C	PTEN L345P	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.048
+d9523a10-414f-5e85-862a-efc1ed49beb9	chr10:g.87952129delTCCCAGTCA	PTEN I168_Q171delinsM	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+d96cef73-bfeb-50ee-9567-346f3d2e4ac8	chr10:g.87960981delG	PTEN D297Ifs*10	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+d9a6dea4-981d-5702-aaf0-50df7af1711a	chr10:g.87894035delA	PTEN N31Tfs*23	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+da4c5e5d-0514-561e-8495-081ce2fc673a	chr10:g.87933020delAT	PTEN Y88Sfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+da649d76-f639-5f42-8a9f-3e2b10f77e6c	chr10:g.87933211delC	PTEN L152*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+db73892b-4000-54ca-8f66-be70c966c1a4	chr10:g.87931057G>T	PTEN R74I	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+db8531cf-ff34-57c4-a0d2-7e116b83e74e	chr10:g.87965296T>C	PTEN Y346H	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.24	possibly_damaging	0.575
+dc344f28-56dc-5fc8-aa6b-0b3a91918e3d	chr10:g.87925559T>C	PTEN X70_splice	Substitution	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+dd30153f-096c-5c23-bc2f-a05c948340ac	chr10:g.87965269delTAAATTTTCTTTCTCTAGGTGAAGC	PTEN X343_splice	Deletion	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+dd5d46ce-66e3-5d64-b6f5-247d42f74b3d	chr10:g.87961108_87961109insA	PTEN N340Kfs*3	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+ddf2ff20-c22d-500b-aaac-b80dc91c5d8e	chr10:g.87961065C>T	PTEN L325F	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	possibly_damaging	0.798
+de5ae6b4-71e9-578f-bb0f-84f2dd305fc9	chr10:g.87933214T>G	PTEN L152R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+de671645-a331-53ab-a0bd-a6ae41b246b2	chr10:g.87931066delA	PTEN D77Afs*22	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+dec85e9f-515a-5d0c-8347-bf77c2030125	chr10:g.87864471T>C	PTEN M1?	Substitution	Start Lost	1	3534	0.03	1	16508	0.01	HIGH	deleterious	0.0	possibly_damaging	0.838
+dff2f1da-bea8-5227-b1eb-62c5301e19c6	chr10:g.87960892A>G	PTEN X268_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+e0ccd119-5397-5b62-83fe-18fed5f7adef	chr10:g.87931052_87931053insGAAA	PTEN H75Kfs*4	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+e11e251c-eb5e-5658-805e-22f8d8c47605	chr10:g.87933179delACATCGGGGCAAATTTTTAA	PTEN H141Gfs*32	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+e3901730-8af9-570e-aa4e-6f5b0cd1c52c	chr10:g.87933141A>G	PTEN K128E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+e394fb2d-8d9e-5066-bac5-b032525631fc	chr10:g.87960900delATGTT	PTEN M270Sfs*26	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+e39d142e-f279-5e1d-91f2-53d41a2aa11f	chr10:g.87965377G>A	PTEN E373K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.08	probably_damaging	0.98
+e4dbdac1-b6f2-5338-8f41-9d6f5d2da95d	chr10:g.87925533A>C	PTEN K62T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.05	probably_damaging	0.977
+e50d8f8f-3596-55ac-81f5-43920b33b31a	chr10:g.87933083T>G	PTEN L108=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+e552a846-2203-55ef-be27-f506bb426e41	chr10:g.87952130C>T	PTEN P169S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	probably_damaging	0.999
+e6c48e80-62ec-5df9-ad4c-e75cdefa0d40	chr10:g.87957916G>A	PTEN R233Q	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.12	benign	0.137
+e7bd5293-254e-55f9-afc2-07f98901e265	chr10:g.87952151delTAT	PTEN Y178del	Deletion	Inframe Deletion	1	3534	0.03	1	16508	0.01	MODERATE				
+e896f02f-94cb-5af7-9a8e-1c88ff55cc5b	chr10:g.87957959delA	PTEN L247Ffs*9	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+e8d04d64-5ca7-5c9a-bf88-36622fd65593	chr10:g.87961094C>G	PTEN N334K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.09	probably_damaging	0.998
+e905c94c-5351-55f4-97d6-19db46fb8c51	chr10:g.87933081C>T	PTEN L108F	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	probably_damaging	0.959
+e966cf14-f11d-51a2-b902-a0292b0e139d	chr10:g.87864401A>C	PTEN	Substitution	5 Prime Utr	1	3534	0.03	1	16508	0.01	MODIFIER				
+e97e4d24-e64b-5bd2-aa23-eba1a6b34370	chr10:g.87864485delA	PTEN E7Rfs*17	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+e9c02fdb-d836-5663-a324-c05538a1d14d	chr10:g.87961056A>G	PTEN K322E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+e9fdeb0a-db8d-530b-b92f-28cd480a16f8	chr10:g.87894028T>G	PTEN I28S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.991
+ea1c375e-954a-5ac7-b520-3dd5a8702eef	chr10:g.87957982T>G	PTEN V255G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.598
+eaabc8b0-f07e-5da3-ad8c-3d998a84e485	chr10:g.87957892A>T	PTEN Y225F	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.53	benign	0.007
+eb91eef2-2f9c-59d2-8383-fe00865de6e9	chr10:g.87894024G>C	PTEN X27_splice	Substitution	Splice Acceptor	1	3534	0.03	1	16508	0.01	HIGH				
+ebf5cf66-ff0c-5f5b-83f7-5d96925462c8	chr10:g.87933163T>G	PTEN I135R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+ec9da00b-c796-5ac1-9569-32ea9a160beb	chr10:g.87952205delTTGTTTCACAA	PTEN L194Dfs*4	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+ed195a33-d5c2-55ab-aa23-aa275552872e	chr10:g.87952119G>T	PTEN G165V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+ed2db0c8-5c1d-54dc-8a0f-11ce36df3f21	chr10:g.87958014_87958015insAAAAG	PTEN D268Kfs*10	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+edc872d7-4690-5ed6-8ef6-c3eb0345c8f2	chr10:g.87864548T>A	PTEN Y27N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.01	benign	0.255
+ee00fb5a-68f7-5390-9fe9-ce4a4b7062c5	chr10:g.87952219_87952220insATGTTTGGAA	PTEN E201Gfs*4	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+ee03ec2f-83d4-58cf-9264-0515203f7a19	chr10:g.87933134A>T	PTEN K125N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+ee262425-c4a1-52e8-93f9-709330407e68	chr10:g.87957926_87957927insA	PTEN F238Vfs*5	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+ef6da888-f639-55f9-af53-252f8b90d5da	chr10:g.87957917_87957918insC	PTEN R234Pfs*9	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f002cab8-189c-5887-a741-8c1ca813140c	chr10:g.87957990delT	PTEN F258Sfs*8	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f0251022-c7e0-5253-81e1-9bd339991265	chr10:g.87933051delCTAGA	PTEN L98Tfs*7	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f055570e-f219-54bf-a598-3d0045a9ce2c	chr10:g.87894042A>G	PTEN I33V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.14	benign	0.322
+f1dfe3fd-8d3e-5750-8622-133951adb6e9	chr10:g.87933107_87933108insA	PTEN N117Kfs*9	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f24b1455-3979-5a4e-b520-b62594d1a5bf	chr10:g.87933208_87933209insGGCCCTAG	PTEN D153Gfs*3	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f29169cf-20d6-5c9a-82c8-fc54c3a80b24	chr10:g.87952207_87952208insTT	PTEN H196Ffs*4	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f32d9323-a344-535b-9a4b-17df8fee7581	chr10:g.87957942delGAG	PTEN E242Ffs*10	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f33821fc-5a51-5512-a29d-2e4e2b77d2f6	chr10:g.87961034A>G	PTEN E314=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+f3bb9690-9f7a-5835-a183-1b651bdab68f	chr10:g.87952218T>A	PTEN M198K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	benign	0.285
+f3c3bc13-5047-5a27-8519-06ca3f70a84a	chr10:g.87952252delA	PTEN T210Lfs*11	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f3de6375-356c-50b4-bc08-79a3dfd8613b	chr10:g.87933078G>A	PTEN D107N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.06	probably_damaging	0.999
+f4162c03-06b3-5ecf-b8a0-3bd8fbe29a0f	chr10:g.87864495delT	PTEN S10Afs*14	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f42486a9-c533-5bfd-80d4-90ff424b461d	chr10:g.87957964T>A	PTEN V249E	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.874
+f4437815-f7e9-5b8b-b4b6-3abe0d884c03	chr10:g.87933138G>C	PTEN G127R	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	1.0
+f47788e9-7542-554d-912c-ed697bcecc9a	chr10:g.87933184G>A	PTEN R142Q	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.43	probably_damaging	0.978
+f48099d2-69fc-5f43-9e2d-606a75c8721b	chr10:g.87957887G>A	PTEN K223=	Substitution	Synonymous	1	3534	0.03	1	16508	0.01	LOW				
+f5a20db4-2ac4-5b72-b179-c92bafc4fbf6	chr10:g.87933253T>G	PTEN X164_splice	Substitution	Splice Donor	1	3534	0.03	1	16508	0.01	HIGH				
+f62c08bf-8aa6-505c-b7fb-aacf177199bd	chr10:g.87864530delT	PTEN F21Sfs*3	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f697e85f-e341-56bc-b89b-988a47f7272c	chr10:g.87864537delTAGACTTGACC	PTEN D24Yfs*16	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f6baec31-72a6-5b4d-b883-6d7ca5089345	chr10:g.87933180C>A	PTEN H141N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.995
+f7027b40-765d-545e-a79d-950f42b1183d	chr10:g.87957973A>T	PTEN D252V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.939
+f7418555-4c55-5855-9678-33cb6ba5d1fc	chr10:g.87933172A>C	PTEN Y138S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+f75617f1-92ba-5735-b810-1224c0f456c2	chr10:g.87952165C>A	PTEN Y180*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+f78e220e-8bfb-564d-b5d6-9040841df159	chr10:g.87957912A>G	PTEN T232A	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.37	benign	0.015
+f7cf4bfd-79dc-52c0-a732-29b6b87f25cf	chr10:g.87952163delTACCTGT	PTEN Y180*	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f804b462-b4ce-58af-9a1c-9b86cd32db3f	chr10:g.87925531T>G	PTEN H61Q	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.998
+f8639827-8619-5257-8c10-34c458504925	chr10:g.87957934T>A	PTEN M239K	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.05	benign	0.39
+f8876ab7-ace5-56bf-a095-989a107de68c	chr10:g.87894028T>C	PTEN I28T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.991
+f8e0692b-aa19-5375-9b3e-67b1ebd9db9e	chr10:g.87864480delTCAT	PTEN I4Tfs*19	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f99011cb-42d4-5ada-9c24-e25d27e7ca01	chr10:g.87957868T>G	PTEN V217G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.969
+f9cf10ba-3623-5468-aa72-2587a0efb34d	chr10:g.87960987_87960988insAA	PTEN I300Kfs*8	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+f9ff4089-8986-5938-9902-43063b333d2f	chr10:g.87864527delG	PTEN G20Dfs*4	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+fb4a56e1-0d95-52cc-adec-3ea59e61e4e8	chr10:g.87957978delAAAGT	PTEN K254Rfs*42	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+fc13ea4f-a4e2-557d-aa27-fc82f81d70b1	chr10:g.87933196T>G	PTEN L146*	Substitution	Stop Gained	1	3534	0.03	1	16508	0.01	HIGH				
+fc2181b7-bddb-5fd4-9485-fd1d8ddafdec	chr10:g.87894043T>C	PTEN I33T	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.02	possibly_damaging	0.879
+fc2aa15a-aaf8-512d-b552-3d3be755051b	chr10:g.87933136C>T	PTEN A126V	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.03	probably_damaging	0.998
+fc664efc-2e0f-5f35-8f97-6b4177a0f97a	chr10:g.87960913G>C	PTEN W274S	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.999
+fca55462-b839-5745-a8f4-f37e2af0fa9c	chr10:g.87957968_87957969insGGTGA	PTEN D252Efs*6	Insertion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
+fcf35fb0-a888-5194-8ba7-a64e8e18e8e3	chr10:g.87961095C>G	PTEN R335G	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	possibly_damaging	0.866
+ff0934ce-4ede-5e91-9217-8142b62d4e82	chr10:g.87894028T>A	PTEN I28N	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	deleterious	0.0	probably_damaging	0.996
+ff7a877f-07b1-579f-8782-240301ce053d	chr10:g.87960915G>T	PTEN V275L	Substitution	Missense	1	3534	0.03	1	16508	0.01	MODERATE	tolerated	0.16	benign	0.051
+ffbb54a4-b2d4-52de-873c-87763cbcca1f	chr10:g.87961014delC	PTEN R308Vfs*9	Deletion	Frameshift	1	3534	0.03	1	16508	0.01	HIGH				
