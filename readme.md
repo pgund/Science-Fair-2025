@@ -2,7 +2,7 @@
 
 ### Overview
 
-This is the repository for all **documents**, **data**, and **code**, for myscience fair project.
+This is the repository for all **documents**, **data**, and **code**, for my science fair project.
 
 ### Competition
 
