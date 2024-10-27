@@ -1,0 +1,1011 @@
+ssm_id,dna_change,protein_change,type,consequence,num_ssm_affected_cases,num_NF1_cases,ssm_affected_cases_percentage,num_gdc_ssm_affected_cases,num_gdc_ssm_cases,gdc_ssm_affected_cases_percentage,vep_impact,sift_impact,sift_score,polyphen_impact,polyphen_score
+6ad4eebc-668b-52e1-a933-2151ab1cc628,chr17:g.31350209C>T,NF1 R2450*,Substitution,Stop Gained,23,4118,0.56,23,16508,0.14,HIGH,,,,
+17868f0d-b343-5775-a2df-77c866d9efbe,chr17:g.31226459_31226460insC,NF1 I679Dfs*21,Insertion,Frameshift,19,4118,0.46,19,16508,0.12,HIGH,,,,
+b2262279-bd21-54f2-be00-5258642cf032,chr17:g.31249093C>T,NF1 R1362*,Substitution,Stop Gained,9,4118,0.22,9,16508,0.05,HIGH,,,,
+88b3e5b3-ad93-57f9-93c8-058630a4cb88,chr17:g.31235639delTGTT,NF1 F1247Ifs*18,Deletion,Frameshift,8,4118,0.19,8,16508,0.05,HIGH,,,,
+bfa4cc39-f806-5097-b6e0-f6b70d618273,chr17:g.31206297C>T,NF1 R440*,Substitution,Stop Gained,8,4118,0.19,8,16508,0.05,HIGH,,,,
+a86afd7c-05dc-536e-a7fa-f923223ae78a,chr17:g.31226460delC,NF1 P678Rfs*10,Deletion,Frameshift,7,4118,0.17,7,16508,0.04,HIGH,,,,
+b78e1a15-87de-5ec6-8a6d-08d2559698d8,chr17:g.31214524A>G,NF1 Y489C,Substitution,Missense,6,4118,0.15,6,16508,0.04,MODERATE,tolerated,0.08,benign,0.007
+59952f8c-5aff-5a6b-8f63-48e37178d8b8,chr17:g.31206360C>T,NF1 R461*,Substitution,Stop Gained,5,4118,0.12,5,16508,0.03,HIGH,,,,
+6e6727bb-00a3-5151-830b-de76e3d5ecf4,chr17:g.31169985C>T,NF1 R192*,Substitution,Stop Gained,5,4118,0.12,5,16508,0.03,HIGH,,,,
+f8630230-60b7-574d-8289-a773fec3fd0a,chr17:g.31201423C>T,NF1 Q400*,Substitution,Stop Gained,5,4118,0.12,5,16508,0.03,HIGH,,,,
+0ef49fe9-a1fe-5b59-b9b5-0ec61f3b5e25,chr17:g.31169906delTGTT,NF1 C167Qfs*10,Deletion,Frameshift,4,4118,0.10,4,16508,0.02,HIGH,,,,
+13e4c005-2917-513b-8b09-a7b3c9570b5e,chr17:g.31265251G>T,NF1 E1583*,Substitution,Stop Gained,4,4118,0.10,4,16508,0.02,HIGH,,,,
+27b5a3a4-ac9d-5381-8150-6aed186eb879,chr17:g.31327839G>A,NF1 R1870Q,Substitution,Missense,4,4118,0.10,4,16508,0.02,MODERATE,deleterious,0.0,probably_damaging,0.965
+88382415-c770-54b8-bfc3-54c6e947cd8a,chr17:g.31235729G>A,NF1 R1276Q,Substitution,Missense,4,4118,0.10,4,16508,0.02,MODERATE,deleterious,0.0,probably_damaging,1.0
+9609e0ba-d25d-5053-b245-8ceb1af86d46,chr17:g.31235964G>A,NF1 R1306Q,Substitution,Missense,4,4118,0.10,4,16508,0.02,MODERATE,tolerated,0.65,benign,0.19
+96e29ac9-8c46-5963-a7ac-c91a7234184d,chr17:g.31225126delT,NF1 Y628Tfs*3,Deletion,Frameshift,4,4118,0.10,4,16508,0.02,HIGH,,,,
+f46be2e4-f693-5744-9c17-fa672415ed68,chr17:g.31230308G>A,NF1 T1013=,Substitution,Synonymous,4,4118,0.10,4,16508,0.02,LOW,,,,
+0befc3e5-0c8c-5477-ba51-ed1148eb4feb,chr17:g.31233079G>T,NF1 E1192*,Substitution,Stop Gained,3,4118,0.07,3,16508,0.02,HIGH,,,,
+57ebce58-d407-51ef-86ac-dc722c23faaf,chr17:g.31201128G>A,NF1 R385H,Substitution,Missense,3,4118,0.07,3,16508,0.02,MODERATE,deleterious,0.01,probably_damaging,0.999
+59bf7513-a836-566d-ac38-693547c4bda6,chr17:g.31327673C>T,NF1 Q1815*,Substitution,Stop Gained,3,4118,0.07,3,16508,0.02,HIGH,,,,
+63b1727d-9e8f-520c-bc92-587e15cb889b,chr17:g.31325958delTCTC,NF1 K1661Gfs*36,Deletion,Frameshift,3,4118,0.07,3,16508,0.02,HIGH,,,,
+6cca63a5-db87-5351-93cd-a36ede1e98b5,chr17:g.31200444G>A,NF1 R304Q,Substitution,Missense,3,4118,0.07,3,16508,0.02,MODERATE,deleterious,0.01,benign,0.351
+73a2515c-242b-58b4-b72e-9201bc97d03a,chr17:g.31357314C>A,NF1 L2639I,Substitution,Missense,3,4118,0.07,3,16508,0.02,MODERATE,deleterious,0.0,probably_damaging,0.994
+784ba3a6-482e-5f0f-a1af-74ee88622e30,chr17:g.31227232C>T,NF1 Q756*,Substitution,Stop Gained,3,4118,0.07,3,16508,0.02,HIGH,,,,
+82db986c-8afe-5e76-bdb6-5fdb941d6a54,chr17:g.31338734delACTT,NF1 Y2285Tfs*5,Deletion,Frameshift,3,4118,0.07,3,16508,0.02,HIGH,,,,
+8f11775d-0c01-5dfe-8650-c8824f2650a2,chr17:g.31235963C>T,NF1 R1306*,Substitution,Stop Gained,3,4118,0.07,3,16508,0.02,HIGH,,,,
+c71a877e-544f-56ce-afd8-6e84d12455e7,chr17:g.31352273C>T,NF1 Q2492*,Substitution,Stop Gained,3,4118,0.07,3,16508,0.02,HIGH,,,,
+cdad917c-74be-550a-910d-a21618693549,chr17:g.31235623C>T,NF1 R1241*,Substitution,Stop Gained,3,4118,0.07,3,16508,0.02,HIGH,,,,
+cfb680c2-a12e-5eea-ac92-7ca26483cce6,chr17:g.31357308C>T,NF1 R2637*,Substitution,Stop Gained,3,4118,0.07,3,16508,0.02,HIGH,,,,
+daaaf0a9-598e-53dd-a466-d71b9617e51e,chr17:g.31159032delA,NF1 N78Ifs*7,Deletion,Frameshift,3,4118,0.07,3,16508,0.02,HIGH,,,,
+daea2194-8a93-5156-9b71-424f719ddb47,chr17:g.31235720delCT,NF1 F1275Pfs*8,Deletion,Frameshift,3,4118,0.07,3,16508,0.02,HIGH,,,,
+e0bc4b95-2ba8-5b0a-9935-202d61b46f4c,chr17:g.31229145C>T,NF1 L844F,Substitution,Missense,3,4118,0.07,3,16508,0.02,MODERATE,deleterious,0.0,probably_damaging,0.996
+059ddf43-8eed-5d91-b165-864869ddf09a,chr17:g.31206298G>C,NF1 R440P,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,1.0
+072f1ce8-bd5d-59a1-97be-9fe094d26713,chr17:g.31182549G>T,NF1 E258*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+0baf70b2-7b69-5980-9cfb-96c7f00c94ba,chr17:g.31334897C>T,NF1 R1958C,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.917
+0d8ff041-3876-5df6-8d6e-e3b57330cf83,chr17:g.31258500A>G,NF1 K1444E,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.997
+159b0e84-b5d0-5d9a-9d77-4603d29bb6ad,chr17:g.31326184G>T,NF1 E1734*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+1cf246d4-c5f0-5d4a-8aab-68fa9a3ba4f8,chr17:g.31334880G>A,NF1 W1952*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+1e77fa93-b316-5e77-9a74-a35a38490b2e,chr17:g.31229466G>A,NF1 X950_splice,Substitution,Splice Donor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+26c6238c-f507-5f14-85d0-31e3a59df19e,chr17:g.31334931delAA,NF1 R1970Sfs*6,Deletion,Frameshift,2,4118,0.05,2,16508,0.01,HIGH,,,,
+26c698df-a420-5a8b-b806-6687be44129c,chr17:g.31200540G>A,NF1 W336*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+2a701296-3dc5-52e2-8fa8-4591b8bd2779,chr17:g.31200550delCT,NF1 S340Cfs*12,Deletion,Frameshift,2,4118,0.05,2,16508,0.01,HIGH,,,,
+2de160e8-f4a9-5177-9718-7a00c0b01984,chr17:g.31214494delA,NF1 K480Nfs*18,Deletion,Frameshift,2,4118,0.05,2,16508,0.01,HIGH,,,,
+2f06f41e-6cfd-50d8-b60d-b60c0d0c3cbf,chr17:g.31229834G>A,NF1 X951_splice,Substitution,Splice Acceptor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+32367123-0243-5deb-a0f1-97c4f58ad8cf,chr17:g.31219104C>T,NF1 Q543*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+32c8069b-0850-5d7f-b23b-5340856a2ad9,chr17:g.31159046C>G,NF1 L81V,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,deleterious,0.04,benign,0.035
+35d377a4-4d32-5f8b-baba-181d02afe370,chr17:g.31229463C>T,NF1 Q950*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+35f49a31-be10-5f1e-b838-fa59b0ce3175,chr17:g.31352415G>A,NF1 X2539_splice,Substitution,Splice Donor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+36e64ca9-a88b-5f16-b4a0-fccd4fb76c69,chr17:g.31206298G>A,NF1 R440Q,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,deleterious,0.01,probably_damaging,0.999
+3a64a226-37de-54fa-96f0-e22c56ff389c,chr17:g.31338024G>T,NF1 X2235_splice,Substitution,Splice Acceptor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+3f580c23-d158-599a-8ffc-70abf8eea758,chr17:g.31223454_31223455insT,NF1 Y580Lfs*8,Insertion,Frameshift,2,4118,0.05,2,16508,0.01,HIGH,,,,
+43361bf1-bbe6-5e5b-86be-2ec46e5d99ad,chr17:g.31349235C>T,NF1 S2435=,Substitution,Synonymous,2,4118,0.05,2,16508,0.01,LOW,,,,
+44d3e2ed-cf1c-503d-b4d5-26bf95648831,chr17:g.31200552_31200553insT,NF1 V341Cfs*12,Insertion,Frameshift,2,4118,0.05,2,16508,0.01,HIGH,,,,
+4b1f46f0-6226-5dc6-9cf0-94d4646b1d8e,chr17:g.31181460C>T,NF1 Q209*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+4b6489f3-30cf-5c47-b753-dc982b5d48ca,chr17:g.31219080C>T,NF1 Q535*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+4ba57bac-6469-5cee-8637-f0d9d4a04867,chr17:g.31181458C>T,NF1 A208V,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,tolerated,0.49,benign,0.061
+55a793f2-9c0b-53a9-af1e-cc5d6797541b,chr17:g.31200552C>G,NF1 S340C,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,deleterious,0.01,probably_damaging,0.922
+5ab09bd4-a569-52fa-9577-3854e8fef622,chr17:g.31338703G>T,NF1 X2274_splice,Substitution,Splice Acceptor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+5da39bbe-5e16-553a-af54-72465fe573f7,chr17:g.31338139G>A,NF1 K2273=,Substitution,Splice Region,2,4118,0.05,2,16508,0.01,LOW,,,,
+653c16b5-07a3-5a78-b808-2b193400da5c,chr17:g.31182507G>T,NF1 X244_splice,Substitution,Splice Acceptor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+6b66983b-0056-50db-9125-6aa4b4d347c3,chr17:g.31352300G>T,NF1 E2501*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+6c089f22-eeb0-5004-b1c0-169cbf84dad9,chr17:g.31230318C>T,NF1 Q1017*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+6d94ea6d-cd10-55ca-af28-d47f3b1cf5e4,chr17:g.31336814C>T,NF1 F2109=,Substitution,Synonymous,2,4118,0.05,2,16508,0.01,LOW,,,,
+70370592-6ded-5e11-b384-c19706ff45e9,chr17:g.31200443C>T,NF1 R304*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+76dbf0fd-fde8-5739-ab69-a0ec5e0368f6,chr17:g.31226437T>C,NF1 D668=,Substitution,Splice Region,2,4118,0.05,2,16508,0.01,LOW,,,,
+7c75446e-6d8f-59f1-aba3-03e64c5f3e80,chr17:g.31229260C>A,NF1 S882Y,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,deleterious,0.03,benign,0.177
+7ede8ca7-bb1d-5607-b72a-056fbd825360,chr17:g.31201036G>T,NF1 X355_splice,Substitution,Splice Acceptor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+838e6aca-1ff8-5594-b6d5-9e405a12ebeb,chr17:g.31226684G>C,NF1 G751R,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.986
+85d800ae-af4b-5c5f-8c88-ab29bf3c440e,chr17:g.31357071C>T,NF1 A2617V,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,tolerated,0.27,benign,0.391
+8b13801c-bcf4-5cc4-acd3-4eb65cd0b2a2,chr17:g.31200572C>T,NF1 Q347*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+8b939ed6-e833-5a2f-81d2-b5c232c891df,chr17:g.31338035C>T,NF1 Q2239*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+91ed14c7-c61a-58d9-a324-22759f9c149c,chr17:g.31182621C>T,NF1 Q282*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+93508156-1d63-5528-95f7-10d572d1692b,chr17:g.31229118C>T,NF1 Q835*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+95111cf9-be58-55b5-9968-5b4fe4e2e33f,chr17:g.31159009G>A,NF1 X69_splice,Substitution,Splice Acceptor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+9538a027-e7bf-5369-887e-061ada170b2c,chr17:g.31163364G>A,NF1 R156H,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+96f94a68-cdb8-5e3e-bb71-661c48533dc7,chr17:g.31249030C>T,NF1 Q1341*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+a1951f66-b304-57fe-b526-7a71e652427c,chr17:g.31327739G>A,NF1 D1837N,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,tolerated,0.06,benign,0.033
+a50271c5-3d65-5d84-bcdf-49178127f506,chr17:g.31226483C>T,NF1 Q684*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+aaafa237-408d-50ed-a5fb-eca9080f2e0c,chr17:g.31350266G>T,NF1 E2469*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+b44ef066-9c1a-5c00-bd71-ba898a576af5,chr17:g.31229444_31229445insT,NF1 D946*,Insertion,Frameshift,2,4118,0.05,2,16508,0.01,HIGH,,,,
+ba52345f-4e20-54f0-9ef1-85d07e75d173,chr17:g.31230891C>T,NF1 Q1055*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+bbde9c34-d913-5d2f-9c6d-43bf19c5a86d,chr17:g.31260368G>T,NF1 X1477_splice,Substitution,Splice Acceptor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+be7f9f12-108f-5c72-8104-1ee9c3996b1c,chr17:g.31338140G>A,NF1 X2273_splice,Substitution,Splice Donor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+c315c1e0-6625-534b-beca-f6d81e47e352,chr17:g.31230327G>A,NF1 E1020K,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,tolerated,0.09,benign,0.003
+c5e82e92-2057-5ac4-a91c-46316c4c40b9,chr17:g.31337867G>T,NF1 E2231*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+d05d4420-8899-55d8-a9dc-a7f1cf9d07d0,chr17:g.31232881G>A,NF1 G1166S,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,tolerated,0.5,benign,0.05
+d11aa7db-9e62-5c2c-9152-1e35fa9bf9a1,chr17:g.31374149C>T,NF1 I2838=,Substitution,Synonymous,2,4118,0.05,2,16508,0.01,LOW,,,,
+d420554a-15d0-5bfc-a53a-b9b4333130ac,chr17:g.31261733C>T,NF1 R1534*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+d7dfefee-feb6-526d-af09-9f54c511e33f,chr17:g.31360668C>T,NF1 S2781F,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,deleterious_low_confidence,0.0,probably_damaging,0.974
+e285a578-2e64-5dff-b947-0413ba7bb9b5,chr17:g.31337503C>T,NF1 S2188F,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,deleterious,0.01,benign,0.327
+e3522ecb-dbe7-5f32-bd18-629ab436aeec,chr17:g.31227285C>T,NF1 N773=,Substitution,Synonymous,2,4118,0.05,2,16508,0.01,LOW,,,,
+e500fa0b-3085-5d81-b45d-a74771f2f641,chr17:g.31182612G>T,NF1 E279*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+e57c35cf-c168-547c-beaa-763cf63a0cb6,chr17:g.31327840G>A,NF1 X1870_splice,Substitution,Splice Donor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+e8a3dfa0-2584-510d-abe8-32d19d73a452,chr17:g.31360529C>A,NF1 L2735I,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,tolerated,0.16,probably_damaging,0.994
+f2741701-7e6d-5395-b120-0cc591ac9425,chr17:g.31330331G>A,NF1 C1882Y,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,tolerated,0.52,benign,0.127
+f373b9b6-0dc0-51a2-8555-37bd47cc8276,chr17:g.31334927C>T,NF1 R1968*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+fb532c0a-959b-508d-b099-0521c2f75460,chr17:g.31182516G>T,NF1 E247*,Substitution,Stop Gained,2,4118,0.05,2,16508,0.01,HIGH,,,,
+fde2d415-06f9-511f-9efa-e2689c126cb0,chr17:g.31225188C>T,NF1 H647Y,Substitution,Missense,2,4118,0.05,2,16508,0.01,MODERATE,tolerated,0.14,benign,0.031
+fe1a9b00-a528-5448-b285-8b346d2cdd48,chr17:g.31221931T>C,NF1 X574_splice,Substitution,Splice Donor,2,4118,0.05,2,16508,0.01,HIGH,,,,
+00243e8d-1899-54a0-80de-0bc062c702d3,chr17:g.31358599delAATACCA,NF1 Y2698Hfs*39,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+0037684c-3b4a-53cf-b43d-26e46ea6d1fc,chr17:g.31340503A>C,NF1 X2308_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+006fbc23-aaed-545d-945a-affc858f5cd8,chr17:g.31235947C>A,NF1 L1300=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+00ad2ad7-f08a-5d5c-8256-6edaff16345c,chr17:g.31265318delT,NF1 Y1607Ifs*17,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+011b9d27-3694-5606-baa9-9bcdaa9da6eb,chr17:g.31356948A>T,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+013b453b-751c-5563-b4fc-b8dca5894018,chr17:g.31357036G>T,NF1 L2605F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.998
+01c3e721-a723-5823-9688-882b2e945497,chr17:g.31235676G>A,NF1 W1258*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+01f7b3d8-abd8-5621-a8ab-ae8750c0b89e,chr17:g.31226650G>A,NF1 M739I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.43,benign,0.0
+021f0115-a79a-5ef7-83e8-665f5d8e2aed,chr17:g.31219175A>G,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+0233eb27-88ae-536a-9d89-bae349df1a53,chr17:g.31340502delCAGGACTCGCCTCTGCACAAAGCCCTCTTTTGGGTAGCTGTGGCTGTG,NF1 X2308_splice,Deletion,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+0235fa8e-5e44-5438-9abe-7b699cc623c3,chr17:g.31356950C>T,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+024fdca8-c3d2-5e9a-926c-c5e539d4db5e,chr17:g.31169898G>T,NF1 E163*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+0298a4a4-48c1-5613-a5f0-5b800eda9a7a,chr17:g.31327780C>T,NF1 V1850=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+02dbf9bf-8258-57c8-a51c-636d3548d32f,chr17:g.31343008G>T,NF1 X2355_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+0301b3f4-4919-51a9-89fc-98fe0bd976ef,chr17:g.31258503G>A,NF1 X1444_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+0336552f-fa8d-5c18-9a73-178709d4aab1,chr17:g.31181482T>C,NF1 L216P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.078
+033b65eb-5c7e-57fa-84ce-0902f4fac8ec,chr17:g.31260498G>C,NF1 Q1520H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.13,benign,0.073
+03544846-5651-5d6b-9412-c79439732b43,chr17:g.31235650C>T,NF1 R1250W,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.973
+03659df6-cb84-5d3c-a5cc-740022c2f25b,chr17:g.31327684A>G,NF1 E1818=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+0377f423-5335-53da-83b4-bb5762ba33e6,chr17:g.31219074G>A,NF1 V533I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.14,benign,0.085
+0396d391-ec37-54c1-9bc6-1345e43c782b,chr17:g.31337487delCG,NF1 R2183Gfs*10,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+03c10549-d19f-5911-b64a-3812d5f70769,chr17:g.31226576G>T,NF1 E715*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+03c66a2d-7d7e-54b4-871f-7c816eeb41a3,chr17:g.31357060G>T,NF1 P2613=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+03e22013-59ce-59b4-bb57-1ee455566dc4,chr17:g.31325914G>T,NF1 D1644Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,1.0
+0458b965-ed5e-5e5a-95cc-2b147626051c,chr17:g.31343031C>T,NF1 A2362V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.27,benign,0.001
+045a9878-07e8-5e20-83a2-8729643f2ecf,chr17:g.31232763A>C,NF1 Q1126H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.1,benign,0.285
+04912e74-7998-5efa-bb77-fff96f863589,chr17:g.31229355C>T,NF1 R914W,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.987
+04f15fd9-04fc-5421-ae07-897a316f85df,chr17:g.31265300C>A,NF1 S1599Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+04f59631-2cbd-5bd1-9e3a-ee31c0210e6d,chr17:g.31336857G>C,NF1 G2124R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.831
+05351ae0-16dd-5e58-b752-f8710f618e49,chr17:g.31352375delA,NF1 M2526Wfs*22,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+0538607c-3c00-53bb-ba8a-70820a1d597d,chr17:g.31336751G>C,NF1 L2088=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+0544ee45-58bd-5547-81d6-e3f8379a6809,chr17:g.31181708A>G,NF1 X219_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+05a18719-ab88-50a3-9d65-343072c3ad2d,chr17:g.31338113A>C,NF1 K2265Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,possibly_damaging,0.791
+061432f3-648f-5147-bea1-1724d67eda4e,chr17:g.31337543C>T,NF1 S2201=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+06259022-46b4-58ea-bb31-41e9e98ea4f1,chr17:g.31336331A>G,NF1 X2003_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+06b5ec79-27e7-5ac5-8dfb-6769833679c3,chr17:g.31201472G>A,NF1 R416Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.18,benign,0.025
+06ce3d7f-2bfa-53f3-85e3-fbb0d94e776d,chr17:g.31336802C>T,NF1 H2105=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+073e11f8-955d-5961-b3c2-cc1b2c4fbf62,chr17:g.31352369C>A,NF1 L2524M,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.06,benign,0.11
+0815fc58-339f-5ef1-ac15-61566a7d9786,chr17:g.31325956delT,NF1 L1659Sfs*39,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+0897c0fe-2eaa-5288-bd83-e7a0e26b6e70,chr17:g.31225100delAGAT,NF1 D618Efs*12,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+095d13cf-bb89-5abb-b6f2-7b7c2677741d,chr17:g.31356973T>G,NF1 I2584M,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.14,possibly_damaging,0.629
+0a02a578-64ba-54bb-90bc-8db06df53a0c,chr17:g.31182616T>C,NF1 I280T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.07,benign,0.218
+0a1444aa-292b-571e-a9dd-6fde8e60c0d0,chr17:g.31200447A>T,NF1 K305I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.406
+0a669faa-2f45-5f6c-95cf-6b0e50bf7980,chr17:g.31356505C>T,NF1 P2554L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.04,benign,0.155
+0a7b27b6-16d8-5486-973c-8a178f6ffd05,chr17:g.31336764T>G,NF1 S2093A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.29,benign,0.073
+0aa01d2f-2cbc-540e-961f-9d31ac56a01f,chr17:g.31336808_31336809insA,NF1 T2108Nfs*12,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+0b8918ad-2204-57a7-a3cc-8f120e342f64,chr17:g.31337486C>A,NF1 Y2182*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+0bf73f59-b558-500b-b3b1-b3ddc48f3be0,chr17:g.31340586A>C,NF1 T2335P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.579
+0c51d161-4abe-5593-8338-c58589a0119f,chr17:g.31327840G>T,NF1 X1870_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+0d04bef6-3106-53a2-ade3-e2f247d8ee58,chr17:g.31350265G>T,NF1 M2468I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.21,benign,0.007
+0d28a081-c798-5465-98a9-1a7de09c001a,chr17:g.31356556G>C,NF1 R2571T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.04,benign,0.063
+0e449707-5cd0-5208-ae15-199f8d9c7511,chr17:g.31356991C>T,NF1 H2590=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+0e5c134a-7f1b-5246-a98a-b846ed278d5c,chr17:g.31219076C>T,NF1 V533=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+0e8553ae-c48d-5de4-86dc-803c64ac2f14,chr17:g.31326002A>G,NF1 N1673S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.11,probably_damaging,0.984
+0e9cf504-5f6b-54b9-bf29-1c3fee1b28c5,chr17:g.31200522C>T,NF1 A330V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.03,benign,0.376
+0f7006bd-549b-542e-83e7-9dbfab41cfaa,chr17:g.31200452_31200453insT,NF1 A308Cfs*7,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+100bfe62-d0fc-5ddb-a3ac-192cd0300850,chr17:g.31232761C>T,NF1 Q1126*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1015a0d9-ece5-5d64-8ecf-300ae08a1d0c,chr17:g.31219088C>T,NF1 H537=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+102c3e69-4e77-5c33-bd69-c5ce6e9170f5,chr17:g.31350281G>A,NF1 D2474N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.07,benign,0.003
+10375a08-b711-5e33-990e-b295c32a2c7d,chr17:g.31343010G>A,NF1 S2355N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.1,benign,0.035
+10518c48-35d7-54a9-8b9b-0f11bd9e0091,chr17:g.31181729delAAAATTA,NF1 E225_Y227delinsV,Deletion,Protein Altering,1,4118,0.02,1,16508,0.01,MODERATE,,,,
+10895788-c0ef-591c-a438-c525b5e8292d,chr17:g.31156102T>C,NF1 T60=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+10999c3d-ae6a-57ee-bca8-9923f0e67469,chr17:g.31206263delGATTGATGCTGTG,NF1 K428Nfs*41,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+10d8981b-41c5-5082-84ce-bc4f5110bd91,chr17:g.31358620delAAAGTAAA,NF1 X2704_splice,Deletion,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+112f3bc4-9f97-5cca-aa0e-7d64a173d350,chr17:g.31181782G>A,NF1 A243T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.11,benign,0.297
+11ed87ec-a7c4-5b2e-93be-9768e0a0f106,chr17:g.31233156T>G,NF1 D1217E,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.17,possibly_damaging,0.571
+1218ee34-9210-5c63-b788-31f2c27007b3,chr17:g.31226654T>C,NF1 F741L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,1.0,benign,0.0
+127d3082-dafd-5e4f-9c7a-7b6678833ae0,chr17:g.31159050C>T,NF1 S82F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.972
+12837c8d-b136-54f7-b665-54bc65086a41,chr17:g.31219047G>C,NF1 E524Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.1,possibly_damaging,0.732
+12e0cbdc-d091-563f-aedf-a8791e80ca32,chr17:g.31095386G>A,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+12f24718-bd3b-5ea2-834b-8e3993a70e4c,chr17:g.31221849G>A,NF1 X548_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+12fa9144-9056-52aa-bee5-98ce99d10642,chr17:g.31229873A>C,NF1 Q963H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.7,benign,0.062
+12fc895c-6610-5303-9eb0-78f0c7c2fa43,chr17:g.31334898_31334899insT,NF1 C1960Lfs*4,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+13393c8a-5755-5047-8008-4f236075b619,chr17:g.31260516G>C,NF1 X1526_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+13b868a4-ebfc-5f24-a968-41f1100f83ad,chr17:g.31327838C>T,NF1 R1870W,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+1400b73e-7724-5f79-8707-6b988a294c77,chr17:g.31356553G>A,NF1 R2570K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.33,benign,0.006
+14c2d12d-12fa-54bd-9fff-85de0e236235,chr17:g.31352284C>T,NF1 S2495=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+14f1407c-15bd-5ae3-a439-96cdf3dd1b53,chr17:g.31327772A>T,NF1 K1848*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+151f6d1d-23b6-5ac1-80c5-5a2b41bea28e,chr17:g.31201444C>T,NF1 H407Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.78
+153e19a4-ad25-55fe-9ba2-e1f8513c28cb,chr17:g.31327702C>T,NF1 I1824=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+15aae00c-2376-559f-b98e-48efddd3274d,chr17:g.31233168delC,NF1 P1222Lfs*2,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+16273c02-8cbe-5711-9c3a-82cc4f89531b,chr17:g.31358977T>G,NF1 F2708V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.994
+1629d39f-0f59-5048-ba46-726b29ffa71b,chr17:g.31214571A>T,NF1 K505*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+163d6f25-5460-588f-9a3c-57754ef08298,chr17:g.31206239G>C,NF1 X421_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+16488869-b289-5cb2-865b-1750969d447b,chr17:g.31221853C>T,NF1 L549=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+16c61834-25b0-57d0-8f7c-55431f630832,chr17:g.31214458delC,NF1 T467Nfs*6,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+17423500-d90f-5d10-a681-9dda76b44444,chr17:g.31229057G>A,NF1 K814=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+174db6c6-41ee-5b9b-b711-440ffb5a0a87,chr17:g.31337880delG,NF1,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+17569406-e9f2-5c58-afaa-587690e1fd3a,chr17:g.31230886C>G,NF1 S1053*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1759feec-b5e9-5f9b-8de7-78c8b81daf69,chr17:g.31327821G>T,NF1 S1864I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.961
+17a32f29-2ae2-52e9-918c-1a1e79723e0a,chr17:g.31229255G>A,NF1 V880=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+17aa23ff-b594-5ad9-ab8f-42f023ae413f,chr17:g.31352390C>T,NF1 Q2531*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+18512cad-bdf7-515b-b596-956a5dac23e4,chr17:g.31229232C>T,NF1 R873C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.838
+18a4bec4-ed02-531c-9cbb-e2de4f7db832,chr17:g.31327818G>A,NF1 G1863D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.991
+19196b7f-c284-58ea-9a30-8d742ec8d6cc,chr17:g.31327637A>G,NF1 I1803V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.05,benign,0.018
+191e2032-09ea-5921-a85a-4a916f5446e1,chr17:g.31338124C>T,NF1 I2268=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+19887c09-eae0-5995-8096-c80279fd40ed,chr17:g.31265317_31265318insT,NF1 Y1607Lfs*15,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1a13e8aa-1133-54da-8a50-9fb79bbc1e92,chr17:g.31337516_31337517insGA,NF1 T2196Rfs*5,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1a2313b3-4236-50df-a36c-c9f1d70fd7c0,chr17:g.31159022G>T,NF1 E73*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1a87c683-4de2-559f-98a8-47ac683bb778,chr17:g.31163270C>T,NF1 R125C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.17,possibly_damaging,0.838
+1af00bc2-632a-5ed9-934b-cd3dc8c45a67,chr17:g.31261833C>G,NF1 S1567*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1b2e1a27-74bd-582b-997c-97fffb4359df,chr17:g.31336332G>T,NF1 X2003_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1b2ff83a-93ab-5a43-9148-1db44394d648,chr17:g.31327767G>A,NF1 R1846Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.301
+1bc3adcc-2c0a-53df-98df-adabd7b51075,chr17:g.31232859delCAGTGGTCTCATG,NF1 S1159Tfs*3,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1bd556eb-b5dc-5563-8fd3-727020e223ac,chr17:g.31230847A>C,NF1 K1040T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.987
+1bda8817-5204-5e06-aa91-4c426ddf409f,chr17:g.31225198T>A,NF1 L650*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1c0a2383-c325-5c11-bd66-7ac8ba08c429,chr17:g.31232823C>A,NF1 V1146=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+1ce8c655-15ee-5a21-b6ac-26d5b3469fa8,chr17:g.31230280delATATGGTCCATGCAAT,NF1 N1004Ifs*3,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1cffa01f-ec38-5f4d-8b7e-cb5a2f243983,chr17:g.31169975delA,NF1 K189Nfs*2,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1cfff485-1258-59a1-a66f-ccdc97729315,chr17:g.31229040C>A,NF1 H809N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.31,benign,0.065
+1d2d31c1-6d64-5e8b-b5d5-6ed1ca2d1c49,chr17:g.31325844T>C,NF1 G1620=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+1d3dd2ad-3ebc-550e-9876-5c7cca99044b,chr17:g.31249079_31249080insC,NF1 Q1360Sfs*20,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1d7ad629-3a83-5078-9edd-89d477b442c5,chr17:g.31350261C>A,NF1 S2467*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1dde294a-eeb6-527f-baa7-f79e7fee7889,chr17:g.31327609A>T,NF1 L1793=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+1dfad554-699b-544d-ae45-b4d128853d9e,chr17:g.31334908_31334909insC,NF1 H1962Pfs*2,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1dfd2721-7c9a-56c8-aa68-e4e1d81a74b8,chr17:g.31214530_31214531insTT,NF1 L492Ffs*7,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+1e556106-d5dc-5e6e-a7ee-3046e47f7475,chr17:g.31260381T>A,NF1 D1481E,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.4,benign,0.014
+1ec793a3-6fef-5971-b2d5-b7d0edd63d32,chr17:g.31219169A>G,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+1f5455a7-7bd3-5553-9146-5bc422a240bd,chr17:g.31260383T>C,NF1 I1482T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.288
+1f6bed19-9a52-53ff-bac6-a2555609d9cb,chr17:g.31221865C>T,NF1 H553Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.959
+1fcd882b-8cd5-5bdb-99fa-cc677635b781,chr17:g.31358993G>A,NF1 R2713Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.995
+1fe05e0a-effa-52f4-9f2c-7319a44dff8a,chr17:g.31226446A>C,NF1 A671=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+205a46d6-1951-567b-ad37-c6d57400c562,chr17:g.31229357G>A,NF1 R914=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+2084a62e-2220-5eae-a506-a35cb42cf812,chr17:g.31337476G>T,NF1 R2179L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.667
+2093b60d-fad3-5628-b808-3f9e276078cc,chr17:g.31261722C>A,NF1 A1530D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,benign,0.024
+20f2af4c-b7a2-554d-ab95-d55ca22a4f97,chr17:g.31358997T>C,NF1 F2714=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+20fae96a-8203-5639-9095-3a9bfcd5831b,chr17:g.31252963A>C,NF1 K1379T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.05,probably_damaging,0.988
+21463746-5299-5fe7-bbd1-9a1086b92edd,chr17:g.31358968G>T,NF1 X2705_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+21d02568-7d5b-553b-8e9e-93dbb88627f8,chr17:g.31336887T>C,NF1 C2134R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.837
+21dca17d-f01e-5461-b3e7-b5e761b00f2d,chr17:g.31325982T>C,NF1 F1666=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+22427fa7-5f69-5679-9a4f-63d876b8ef67,chr17:g.31374105C>T,NF1 Q2824*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+241a8401-6083-51db-ae3d-7e189556cd07,chr17:g.31221868C>T,NF1 Q554*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+2423223d-3139-5fdb-bc0b-5771c9d26e15,chr17:g.31229974G>C,NF1 R997T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.908
+24be7a3c-2783-547b-a611-d60323e334ae,chr17:g.31338103T>C,NF1 H2261=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+24d14249-7e0c-5d3f-984a-5455dbe5bce9,chr17:g.31214449delAG,NF1 X465_splice,Deletion,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+25039c2d-a3c5-593b-a390-c30d95859c6e,chr17:g.31265300C>T,NF1 S1599F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.993
+25326708-91d4-5e62-a26e-ee8bd953ba17,chr17:g.31259050A>T,NF1 N1451Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+25630245-07cd-502f-90a8-8d4f5a798e86,chr17:g.31337490G>A,NF1 D2184N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.04,benign,0.379
+25b1e31b-56c7-5578-a487-8e3c3df83c83,chr17:g.31337506C>G,NF1 P2189R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.15,possibly_damaging,0.482
+26601610-55a8-58c1-8ab7-8dc0bdeb279e,chr17:g.31169992T>C,NF1 L194P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+26953ac0-61d3-5ceb-bd51-5ac79cefdf01,chr17:g.31350296C>A,NF1 H2479N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.13,benign,0.0
+26a51443-f6ef-579c-98e6-b95eb1257463,chr17:g.31249044delGTTCTTCCATGCCATC,NF1 F1346Sfs*27,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+270f6a20-f62d-55fb-8b4f-9991e0867441,chr17:g.31259090T>G,NF1 F1464C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.99
+2811dd1f-917a-50d3-b258-a19225077cf7,chr17:g.31336703T>C,NF1 H2072=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+285050df-df73-5d3e-9a17-f5720c816500,chr17:g.31360587C>T,NF1 S2754F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.01,possibly_damaging,0.467
+286caa77-929e-59cc-a192-900dc5a8691c,chr17:g.31181778_31181779insA,NF1 M242Nfs*3,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+28b99746-9722-5749-b902-27597d507ebd,chr17:g.31229465G>A,NF1 Q950=,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+29b2be0d-fea6-5d20-a92b-c7f4d182828f,chr17:g.31334984C>T,NF1 Q1987*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+29ca1668-b40d-5a59-ab50-0bcb9ad45f9c,chr17:g.31261855delTAGG,NF1 X1575_splice,Deletion,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+2a564b3e-8f16-583f-a3b3-e08a611e3983,chr17:g.31335007delA,NF1 I1996Yfs*16,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+2a58401a-16b4-5ad7-9371-1a040d371737,chr17:g.31377638C>T,NF1,Substitution,3 Prime Utr,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+2a747b59-bdd8-5258-a075-b24adb184cc1,chr17:g.31232856A>G,NF1 V1157=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+2b03baff-b42c-5a0d-af54-44f092478104,chr17:g.31181736T>C,NF1 Y227=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+2bb6f3d2-d68c-5691-9e6b-6d2da64947a8,chr17:g.31327783T>C,NF1 P1851=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+2bb86702-f407-53e2-ac94-fce3b9c2c2c2,chr17:g.31258475C>T,NF1 I1435=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+2bcfe22a-7223-5a28-8e0f-780dacd7e365,chr17:g.31156049C>T,NF1 L43=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+2c22773b-2ddb-5d66-abf2-5f62f329465e,chr17:g.31327659_31327660insC,NF1 T1811Hfs*8,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+2c7451db-df27-5a26-8071-a8f18d6bfb4e,chr17:g.31350240C>A,NF1 S2460*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+2ca18e08-e2ac-5133-9078-c2c18405dead,chr17:g.31214532C>A,NF1 L492I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.22,possibly_damaging,0.622
+2cb2f9c8-22ac-569e-aceb-a447f0bfa37d,chr17:g.31200504G>C,NF1 C324S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.13,benign,0.003
+2cf8a0e2-96ad-5efc-9ba4-2291536c1012,chr17:g.31338139G>C,NF1 K2273N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,possibly_damaging,0.532
+2d2110b5-18e9-5541-94c5-3e1f3502ac3b,chr17:g.31201416delC,NF1 L398Wfs*14,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+2d2f9969-69d6-5dd2-9c94-eeace6dcd345,chr17:g.31360706C>A,NF1,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+2d54ebaf-bb88-5376-b317-ddc831b357b0,chr17:g.31214569_31214570insA,NF1 L506Afs*5,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+2dabb5c1-f6d5-5217-bf05-595226d7c5ec,chr17:g.31349192A>C,NF1 N2421T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.04,benign,0.014
+2de56034-0b6a-5a47-a82c-44c51d376cc1,chr17:g.31259032delATACT,NF1 I1445Sfs*20,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+2e281957-2950-57c8-9f8c-bb8d3e69b2cb,chr17:g.31201116delTTTCTTGC,NF1 C383Yfs*10,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+2e3b43a3-c300-5db4-b6ca-cc5011368dd8,chr17:g.31337430C>T,NF1 L2164=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+2e5c7f31-8082-52ea-a331-3541cc0a859d,chr17:g.31356561G>T,NF1 A2573S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.36,benign,0.001
+2e8b4841-650d-59cc-9d8c-883ce7000658,chr17:g.31335022C>T,NF1 S1999=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+2e9c4872-4b04-5198-a87a-b7d3916eb068,chr17:g.31343135G>T,NF1 G2397W,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.997
+2ec0eb4b-84cd-58c5-bc9d-f2daef9a05aa,chr17:g.31229934G>T,NF1 G984W,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,probably_damaging,0.972
+2ef7760e-9f3c-5a8b-9269-5a83fe944c43,chr17:g.31349169A>G,NF1 L2413=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+2f22636f-04b4-5bf2-8016-1f3151d531b1,chr17:g.31233145A>G,NF1 M1214V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.09,possibly_damaging,0.812
+2f7c9185-2626-5da0-bb7f-efba4a9d0739,chr17:g.31230279A>G,NF1 N1004D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.6,benign,0.272
+2f89cc59-ae02-5a2d-b022-75cbc2134409,chr17:g.31232780G>A,NF1 R1132H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.835
+2fa2f219-5390-5445-b16f-6dc47a9e0ba4,chr17:g.31201097C>A,NF1 L375I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.08,probably_damaging,0.987
+301814df-9dc6-5082-9c28-e70e6aa53114,chr17:g.31330340_31330341insT,NF1 L1886Ffs*27,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3043a746-61e3-5c0d-8d56-4cf3943eec40,chr17:g.31235690delAAG,NF1 E1264del,Deletion,Inframe Deletion,1,4118,0.02,1,16508,0.01,MODERATE,,,,
+306dbc29-3c30-5e79-9fe0-9145a9ec4c58,chr17:g.31232812C>T,NF1 H1143Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,possibly_damaging,0.579
+30924363-8042-554e-be0e-0be45896c0ba,chr17:g.31159093G>A,NF1 G96=,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+30c13390-936e-5597-9d8c-c6e4bcba2120,chr17:g.31232791C>T,NF1 R1136W,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,probably_damaging,0.937
+30db9c56-bd54-5d09-97a4-2d11927aaec7,chr17:g.31327775G>A,NF1 D1849N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.993
+31570bb4-fb56-5aa8-a539-3430be8fe946,chr17:g.31357258C>A,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+316060e5-533e-567c-9ca8-098ec7bc1bb9,chr17:g.31219063T>C,NF1 L529P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+319468bc-59be-5a4d-a7bf-1a6dc1acc318,chr17:g.31232760G>A,NF1 A1125=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+3220d4ba-cdcd-5f73-a193-09f07dd6d059,chr17:g.31358570T>C,NF1 S2687=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+329e798b-5d74-5d2d-babc-46c1b5238d7c,chr17:g.31159045T>A,NF1 Y80*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+32e346c2-6411-59d7-a1fe-15d85bfb2f5d,chr17:g.31225133C>T,NF1 Y628=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+337e7903-73c6-578a-96e5-f6b5cf90f8d5,chr17:g.31249110_31249111insC,NF1 Y1369Ifs*11,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+33b99c87-87f0-506e-95f9-b974279e52f7,chr17:g.31336461G>T,NF1 L2045F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.986
+33f14c77-cc2f-565b-acdb-7b2324ca9aac,chr17:g.31338739C>A,NF1 Y2285*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+34026d64-a422-56ee-8ebf-24c0ecffd6c4,chr17:g.31249057A>G,NF1 I1350V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.897
+34738e6d-e160-5fc8-9451-2aac8a06e9ce,chr17:g.31095377G>T,NF1,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+3486d8e9-c45f-5400-b23a-11bd6395bd85,chr17:g.31235932C>A,NF1 T1295=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+34905608-c4a9-5e3a-b81b-c2ed1c2e51f7,chr17:g.31181458C>A,NF1 A208E,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.18,possibly_damaging,0.764
+35d38a65-efed-5345-abcb-b0e7f836d9af,chr17:g.31233006delAGGTTACCACA,NF1 Y1169Sfs*22,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+367d157c-335a-57ab-822a-8aab6ce2b7e1,chr17:g.31374081G>A,NF1 G2816R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.0,probably_damaging,0.997
+36e8ca19-353a-5fda-85bf-39d1efaebd75,chr17:g.31358643A>C,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+371b28b4-0642-54eb-a26a-fd2fc12fc2b2,chr17:g.31330454delCGTTAGAATTTT,NF1 T1923_L1927delinsM,Deletion,Inframe Deletion,1,4118,0.02,1,16508,0.01,MODERATE,,,,
+37685a2f-980f-586d-84b4-d1c13ed2526b,chr17:g.31265265delG,NF1 T1589Rfs*2,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+376d858c-70dc-577d-a61f-c8698d1a2615,chr17:g.31229067T>C,NF1 S818P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.06,benign,0.248
+37ca0284-351d-5f07-a978-d0eccd818ca4,chr17:g.31260397C>T,NF1 P1487S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.18,benign,0.097
+3820a9cc-8da4-54e5-b026-37b604fb720d,chr17:g.31335027G>T,NF1 G2001V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.734
+38229a2d-d343-51b2-898d-164e77e9eac4,chr17:g.31358512T>A,NF1 L2668Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.363
+386a5d20-a50a-503a-9a39-55c7dd546a8f,chr17:g.31201437T>C,NF1 S404=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+38cc1eb3-0f16-566d-baa9-b35fdad402ad,chr17:g.31330360T>G,NF1 L1892V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.989
+39807389-731c-55b4-9a08-8d7fbca01beb,chr17:g.31360591C>A,NF1 L2755=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+3987b480-c6b3-506d-9654-b1d79f56cf21,chr17:g.31375631G>C,NF1,Substitution,3 Prime Utr,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+399319ab-f8c9-5cb0-9639-8cdcb93af9a7,chr17:g.31233015C>G,NF1 H1170Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.84
+39b9d786-b9fd-5a35-96cc-41b6b1651fa0,chr17:g.31338739C>G,NF1 Y2285*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+39ea2257-d8dc-5c3e-a370-33cd2faa89ad,chr17:g.31350305G>A,NF1 D2482N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.17,benign,0.056
+39fa7a80-7617-508d-ac91-53adc37da1cb,chr17:g.31343020A>T,NF1 E2358D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.57,benign,0.007
+3a0c10af-ba73-5b15-addf-155302d3cba0,chr17:g.31350267delA,NF1 N2470Mfs*19,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3b569d91-f521-5ec2-a95f-08f668c947f0,chr17:g.31201463C>G,NF1 S413*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3b5f660b-2213-5fee-b3f3-8df3d7a21386,chr17:g.31226628T>C,NF1 L732S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.764
+3ba9a4e5-0b60-5ff8-81ab-e182fe44dc96,chr17:g.31201463C>A,NF1 S413*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3be95fe6-950b-56b1-bf05-9081a0ff1d62,chr17:g.31330315C>A,NF1 L1877M,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,probably_damaging,0.99
+3c917d0b-3427-5cb3-b9b9-de71c2d386e2,chr17:g.31225170delAG,NF1 Q642Nfs*6,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3ca6df47-71e6-57f2-b4c5-e3c3398c4778,chr17:g.31226520G>A,NF1 W696*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3cebd83a-7c16-5d98-8dc3-912b27e205f5,chr17:g.31227547T>A,NF1 W784R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.998
+3d39c743-5ab7-501d-af9e-32cda45b781b,chr17:g.31235948C>T,NF1 L1301=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+3d84986c-c722-5093-9e0c-1b892c4f9a22,chr17:g.31343015G>T,NF1 E2357*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3db88cf3-76da-5b17-ab11-2052bf8d355a,chr17:g.31357031C>A,NF1 L2604I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.994
+3decae93-70fd-542f-b26b-9185ddcb0eee,chr17:g.31357280delA,NF1 K2628Nfs*16,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3e03c9f2-3447-599d-98bb-1c3dd3c35860,chr17:g.31181785delG,NF1,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3e2d9425-d375-5b43-802e-0ffe0fd432eb,chr17:g.31226649T>C,NF1 M739T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.51,benign,0.014
+3e454d10-f08a-5f29-8177-b277b452b835,chr17:g.31340510delG,NF1 P2310Lfs*9,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3e60d6b4-373f-5533-99ee-f014085bced8,chr17:g.31258429C>G,NF1 S1420*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3ecd2e84-cb9e-5a23-a732-a651fce78b5d,chr17:g.31182598_31182599insTGCCTC,NF1 L274_I275insAS,Insertion,Inframe Insertion,1,4118,0.02,1,16508,0.01,MODERATE,,,,
+3f124964-143e-5672-b43d-c78b198d426a,chr17:g.31327787A>G,NF1 T1853A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.748
+3f95e68d-3364-53c6-b465-2db00f01868b,chr17:g.31200508_31200509insA,NF1 L327Tfs*3,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+3ff90ae1-b81a-5694-a458-031de50112c5,chr17:g.31229451G>T,NF1 D946Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.897
+40f0a347-7d1c-502d-8bc3-b971028f1a6a,chr17:g.31326161T>G,NF1 L1726R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.998
+40f23184-e900-5c9e-be10-f010d18f8722,chr17:g.31229407C>T,NF1 P931L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.258
+421c3656-9c00-5f2f-88d8-f7b362f9c7ea,chr17:g.31259059C>A,NF1 L1454I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.5,benign,0.053
+42334696-9c5f-5784-82f4-c65122dda0b9,chr17:g.31163271G>C,NF1 R125P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.21,possibly_damaging,0.567
+42630695-819a-58ee-9f22-a0bf360498ad,chr17:g.31221848A>T,NF1 X548_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+42d83065-d194-51c6-ad1f-782500a568d8,chr17:g.31223523C>T,NF1 R601W,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.977
+44265d34-6f98-5292-b5eb-dbbb1f6b2478,chr17:g.31229356G>T,NF1 R914L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.12,possibly_damaging,0.866
+44a09fad-9503-561c-8600-5d7b471701cd,chr17:g.31229967delC,NF1 L995Wfs*17,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+459e570c-a80e-5182-9e3e-c586c7be7d9d,chr17:g.31360518delTTG,NF1 V2732del,Deletion,Inframe Deletion,1,4118,0.02,1,16508,0.01,MODERATE,,,,
+46728ce9-fdbc-52dc-91b0-233aaad02a50,chr17:g.31232713T>G,NF1 F1110V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.903
+468792cc-e4fb-55ed-ae96-b8412edcad90,chr17:g.31235747G>T,NF1 S1282I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.969
+4689e4aa-625f-558a-91b6-44cff994166a,chr17:g.31233135A>G,NF1 E1210=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+46d1b12c-7018-59b7-a001-9f36934d70e3,chr17:g.31232103A>G,NF1 V1076=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+47191637-60fd-5cb4-9f72-f18a47b1d7ac,chr17:g.31163376G>A,NF1 R160K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.22,benign,0.267
+4757d342-ec38-52c2-a348-2e9b3e86b905,chr17:g.31336342C>G,NF1 L2006V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.995
+475e2411-f32a-550f-9073-9f8c413498dd,chr17:g.31221891G>A,NF1 W561*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+476b7a72-5a49-5139-896d-8e5983243b73,chr17:g.31232840T>C,NF1 L1152S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+4799cc14-3138-5236-b0f0-c519031d9506,chr17:g.31233115C>T,NF1 R1204W,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.991
+47ab674f-3b82-51df-bd5a-75eb57dcbcb7,chr17:g.31349211C>T,NF1 D2427=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+47f462e6-fe1c-57c2-b4b8-36a4ca0dd9ed,chr17:g.31219018delAG,NF1 Q514Rfs*43,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+47fab1ac-aaa2-59ac-8390-2f30f5888234,chr17:g.31350210G>A,NF1 R2450Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+4841fc4b-aaa4-5aff-b551-399a1fd2eead,chr17:g.31235649T>A,NF1 S1249=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+489d33fe-7366-5ea5-883f-75137c725498,chr17:g.31229887T>G,NF1 M968R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.304
+48e44046-ba55-57c2-b858-184291eea66f,chr17:g.31169943G>T,NF1 E178*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+4934c63f-04d8-5865-bb9d-9aac2957e53c,chr17:g.31356572delT,NF1 Y2577Mfs*47,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+49d2b227-ceb3-5e1f-a012-a06422bf7f9b,chr17:g.31221857T>C,NF1 L550P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.99
+4a4a2522-23ad-5b05-a4c0-adaa0434d286,chr17:g.31249062C>G,NF1 I1351M,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.14,possibly_damaging,0.593
+4b1ddbaf-7b23-5fd0-885c-baac780fe907,chr17:g.31326028T>C,NF1 C1682R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.998
+4b8165d7-5514-5c48-b299-7118ac01e6d3,chr17:g.31221921G>A,NF1 W571*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+4b939620-1f53-5df3-94af-f2c876c5f850,chr17:g.31227260G>T,NF1 R765L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.12,benign,0.132
+4b9f927c-9c98-5a5e-a5a9-caeca22741f2,chr17:g.31357370delGTAA,NF1 X2657_splice,Deletion,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+4baa85f9-3581-50c6-b469-682aad026306,chr17:g.31159076G>T,NF1 E91*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+4bc4ec92-ad57-5401-8203-53c2ff225526,chr17:g.31325987G>T,NF1 G1668V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.19,benign,0.16
+4c3cd186-c37d-5855-a251-f5e101595ffc,chr17:g.31358532C>T,NF1 P2675S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.85,benign,0.039
+4cd52335-66f1-54f5-8895-4b9772eb93ac,chr17:g.31260507C>A,NF1 S1523=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+4d6c0629-ceb4-55ae-9de6-3864caa1a4fd,chr17:g.31336874C>T,NF1 I2129=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+4e18ca6b-02fd-5d45-9e20-6e504703e4bb,chr17:g.31260441C>T,NF1 D1501=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+4e3c4b13-a4bc-5d70-8999-dbb2a252f5f7,chr17:g.31381947T>C,NF1,Substitution,Downstream Gene,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+4e448813-f029-5fb9-a14a-8b7f7a567ec2,chr17:g.31337367G>T,NF1 X2143_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+4e51f913-c302-5a8d-811c-fd473f5e51ac,chr17:g.31338758G>T,NF1 E2292*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+4ee8630b-0932-546a-945b-68cfeb6e2fb4,chr17:g.31337557C>G,NF1 T2206R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.947
+4f87bd70-140e-5fb0-907f-8e299a0897fd,chr17:g.31163282C>T,NF1 Q129*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5070c137-d7ba-5df3-989a-e9dfa2aa24ff,chr17:g.31156080T>A,NF1 L53*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5152ed6e-9fcd-566f-b91f-fb4e33b828c5,chr17:g.31229382C>G,NF1 L923V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.51,benign,0.097
+51629ca0-51d2-5b25-b2ee-6144cf2f3527,chr17:g.31223422delAATGAACTTTATGTTACTGCAGCTCACAAATGCTTTTTTACATCTGCAAG,NF1 X574_splice,Deletion,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+518a970b-46d6-5b60-a3a1-a8fa24dee295,chr17:g.31214480C>T,NF1 S474=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+51dffe70-70fa-5c58-bba6-012285a01ce1,chr17:g.31233157C>T,NF1 Q1218*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+51f7a04b-8ea6-50c8-90ce-4faa45af7d72,chr17:g.31358518C>A,NF1 S2670*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+52007460-95f5-5c3e-b1a7-154909f8ae6c,chr17:g.31357320G>T,NF1 E2641*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5270e5ab-25b3-5e1b-95df-03c26aed8a80,chr17:g.31326245delC,NF1 S1754Lfs*11,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+52b43c0d-0f7e-54c6-a3a8-eeaff9bf6170,chr17:g.31229851C>T,NF1 T956I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.54,benign,0.003
+5381327e-3efe-5d59-b1b1-87403beb1d19,chr17:g.31249071C>T,NF1 S1354=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+53aa65e3-a975-50a1-b258-f7d1b9b13cec,chr17:g.31325998G>A,NF1 D1672N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.018
+53d88a77-2f6d-55e6-aada-6910457e9c13,chr17:g.31330430T>A,NF1 L1915Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+5449778b-37d1-5341-a9f4-d4101749c3d4,chr17:g.31223524G>A,NF1 R601Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.865
+546e46f9-fffe-51f8-9158-5771c628eaa6,chr17:g.31265295G>A,NF1 G1597=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+54c5cac9-6cc3-5544-bcf2-55998c59752b,chr17:g.31360664A>G,NF1 N2780D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.05,benign,0.142
+54d3d562-ee41-57bc-b2da-8a1c16ac0282,chr17:g.31214577T>G,NF1 L507V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.03,benign,0.156
+55753c4c-828b-550e-860e-f5abf7bc0013,chr17:g.31357294A>T,NF1 D2632V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.944
+55aabb31-37b7-5f5a-b2fd-1ef7f5e798e4,chr17:g.31214484A>T,NF1 K476*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+55e8b0c0-8818-5d5c-bba3-89965be54534,chr17:g.31182532T>A,NF1 L252*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5668644d-95fc-5bfd-b285-b61f8227f0b3,chr17:g.31230328delAAGT,NF1 V1021*,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+56abdba5-1e81-50ca-9b2b-0885c365e87a,chr17:g.31235617C>T,NF1 L1239=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+56c02805-490d-527b-9114-8029be61b8b8,chr17:g.31360666T>G,NF1 N2780K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.02,benign,0.007
+56f9aa18-ec0d-575d-8d15-6edf04e680a1,chr17:g.31327587C>A,NF1 S1786*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5716cd60-9d44-5c1f-b3c7-5ee5e175850e,chr17:g.31326004G>A,NF1 V1674I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.78,benign,0.015
+57a43dc2-99c6-5e21-9eef-3fffc5cfe9d7,chr17:g.31232699G>T,NF1 X1105_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+58409a21-151a-566d-869a-6509c49385a5,chr17:g.31358526C>T,NF1 Q2673*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+58938909-b8d2-5dc3-8eeb-16dc8149b262,chr17:g.31182562delGTAAA,NF1 R262Lfs*19,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+591a6270-e7b0-557b-b417-4c30a18b24f2,chr17:g.31325859C>A,NF1 Y1625*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+595c307f-73a4-583b-836f-f37c3791e5dc,chr17:g.31232172A>G,NF1 K1099=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+5980f390-7999-5629-9d78-38a6f67f22fd,chr17:g.31229296T>G,NF1 F894C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.948
+59bd0c1a-e6ec-55d5-a63d-a634f2be8124,chr17:g.31225114G>T,NF1 C622F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.05,benign,0.011
+59c9f920-368a-5ef6-8211-056e8935ad1e,chr17:g.31182597C>T,NF1 L274F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,probably_damaging,0.996
+59e5f937-18d4-519b-858a-e3aa8de9e890,chr17:g.31229406C>G,NF1 P931A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.04,benign,0.027
+59fd5cb4-6e75-563d-8247-3f0298901efb,chr17:g.31159039delT,NF1 L79Yfs*6,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+59fffcd3-55ec-5f53-b921-7888bb87c560,chr17:g.31227253delC,NF1 L763*,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5a251d22-ddc5-5cc6-8999-fc47d21dc544,chr17:g.31232830A>G,NF1 M1149V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.909
+5b172e40-68e6-55dd-9878-8cb941fca13d,chr17:g.31326028delTG,NF1 C1682*,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5b221c1b-5c34-5336-8c9e-8a01f44787da,chr17:g.31340505delGACTC,NF1 D2308Afs*17,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5b4f47ef-cefa-5f25-b882-237d51efd42c,chr17:g.31258353C>T,NF1 Q1395*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5bc5652e-fa26-52f3-96f8-1314f34ba98f,chr17:g.31229317T>G,NF1 L901*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5bd49cb9-5cad-5d2f-b945-1333f45f7d7d,chr17:g.31358479delG,NF1 X2657_splice,Deletion,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5c27214e-0ffb-56dd-b017-4741eec48698,chr17:g.31206308T>C,NF1 F443=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+5c47005e-5a1d-5d62-a4c1-4756965b636f,chr17:g.31229482delT,NF1,Deletion,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+5c6a9fcc-905e-5423-9a67-01a5f916be01,chr17:g.31252998T>C,NF1 S1391P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.19,benign,0.383
+5c74d580-61b2-5823-8c83-11f169b22684,chr17:g.31226564C>T,NF1 R711C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,possibly_damaging,0.838
+5c8ffa63-2a2b-5455-aae0-5cd201a32f28,chr17:g.31229327T>A,NF1 C904*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5d6640a6-cdca-5120-b5f2-5ee4e1594d8f,chr17:g.31340599A>T,NF1 E2339V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.661
+5d68d28d-f97f-5201-9430-a92ff4aa3f4b,chr17:g.31235706A>G,NF1 A1268=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+5d757465-be35-5968-a084-4ace8c5aa82b,chr17:g.31334876delC,NF1 P1951Hfs*6,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5dd7fd7f-bab3-5c2d-888d-2f9ad14629de,chr17:g.31336712G>T,NF1 W2075C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,1.0
+5e07f873-433c-5e3b-849a-4ca695b763a5,chr17:g.31330504T>C,NF1,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+5e618f06-171e-5426-af8a-5203590f924e,chr17:g.31261836A>G,NF1 K1568R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.37,benign,0.014
+5e8ca244-3a2e-5f5f-a624-108efdbd538c,chr17:g.31258455delA,NF1 K1430Sfs*10,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5e9b4258-5f0b-520c-b6cc-d1222d57dd94,chr17:g.31229204T>A,NF1 Y863*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5efbdd60-48a7-5e53-88a8-87dfb6856e2b,chr17:g.31340509delCG,NF1 P2310Sfs*16,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5f083ba8-aaa3-51cd-8939-d45c74e6275a,chr17:g.31336339G>T,NF1 D2005Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.885
+5f16e980-e960-5a44-85a8-a9688fea60f8,chr17:g.31327694C>T,NF1 Q1822*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+5f76f151-04e9-5d70-b4bf-16d3d4b96a0b,chr17:g.31223443G>C,NF1 X574_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+601cf223-6c03-5a92-9300-17d98c327768,chr17:g.31229918C>T,NF1 G978=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+602909c7-f5ef-54f9-b31e-6c188833aa90,chr17:g.31356513C>T,NF1 Q2557*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+60372964-d87c-58fa-9411-4d25f23490ea,chr17:g.31334966A>G,NF1 M1981V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.024
+605be6f0-c0ef-59d7-8bd0-2562c37f44f2,chr17:g.31169921C>T,NF1 D170=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+60dfbf6a-3362-5bd2-89c9-17f10240a794,chr17:g.31232108C>A,NF1 S1078*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+61112ce4-f82d-51d0-83ce-db757624d88d,chr17:g.31334931delA,NF1 R1970Efs*9,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+6118622b-5945-5877-8d59-1ac580c0e7ee,chr17:g.31229911C>A,NF1 T976N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.11,benign,0.0
+61460c56-e720-5a2a-8d1d-a08d05568d40,chr17:g.31229274G>A,NF1 A887T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.54,benign,0.037
+615b1dd3-ae71-55cd-bf04-88999342b372,chr17:g.31261710G>A,NF1 X1526_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+628c9471-8a9f-5061-a166-0bee1f326695,chr17:g.31232155_31232156insA,NF1 L1095Ifs*11,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+62bf80e0-d064-5427-b5c3-5e195be02291,chr17:g.31206343G>A,NF1 G455E,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,1.0,benign,0.081
+62f5e228-1d32-5cea-9423-66524d1046be,chr17:g.31201409A>G,NF1 X396_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+6376a4f8-122f-592f-b0f4-2bc6710d0545,chr17:g.31229422A>C,NF1 K936T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,benign,0.379
+638cd36b-5931-55f5-b5f5-1fde3ecdf550,chr17:g.31219031C>T,NF1 T518=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+6390a14f-ab1e-5db1-a752-3b66ea21f58e,chr17:g.31156033G>A,NF1 E37=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+63a16e82-3bf6-5cd5-89e3-f05d29e33d1c,chr17:g.31229304C>T,NF1 R897W,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.05,probably_damaging,0.919
+63a268e1-3e70-5ff3-9896-81ab00f81d98,chr17:g.31358510C>A,NF1 T2667=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+63a4e8f6-e35e-58ba-8af7-83d93108b1fb,chr17:g.31336672G>C,NF1 C2062S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.32,benign,0.038
+63e0291c-5c84-51ef-a208-ee36ffb7af51,chr17:g.31232863delG,NF1 G1160Vfs*6,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+64152aa6-08b9-52d5-813f-7a33ee81aaef,chr17:g.31163370delC,NF1 S158Lfs*7,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+64981a55-bcfa-5e93-a04e-b881a182fda3,chr17:g.31156091G>A,NF1 G57S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.05,possibly_damaging,0.799
+651a702f-d540-5d90-8924-d14ab965d1fa,chr17:g.31259100T>A,NF1 F1467L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.04,benign,0.134
+651c24b6-30d3-532a-937d-ffb17b8e6026,chr17:g.31221896C>A,NF1 P563H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.997
+651db368-2b46-56d9-afd1-b57da1f9956c,chr17:g.31330462delT,NF1 L1927Wfs*15,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+65a46008-ef07-50af-84d8-d89e4aa272cd,chr17:g.31249035G>T,NF1 M1342I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.32,benign,0.003
+65c53665-3f51-5d94-8c11-e4830380ed89,chr17:g.31229152C>A,NF1 A846D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.989
+65c6231e-7464-56f9-b34d-11c10e21af01,chr17:g.31360538T>G,NF1 L2738V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.387
+65e342d6-9417-502b-b215-41c875c39d75,chr17:g.31343086C>G,NF1 L2380=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+663527f3-959a-54d3-9ba2-8ff3ea4a1efe,chr17:g.31229461G>A,NF1 G949E,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.943
+666e276d-e0e5-52e8-8562-1209a448fb58,chr17:g.31327724G>A,NF1 E1832K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.751
+66960c34-2104-5d83-9c3d-5c02310bfafb,chr17:g.31337403delG,NF1 E2155Sfs*45,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+66b825fd-7c44-5760-b818-4ca79476652d,chr17:g.31229113C>T,NF1 S833F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.25,benign,0.17
+67504c2b-7c71-5b99-b68b-dd9621930158,chr17:g.31233129G>T,NF1 L1208F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.913
+67789588-8dbe-50fe-b2aa-550a27916883,chr17:g.31357067C>T,NF1 Q2616*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+67bf9a0a-3927-5c11-bcb4-71762886fb93,chr17:g.31357012A>G,NF1 S2597=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+67f591c2-d767-5893-a04e-fcbc26acc869,chr17:g.31326098G>A,NF1 R1705K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,1.0,benign,0.001
+68400d95-3fe7-5bd9-b83a-29db34fab260,chr17:g.31201118T>C,NF1 S382P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,probably_damaging,0.925
+6843a7d5-acfc-537b-8268-4b442b372fe4,chr17:g.31337459T>G,NF1 A2173=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+68e1e7df-b453-5877-a77b-76ecfc399d72,chr17:g.31225109T>G,NF1 S620R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.2,benign,0.014
+6a153585-8d8d-5ed0-aecc-b82159399f0a,chr17:g.31327487delACCACTTTCCAGGTTGGTTCT,NF1 X1757_splice,Deletion,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+6a1c5ac1-4e09-558f-ad55-9573b2bb0142,chr17:g.31358492G>A,NF1 L2661=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+6a6954bd-24bc-5f37-b761-23101665922a,chr17:g.31225246C>G,NF1 S666C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.23,benign,0.0
+6a69b3cc-77ab-5826-b1b1-385c19ffd1d8,chr17:g.31330312C>A,NF1 L1876I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.03,probably_damaging,0.971
+6a966691-5a46-57a6-aa3c-414232cdada2,chr17:g.31227585A>C,NF1 K796N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.1,probably_damaging,0.919
+6b0d938e-8924-588d-8e9a-74aa8f586a3f,chr17:g.31338131C>G,NF1 L2271V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.505
+6b39b9fd-55b7-5b92-aa9d-3219fa90e3bf,chr17:g.31235703delG,NF1 A1268Qfs*17,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+6b7900f5-1b9d-5e65-8a51-90d109b437ce,chr17:g.31233072A>T,NF1 Q1189H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.54
+6b9cc7b0-cd77-5746-a880-0ffa78da0d6b,chr17:g.31229188C>A,NF1 S858Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.93,benign,0.006
+6cc6ee81-bf4e-5e86-ab16-0c7ade64ad48,chr17:g.31330423A>T,NF1 K1913*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+6d6f1b72-d55d-5519-a224-f35555de47a9,chr17:g.31327607C>T,NF1 L1793=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+6d7f4622-e2f0-5a2a-88e4-f0f647b58eeb,chr17:g.31325879A>C,NF1 K1632T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.923
+6deb4a09-7e3c-5137-9661-7fe14dbdd6eb,chr17:g.31336427C>T,NF1 T2034I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.987
+6e3174f7-c33c-5d88-a2a1-8eb1444fc1e2,chr17:g.31359061C>T,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+6e386617-f635-5d8f-916b-1f25702b6465,chr17:g.31260463C>T,NF1 R1509C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.996
+6e3a8134-c29f-50a3-9c6b-67fc51f557f1,chr17:g.31356526C>G,NF1 S2561*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+6ecb1cbf-9777-5df4-b7e7-e61d0c2a603f,chr17:g.31163188A>G,NF1 Q97=,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+6ece798d-db69-5c00-a7b1-75c2b8b873f6,chr17:g.31227293T>C,NF1 X775_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+6ee10a7c-ea55-5c70-9351-1d6560d68f8c,chr17:g.31360548C>G,NF1 T2741R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,benign,0.059
+6f2e3e36-dddd-5883-aa98-d6d53b226c94,chr17:g.31357031C>T,NF1 L2604F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.998
+6f33f640-825b-519b-aabc-d851684b4b74,chr17:g.31156111G>T,NF1 K63N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.883
+6f583dde-03c8-5830-a6c8-fa10280dd3f5,chr17:g.31226477C>T,NF1 Q682*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+6fa7a88a-261e-509e-a6f4-d94d1ef4b7d5,chr17:g.31259084G>A,NF1 R1462Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.35,benign,0.026
+6fe5a9f4-dc06-5aad-9bf3-815d5d33bdf7,chr17:g.31327648delG,NF1 G1807Afs*56,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+701e7339-9d11-5729-91e4-b3e282094c81,chr17:g.31325977_31325978insT,NF1 P1667Sfs*15,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7034a581-6fb6-5b40-8ab8-aeccfe817f32,chr17:g.31338100T>G,NF1 S2260=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+70c86ffc-c074-5dac-a5f9-f585f43cb235,chr17:g.31235698G>T,NF1 E1266*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+70d2b3a6-b583-55d9-ae7b-e7f68e5be924,chr17:g.31340594delTCTTGAACAAAACCTGCATAC,NF1 E2339_L2345del,Deletion,Inframe Deletion,1,4118,0.02,1,16508,0.01,MODERATE,,,,
+7116730c-d2a4-505e-90a6-ce50bae4dbf4,chr17:g.31265259G>T,NF1 K1585N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.04,benign,0.154
+712b478e-9a5b-5a2f-869e-aa3737629fe2,chr17:g.31252949C>T,NF1 H1374=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+71d2da20-a049-5b3d-be37-ee7d1d4b6139,chr17:g.31338055A>G,NF1 Q2245=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+722fa6c0-305e-5457-816b-6c23de730083,chr17:g.31232144G>A,NF1 G1090E,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.04,possibly_damaging,0.521
+72428fcb-6604-53d3-8609-b0370351199a,chr17:g.31343059C>A,NF1 C2371*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7267bbf1-06a6-5c25-aed3-e3e203d98176,chr17:g.31334891C>T,NF1 L1956=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+72f98cd5-2fc2-564c-834c-a104d0e214ed,chr17:g.31360670A>G,NF1 M2782V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.1,benign,0.072
+730efbcd-45d3-5155-9d1c-cfefe0b47196,chr17:g.31350252C>T,NF1 T2464I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.11,benign,0.015
+7454576b-84b8-57a5-b30f-dd5b27cd78f5,chr17:g.31232729A>G,NF1 N1115S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.776
+7466c783-860b-5431-a159-2bd262062148,chr17:g.31200502C>T,NF1 A323=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+7485a45d-3d6b-5a4b-94c7-7cc218c478d7,chr17:g.31181459G>A,NF1 A208=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+74ba1d6a-5289-55a0-a084-edad5ea1e65b,chr17:g.31225101G>A,NF1 D618N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.39,possibly_damaging,0.857
+74f785be-d5e4-5002-ac72-abf2babc66b8,chr17:g.31233208C>T,NF1 Q1235*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+756e5c47-0bfa-52d3-a710-46b868c01d5b,chr17:g.31214539T>A,NF1 L494*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7595f0bb-6114-5693-b8d7-d36d5e0a75d9,chr17:g.31249085_31249086insT,NF1 Q1360Sfs*20,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+75ac1dd0-ab9a-57b1-bfa4-9842c015af35,chr17:g.31358969G>T,NF1 S2705I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.464
+75b8279d-7d13-559f-b585-4684479c44c6,chr17:g.31265248G>T,NF1 E1582*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+75ee2a6c-9a37-5757-aa1e-85414f8d76ca,chr17:g.31356540C>T,NF1 P2566S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.14,benign,0.062
+7664061d-8b20-5c32-afda-caf737b381dc,chr17:g.31223535A>T,NF1 I605F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.09,possibly_damaging,0.798
+76692b3a-27aa-563b-9b14-88d482d79740,chr17:g.31230366C>T,NF1 Q1033*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7685cc97-a0fc-5ffb-90a3-eee0a07c84d2,chr17:g.31159019delG,NF1 G72Efs*13,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+76e31621-94ac-58e6-af07-dee827f1f035,chr17:g.31349187G>T,NF1 L2419=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+76f07b76-0662-5b25-b906-944f9a0409b9,chr17:g.31357260T>G,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+7705829d-7a00-598f-a37e-9c9de789a4af,chr17:g.31350226delA,NF1 K2456Nfs*33,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+77151ccd-79e7-5cbd-bf8d-ebd384837a78,chr17:g.31337823G>A,NF1 C2216Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.885
+7795a876-3b47-5d6b-bf67-866c4a7cc9eb,chr17:g.31340504G>T,NF1 X2308_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+77e5eda1-2b31-5fcf-ad97-638791e35b27,chr17:g.31260406G>T,NF1 D1490Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.885
+77f9e708-df6f-56d5-99c0-42faab663153,chr17:g.31327731C>T,NF1 S1834L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,possibly_damaging,0.811
+7852065f-1f66-563a-94bb-764aff7aef6f,chr17:g.31336729T>G,NF1 L2081*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7853e1e2-6181-5cd5-8f4a-f58eaeaeda10,chr17:g.31181760C>G,NF1 Y235*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+78693b6b-a7f7-5b88-a8a0-108dd62ce01f,chr17:g.31235664C>A,NF1 Y1254*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7872289d-d740-5bda-83c7-628f820b7fec,chr17:g.31233199C>G,NF1 P1232A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.27,benign,0.109
+7963c532-d0fd-5575-9529-78dbba71d82c,chr17:g.31226626C>T,NF1 L731=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+7983e8a5-8604-5e3a-9559-1bef44bac29b,chr17:g.31337851G>A,NF1 W2225*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+798aba32-30fd-543d-aab2-f74a380d36a8,chr17:g.31259093A>G,NF1 N1465S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.06,benign,0.194
+79b396ef-ba48-5352-8fd4-9347e1fc4cd3,chr17:g.31227290delAGGTATGCCC,NF1 X775_splice,Deletion,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7a158aae-0a87-52f5-96b1-10a1fbbf6d71,chr17:g.31338024G>A,NF1 X2235_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7a6dc868-c6d8-5c92-b3f9-fc49ef6ee444,chr17:g.31374105_31374106insA,NF1 R2825Kfs*9,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7ad48187-665a-58e6-8ae5-7545579dc05d,chr17:g.31336785C>A,NF1 L2100I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.893
+7af30b4e-f7d6-5915-91e8-cca049563373,chr17:g.31337566T>C,NF1 L2209S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.979
+7b14fa52-b201-5372-9c49-87936dfae074,chr17:g.31249116delC,NF1 Q1370Rfs*8,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7b5237eb-7b4a-5226-872b-c65d9e09c2cf,chr17:g.31249016A>T,NF1 Q1336L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.19,benign,0.122
+7b526cbb-de37-5301-9150-4476deb9a473,chr17:g.31258403C>T,NF1 L1411=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+7b8f24d1-9bce-5312-8804-b71d128120de,chr17:g.31327795C>G,NF1 L1855=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+7b9dcc46-a6a1-58f3-be8b-0a95eddb056f,chr17:g.31350249T>G,NF1 L2463R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.06,benign,0.26
+7bcfe965-7204-5677-bb9f-eeaaa6800ac6,chr17:g.31330351G>A,NF1 E1889K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.957
+7c2b1209-61f6-5ada-9003-5b67c28bb551,chr17:g.31358545A>G,NF1 N2679S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.27,benign,0.133
+7c2be2dd-a1bd-5859-94b2-33a11f002a57,chr17:g.31356539_31356540insC,NF1 K2568Qfs*9,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7ca6fcbe-7ef1-5fd8-9a42-1c6bb5be8703,chr17:g.31337817delA,NF1 X2215_splice,Deletion,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7cb9baa3-4f95-539c-ad33-6de11ce803ee,chr17:g.31356459G>T,NF1 X2539_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7cd07f13-c8b7-54f5-b3c1-94862010d180,chr17:g.31214466G>T,NF1 E470*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7d379eaf-e5d8-5f4c-b5e3-207bc14db967,chr17:g.31169986G>A,NF1 R192Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.34,benign,0.28
+7d520f8d-4d18-5b35-8c21-50cdd58b326a,chr17:g.31200442A>G,NF1 L303=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+7df9beab-2ef9-590a-8138-ec086fe8ccdc,chr17:g.31201479C>T,NF1 I418=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+7e291e63-8c70-5a6d-afbf-4a8ea9644afd,chr17:g.31232861G>T,NF1 S1159I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.1,benign,0.168
+7e4e85b1-e735-54d5-a0f0-bad43def301e,chr17:g.31330294A>G,NF1 X1870_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+7e849351-4ea7-59f2-9ca9-c4500b46ca75,chr17:g.31226565G>A,NF1 R711H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.12,benign,0.043
+7ee3a2d7-d7c5-554a-adaf-ce9634f61156,chr17:g.31350222G>A,NF1 S2454N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.21,benign,0.351
+7f1c700e-0da2-5f76-9e08-5018d38f946d,chr17:g.31337576C>A,NF1 I2212=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+7f387445-f44c-5df2-974f-e4e352773953,chr17:g.31340639T>A,NF1 N2352K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.12,benign,0.147
+7f6c3cbc-2673-5133-9bdb-db5872877745,chr17:g.31327597A>G,NF1 E1789=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+80f2a764-858a-5694-8f93-85c178790d9c,chr17:g.31340534G>A,NF1 W2317*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+811c495d-6d3c-5169-95ae-2574ea87ab53,chr17:g.31326185A>T,NF1 E1734V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.322
+81737eef-a0cc-5a6a-a4c4-de1a56b512e0,chr17:g.31230871G>A,NF1 W1048*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+8189f8f2-a676-558a-a490-5394f5245069,chr17:g.31229130A>G,NF1 N839D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,probably_damaging,0.993
+81cb878a-a1bc-5ef8-b40f-20870e48292d,chr17:g.31338105G>A,NF1 G2262E,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.72,benign,0.005
+81faff93-a2d3-5862-800c-834805c4c9d1,chr17:g.31235661C>T,NF1 L1253=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+820a514f-8529-590d-b1f1-b74c4fac922e,chr17:g.31337517G>A,NF1 E2193K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.15,benign,0.031
+8226e8c5-c99e-5235-8f75-664598ddf16d,chr17:g.31338023A>T,NF1 X2235_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+823ca462-46f4-54e6-8af1-ec17859cae09,chr17:g.31352362C>T,NF1 S2521=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+825ba6d5-dcea-50d4-950f-13ad807156f0,chr17:g.31325942G>A,NF1 R1653H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.975
+82823665-9bf4-59c1-b1f8-34fba85f3316,chr17:g.31326172A>C,NF1 T1730P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,1.0
+82bafe7a-ea93-59de-986d-f05ac80c6fe6,chr17:g.31336771_31336772insT,NF1 V2096Cfs*24,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+82f86724-e170-5177-8786-8b580f195335,chr17:g.31225206A>T,NF1 T653S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.55,benign,0.003
+82fa4d39-b24c-5e1f-9eb5-3a2dfeae555c,chr17:g.31327543A>T,NF1 K1771N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.09,benign,0.082
+8312fed9-81b4-5636-8867-4ce3b4318d30,chr17:g.31337847delAGTGGCTGGACC,NF1 L2226_W2229del,Deletion,Inframe Deletion,1,4118,0.02,1,16508,0.01,MODERATE,,,,
+836666e9-ad40-5ed1-afe1-cf283f65012c,chr17:g.31337817A>T,NF1 X2215_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+8367cbfd-0f0c-5702-84af-73b4cdb977eb,chr17:g.31252978delA,NF1 K1386Rfs*20,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+837b0561-7395-5afc-bd8f-e3c3b6bf5876,chr17:g.31223548A>C,NF1 K609T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.43,benign,0.039
+839fd55a-d9c0-54bf-9e5f-9fb63407ee2a,chr17:g.31226676T>G,NF1 M748R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.14,benign,0.0
+83f02a91-b385-54e0-a7c3-65dfd0d44dd3,chr17:g.31252971G>A,NF1 V1382I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.04,probably_damaging,0.956
+8418a58d-e44c-5387-9f31-cc1aa2645efb,chr17:g.31156062C>T,NF1 S47F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+84720ab8-5630-500f-91a5-2cd0a71dbc32,chr17:g.31327824C>A,NF1 S1865Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.885
+847adab4-bd8d-53a6-883a-24c0b68b068d,chr17:g.31260469C>T,NF1 L1511F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.969
+84e6682c-1fb9-531f-8c37-4aa23ea18fee,chr17:g.31330333A>C,NF1 T1883P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.947
+8528be86-21df-5c0d-b679-b174acc3a00e,chr17:g.31343022T>C,NF1 V2359A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.063
+85f29343-58e5-5da6-b1f1-3825e405d979,chr17:g.31330498delAGTA,NF1 X1938_splice,Deletion,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+85fd0578-219d-5107-8580-c918261daae6,chr17:g.31259040G>C,NF1 Q1447H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.905
+86db4a99-62af-5dcf-a051-1cdf56ea8892,chr17:g.31248983G>A,NF1 X1325_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+87053839-89e6-541f-996b-52cde565e46a,chr17:g.31327775G>C,NF1 D1849H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.992
+88332069-47b1-5769-95dd-071f0df1178e,chr17:g.31358958A>G,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+8851b0f2-2ed6-5eb5-bc85-d7e1529e32d4,chr17:g.31200588A>G,NF1 D352G,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.728
+887b42fc-623d-5196-95cd-161fc18aaaf4,chr17:g.31338703G>C,NF1 X2274_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+8893b1c2-e991-5ef8-8a51-b59fd7d80500,chr17:g.31163332C>T,NF1 L145=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+88bdd42b-098c-5267-b0db-b6e0454c1ca3,chr17:g.31352412delT,NF1 G2539Efs*9,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+890a9cd9-8710-5956-bbc5-5e25dac99fb2,chr17:g.31214456_31214457insA,NF1 T467Nfs*3,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+895d5957-97fd-535d-9bfb-859328ef9c41,chr17:g.31326113A>G,NF1 D1710G,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.322
+896a34ec-52db-564e-b12f-c5be2deac123,chr17:g.31357040G>A,NF1 E2607K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.06,benign,0.444
+897d7746-cabe-5412-a61c-d39f34d41698,chr17:g.31260375C>T,NF1 F1479=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+8a1430bc-446d-5a0a-929c-4a8e0b22d42a,chr17:g.31350184T>A,NF1 A2441=,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+8a73320a-e406-55fe-b28e-460f7f4f4bb5,chr17:g.31181426A>T,NF1 T197=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+8a73aa37-4cc9-51ce-aeb1-d05278598772,chr17:g.31325983C>T,NF1 P1667S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.12,probably_damaging,0.945
+8afe9c46-14d7-55b4-bc9e-c9851f5d5afa,chr17:g.31235614G>T,NF1 E1238*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+8b09fd4c-f886-5826-aefb-d9025e65c150,chr17:g.31334864G>T,NF1 E1947*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+8b34e171-0efb-5591-97ae-90c81debbfb1,chr17:g.31334986G>A,NF1 Q1987=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+8b6730bf-2a14-57ab-b18d-2724dea56973,chr17:g.31336803G>A,NF1 V2106I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,1.0,benign,0.006
+8b8dfd98-2661-5026-a3c1-27288283341a,chr17:g.31249103delG,NF1 C1365Sfs*13,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+8b94e2b2-02f5-5034-941c-8e11d285d40c,chr17:g.31232083C>T,NF1 Q1070*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+8b9f08f6-5c39-5cad-b689-ef9dd1a26d44,chr17:g.31336886G>T,NF1 L2133=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+8bff11da-0f05-5db9-8ae3-28266c67a76a,chr17:g.31260510C>A,NF1 S1524R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.735
+8cddaed7-aa58-55c1-ac29-180bd67eb155,chr17:g.31229094G>T,NF1 D827Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.095
+8d2b6784-5bd6-5099-bac9-d49ba6f163e9,chr17:g.31325970G>A,NF1 W1662*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+8d932c1b-600e-5c96-a4b5-ea6fa6f3fa7a,chr17:g.31359034C>T,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+8da2c05f-dd0b-569a-82bc-33a7abfe8966,chr17:g.31360687T>G,NF1 T2787=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+8db9624e-c25e-54f2-81a0-0668839c00f6,chr17:g.31374114G>C,NF1 A2827P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.11,benign,0.358
+8dbc2e35-75b4-55a8-b1d1-aaf47bf9f232,chr17:g.31340578C>A,NF1 S2332*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+8dbe4f02-8702-5a28-aa2e-2eb999d76408,chr17:g.31221889T>C,NF1 W561R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.997
+8e04b433-67e8-5739-9f54-a7e47ddd9cbc,chr17:g.31156069C>T,NF1 Y49=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+8e4777dc-4739-5ef0-b100-0a0ec5bfb3d7,chr17:g.31248982A>T,NF1 X1325_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+8e4e2d96-8172-5d80-b5a4-037cd5960f41,chr17:g.31226526C>T,NF1 P698L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.34,benign,0.006
+8ebfc21d-70c7-5307-979e-9e889c94dd76,chr17:g.31330366G>C,NF1 E1894Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,possibly_damaging,0.867
+8f0a66b9-2ead-5a17-8b60-bdfadacf95a1,chr17:g.31326245C>T,NF1 S1754F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.09,possibly_damaging,0.606
+8f8a49fb-b9ee-5231-87c0-506d981ad2db,chr17:g.31360683C>T,NF1 A2786V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.02,benign,0.304
+8fb6e4a3-4777-5a0f-8aea-ec300986183d,chr17:g.31327675G>A,NF1 Q1815=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+8fef1cb5-5730-556e-a892-123f0c7ff3b2,chr17:g.31330305C>A,NF1 A1873=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+90179e96-bda7-53d1-b40c-dfb1a0d85970,chr17:g.31206365delG,NF1 A463Hfs*10,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+90a02ed8-b5b4-5b2f-a43e-d9c56162e9b3,chr17:g.31358566delAG,NF1 S2687Cfs*5,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+90f2cb07-7658-5cf5-827c-6e50604998e8,chr17:g.31201066C>A,NF1 F364L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,possibly_damaging,0.554
+91307fbb-b7b9-57db-89e1-4a154f4cadcb,chr17:g.31232181delATTTCTTAAGTAA,NF1 X1104_splice,Deletion,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+917d110c-ad75-5cde-8adf-015d3887bd8f,chr17:g.31338126G>A,NF1 R2269H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.03,benign,0.081
+91bd6a93-e19b-5b76-991c-d06681cf068f,chr17:g.31159032delAA,NF1 N78Ffs*28,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+921c9961-fbdf-50bf-81b0-2dc89decbe11,chr17:g.31226572C>T,NF1 L713=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+92a7dcbf-712f-5991-8116-1b4b6c77c41c,chr17:g.31229111delC,NF1 S833Pfs*8,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+93906b64-ff6f-5bff-af88-d8c306192987,chr17:g.31201044T>C,NF1 L357P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.99
+939b01e8-f458-54e1-b6f4-2da99ab6dc67,chr17:g.31343025T>G,NF1 F2360C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.013
+93b5619f-d64c-5b8d-aba0-29c03834b914,chr17:g.31349191delA,NF1 N2421Tfs*11,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+93b892fc-c113-547b-86b4-f65cad44e957,chr17:g.31169936T>C,NF1 H175=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+93c06d52-0384-544f-b0c7-1ff0a8404efc,chr17:g.31229115C>T,NF1 L834=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+93cee7f5-4486-5362-908e-82cf938908bf,chr17:g.31206355C>T,NF1 A459V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.055
+94487f5c-9cfe-583e-8860-9422347b0d43,chr17:g.31214536T>C,NF1 L493P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+94e26d8e-597b-538f-a6fb-63ad9a41f373,chr17:g.31236023T>C,NF1 X1325_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+951acfe1-8b69-5c0c-b2c7-04e18389400e,chr17:g.31206316delCACTTCATAAAGCAGTG,NF1 L447Rfs*17,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+95382f84-2f34-5f85-a42b-526d796e74ed,chr17:g.31235773G>T,NF1 X1290_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+95dccfb0-4b16-5db2-861e-b9e4fbad4cd6,chr17:g.31221863T>G,NF1 L552R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+95e988d6-2eef-5038-b5d8-0ddf1739987b,chr17:g.31374082G>C,NF1 G2816A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.02,probably_damaging,0.987
+95fa65a7-73d9-50c7-a97e-42109458623b,chr17:g.31232111T>G,NF1 L1079R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+95ff0061-4dab-5207-88f1-033fbe000e12,chr17:g.31352286C>T,NF1 S2496F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.01,possibly_damaging,0.55
+96964667-95cf-5bba-afbb-f8f6f7ec8522,chr17:g.31327720delC,NF1 W1831Gfs*32,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+96b7852b-e6f2-5c5b-99ed-4a82381cd6ec,chr17:g.31259074G>T,NF1 E1459*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+97d5c75e-c1b9-511e-b818-16648c793b6d,chr17:g.31233168C>T,NF1 L1221=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+981ff508-bbf4-5115-9733-fced074cbc5d,chr17:g.31223475T>G,NF1 L585V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.07,probably_damaging,0.916
+98365411-b9c4-5bf0-8a46-65da57d143d3,chr17:g.31259043T>A,NF1 S1448R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.636
+984210f4-7e1e-5c42-afa3-6574448c28ea,chr17:g.31201156T>C,NF1 F394=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+9a9b9af2-38e0-5587-80d4-695bd27f578d,chr17:g.31337423T>G,NF1 F2161L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.161
+9ab4554c-1a9a-558c-95f7-a463187314c5,chr17:g.31163273G>T,NF1 E126*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+9ab8bc66-1fd4-593f-9a4e-dae42bb59399,chr17:g.31200485G>A,NF1 E318K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.03,possibly_damaging,0.872
+9b3bafb2-6a2a-5aab-bea3-f98b1582a487,chr17:g.31200541G>A,NF1 W336*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+9b96ebb5-7c00-57da-95ea-02f91ce486d5,chr17:g.31249080delC,NF1 P1359Lfs*19,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+9ba858f1-98c3-57eb-8aa5-61f96379b978,chr17:g.31265318T>C,NF1 I1605T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.532
+9bfc8db9-78a1-57d7-94fa-2d4eb83552fc,chr17:g.31226603G>A,NF1 D724N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.08,possibly_damaging,0.478
+9c1a086f-4984-5ce9-b512-329d85e0ca43,chr17:g.31358589_31358590insC,NF1 P2696Tfs*14,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+9d7df378-889a-5d56-aecc-b4079c0e6b56,chr17:g.31338092C>T,NF1 R2258*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+9d89f6ce-97c5-5734-88f3-e8c36c0bc494,chr17:g.31229146T>C,NF1 L844P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.831
+9e01bb3d-594f-5773-bc5e-81f83d1eaaf4,chr17:g.31343127delT,NF1 L2395*,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+9e0abaf0-1b61-52b5-9bc7-88c5f219a2a9,chr17:g.31261823C>T,NF1 L1564F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.13,possibly_damaging,0.714
+9e0d0e0f-bcce-5c7b-8685-85dd04fc422a,chr17:g.31326231A>T,NF1 K1749N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.129
+9e67a519-e3a3-590c-86e7-ab6044d34ca7,chr17:g.31260344delTTCTAATGACTTTGCATTTTTGAAGGTTT,NF1 X1477_splice,Deletion,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+9e6e4a6d-dffa-5111-9f17-fdf3ffe53ed4,chr17:g.31261751G>A,NF1 A1540T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.03,possibly_damaging,0.513
+9e9f6067-9b42-5ea2-aa9b-acf3e100124b,chr17:g.31336794C>T,NF1 L2103F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.81
+9eb2672d-9f98-55d5-8a85-e27f27a591c1,chr17:g.31337580G>T,NF1 E2214*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+9ef67bbf-0617-5fc5-9605-17ae4bb03e89,chr17:g.31227570C>G,NF1 I791M,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.075
+9efe2587-65dc-5513-bffd-f45d4563cb26,chr17:g.31229062G>A,NF1 R816Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.07,benign,0.202
+9f210ade-3450-5b3c-80fb-f52814564614,chr17:g.31336396G>T,NF1 G2024*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+9f683d6a-ba37-5815-9f88-4cb788ca50dd,chr17:g.31349135C>T,NF1 S2402L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.22,benign,0.056
+9fbf9bc2-bac0-5f56-8300-41c1669d979d,chr17:g.31356472_31356473insT,NF1 D2545*,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+9fc4fcdb-a43e-528a-8c6b-2ae9087520ba,chr17:g.31200468G>C,NF1 G312A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.17,benign,0.021
+a0037114-fe43-5a79-8bf4-6a5179ff6ed9,chr17:g.31350300A>G,NF1 H2480R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.52,benign,0.015
+a0cb6452-1af7-51f3-a93d-2d5da11d8790,chr17:g.31350190_31350191insA,NF1 T2444Nfs*4,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a0e598cf-1531-54ab-a529-950350da6b15,chr17:g.31336872A>G,NF1 I2129V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.16,benign,0.034
+a11cd1c7-4d1c-5fa3-9522-aae072aa8cfc,chr17:g.31227548G>A,NF1 W784*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a14441e4-a6ad-574d-a8b0-bdbd5ed03e7a,chr17:g.31159045delTCTC,NF1 Q83*,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a1bbf441-732b-5b1b-8167-c9fcf6a14e6c,chr17:g.31235757G>T,NF1 M1285I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.335
+a1c570da-b7a1-5786-89a5-7a53d9dd20d5,chr17:g.31338071delGTC,NF1 V2251Ffs*14,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a1dbf119-55e3-5205-809d-87d9f7853869,chr17:g.31206372G>A,NF1 X464_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a1f237d7-68ac-521f-867b-7a160120e59c,chr17:g.31232186T>G,NF1 L1104R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.242
+a2250577-273b-5187-9780-2bb57aa5cda0,chr17:g.31169961A>G,NF1 N184D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.3,benign,0.019
+a26d63ab-e9aa-542f-8f80-6a84ffc83d5a,chr17:g.31252933T>C,NF1,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+a2b0f7ea-edc4-5596-8da6-5ded1fae5423,chr17:g.31223514A>T,NF1 K598*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a2f33399-23c4-51b7-a231-84a2f476fb6e,chr17:g.31259071G>A,NF1 E1458K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.495
+a3386288-8b19-54dc-8141-b9dede598e7b,chr17:g.31159042_31159043insT,NF1 Y80Lfs*27,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a35ff6fc-0f83-5716-a318-21a637d55f0a,chr17:g.31350266G>A,NF1 E2469K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.12,benign,0.015
+a39b0f44-74b6-5c6e-b648-d5354d4c567a,chr17:g.31340636C>G,NF1 F2351L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.08,benign,0.063
+a3cb935a-99f9-5b37-bfe0-33eece9b4b7b,chr17:g.31357023C>G,NF1 S2601*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a3f9d8d7-f474-5593-a6ec-6cb9887c8c8a,chr17:g.31214463A>C,NF1 K469Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.548
+a402bf9f-810b-5d3b-b098-ab3b1cd69241,chr17:g.31261772G>T,NF1 G1547C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,1.0
+a47f1820-622f-5ded-adba-3c6acce6709d,chr17:g.31219102C>A,NF1 A542D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.448
+a47f2f12-e24a-56bf-8960-06b104486236,chr17:g.31327591delAAT,NF1 E1787_I1788delinsD,Deletion,Inframe Deletion,1,4118,0.02,1,16508,0.01,MODERATE,,,,
+a4a9a6c9-db94-54d6-816b-c035d0a45e7d,chr17:g.31326024_31326025insA,NF1 N1681Kfs*3,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a515bd4f-9f82-55fd-a4ee-6d00a5615ffb,chr17:g.31259088delT,NF1 F1464Sfs*5,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a52fed5c-3ba4-5fb5-9c6e-931d14b8e355,chr17:g.31214537C>G,NF1 L493=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+a5acd4e7-0bf3-56c6-9351-ca1238449ecc,chr17:g.31258343G>A,NF1 X1392_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a5aef7c9-2c05-5a7d-85e2-9c00defbab58,chr17:g.31227289G>T,NF1 E775*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a7854858-19d4-5494-8bd3-eaacb4fb858a,chr17:g.31181453G>T,NF1 K206N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.893
+a7b4d48d-99ed-54bc-807e-ecdbdf27b613,chr17:g.31235771A>T,NF1 K1290M,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.966
+a8131927-c90f-538a-8874-94496ca822ce,chr17:g.31381954T>A,NF1,Substitution,Downstream Gene,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+a81f17b5-0947-5e50-9400-5682d6ac39f2,chr17:g.31181712_31181713insT,NF1 W221Lfs*10,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a8279118-7d43-5c69-8b51-52322af13fee,chr17:g.31356959G>A,NF1 X2580_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a8554741-a2f0-5740-be51-58134e5153b4,chr17:g.31357276delTGGTAAAATATACCACAGATGAGTTTGA,NF1 V2627Nfs*8,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a87c4347-632c-54c2-930f-f762002371c3,chr17:g.31229175C>T,NF1 Q854*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+a8f252e4-7f70-57e4-8efe-87b6cec15e05,chr17:g.31360715T>C,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+a9106e2e-85d0-51c1-8b7c-216ff9218880,chr17:g.31200571T>C,NF1 V346=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+a9eb8261-0051-52a6-a140-e888a94a5730,chr17:g.31337881G>C,NF1 X2235_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+aa513004-b306-5c79-b0ae-e529dcb7f384,chr17:g.31358556G>T,NF1 G2683*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+aa5db215-4550-55b5-a76d-3c2cecdca569,chr17:g.31235723T>A,NF1 L1274H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,possibly_damaging,0.695
+aabf2857-405a-597d-89a3-41c0fddcfa7d,chr17:g.31335016G>A,NF1 W1997*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ab6146ab-a639-56c5-9948-e9bc5e465238,chr17:g.31214450G>A,NF1 X465_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+abad230e-1830-5c48-8f41-e52c4f13d7ff,chr17:g.31214502A>G,NF1 T482A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.74,benign,0.0
+abf6af27-e9a7-5f20-86b1-3d49ffc814ba,chr17:g.31337505C>T,NF1 P2189S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.57,benign,0.053
+ac0ab420-c5ca-5a77-9f98-c3f8febc489a,chr17:g.31181712A>G,NF1 A219=,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+ac6afa88-6b99-5d45-afeb-de1c3aaaa4c1,chr17:g.31336456A>G,NF1 K2044E,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.25,benign,0.031
+ac78eaba-ddfb-5057-be03-c8ebda83839f,chr17:g.31265317A>G,NF1 I1605V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,1.0,benign,0.001
+acb05d43-379d-5faf-89ab-cdf7399b60cf,chr17:g.31349141C>T,NF1 A2404V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.12,benign,0.0
+accf3c7b-c2cf-5ffb-9be8-810adde5a214,chr17:g.31235953delTCCTTTAT,NF1 P1303Tfs*8,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ad43dc8a-2b9c-5539-9996-037f2d3f6a87,chr17:g.31334681C>G,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+ad5fbe0b-365d-5bad-b71d-a68353237c0a,chr17:g.31326174C>T,NF1 T1730=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+ae108d55-6655-5ee9-a550-3385ffdb2448,chr17:g.31230874T>C,NF1 V1049A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.03,possibly_damaging,0.519
+ae446fe0-5c21-5c4a-9a07-a00393839747,chr17:g.31335029C>T,NF1 Q2002*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ae5f80ea-7476-5dde-8d96-8388ed3689f9,chr17:g.31235762delTC,NF1 F1287Lfs*26,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ae6c4c78-6768-5393-92a1-49acb0673633,chr17:g.31330358A>T,NF1 Q1891L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.176
+aebad3f9-8401-52ce-bc45-840aa1a02aef,chr17:g.31258338delTTTTAGGTGG,NF1 X1392_splice,Deletion,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+af5cfcd5-d270-59ff-ba11-0719d7a12d96,chr17:g.31229453C>T,NF1 D946=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+afad8f36-8ef8-547b-9d14-43feb845e4d3,chr17:g.31325909T>C,NF1 V1642A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.993
+affc2d55-996e-5520-8afe-9c98401e8a62,chr17:g.31327776A>T,NF1 D1849V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.989
+b063e369-b5f1-5ea1-b884-f1678eb315de,chr17:g.31229967C>T,NF1 L995=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+b0965b74-13b1-5a7f-b9ee-cfd64c2e839e,chr17:g.31337795delTATTCAGAGTATCCCCTTTTTTAGGCATGCATGAGAGATATT,NF1 X2215_splice,Deletion,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b110ada5-f822-5a8c-8280-37868d4d6dfe,chr17:g.31201079C>T,NF1 Q369*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b1641b42-352f-5e96-8608-895a15a45b61,chr17:g.31229467T>G,NF1 X950_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b177a780-a625-5200-b290-1de04f55b8f0,chr17:g.31095331G>T,NF1 E8*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b3bba401-7320-5918-b8e4-f1870c1db7b2,chr17:g.31229290_31229291insA,NF1 S892Rfs*14,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b3dc9943-2233-58e3-9045-4223a5902583,chr17:g.31206327G>A,NF1 A450T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.12,benign,0.007
+b3ec0c21-b7a6-5467-bdb4-afda3fdef8c4,chr17:g.31258461C>T,NF1 P1431S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.06,possibly_damaging,0.488
+b445b899-d89f-5a58-815b-00d1160fea0e,chr17:g.31229229G>T,NF1 E872*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b4df8565-3be2-5b0e-8e2d-118a2ec5d5ad,chr17:g.31265270C>T,NF1 T1589M,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.706
+b536c301-f753-5ba5-9d06-13b5a3b499f1,chr17:g.31357332G>T,NF1 E2645*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b5e06fc2-e219-56ae-928d-4772128d033c,chr17:g.31201428T>A,NF1 N401K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,benign,0.034
+b615a985-1a57-503c-9808-dd1d33d9d1a3,chr17:g.31235688_31235689insAA,NF1 E1264Kfs*3,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b62f114c-39a0-55b7-b170-c9e75092a842,chr17:g.31352349G>T,NF1 R2517L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.08,benign,0.393
+b720eef6-19a3-5a0d-8b91-08c21a9df0b3,chr17:g.31337366A>G,NF1 X2143_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b72514c6-6a9c-50be-b0d4-ff675ff5a3f1,chr17:g.31334998T>C,NF1 S1991=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+b74a5227-af2c-5aa6-a9e8-cd2740719296,chr17:g.31340574T>C,NF1 Y2331H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.998
+b80804e0-3a95-54f9-aa98-864c17a73f28,chr17:g.31358497_31358498insT,NF1 K2664*,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b80ba8bb-99bc-5663-8873-af24f6ecf38b,chr17:g.31356604T>G,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+b81bf244-ad70-597e-810a-d55d9f88e221,chr17:g.31221904C>G,NF1 P566A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.07,possibly_damaging,0.61
+b8e58d36-4e12-5e8d-90af-7bc6ae1fcedd,chr17:g.31349239G>A,NF1 A2437T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.821
+b8f8a054-54f1-544c-89c0-ebeb9f81f65f,chr17:g.31229825C>A,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+b9182080-1070-589a-8e3b-d1dc17147a5f,chr17:g.31350233A>T,NF1 R2458*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b934c494-a659-5be5-a550-ff5e1c165679,chr17:g.31159057delGATTATATTGGATACACTG,NF1 I85Kfs*12,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b9541e34-3195-52be-b719-5f7037f006ad,chr17:g.31206301A>C,NF1 N441T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.62,benign,0.0
+b973d212-8442-5329-b4d3-763e6ac2abae,chr17:g.31326170delC,NF1 T1730Pfs*4,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b9941903-ac15-5d16-b822-23b88c4b25a6,chr17:g.31337528delTT,NF1 F2197Cfs*44,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+b9b7b5bf-eb6c-58cb-8800-a97740831c12,chr17:g.31327768G>A,NF1 R1846=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+ba1ba45b-7c39-5f77-b492-925c8e4fa806,chr17:g.31258468delCTAGAATCGAAAGGGGCTTGAAGTTAA,NF1 P1433_M1442delinsL,Deletion,Inframe Deletion,1,4118,0.02,1,16508,0.01,MODERATE,,,,
+ba1ee936-cd77-5e87-8739-df57187bd07c,chr17:g.31261822C>T,NF1 N1563=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+baee7719-537a-54cf-a021-6f885416abe4,chr17:g.31357051_31357052insA,NF1 T2611Nfs*2,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+bb0d7246-e488-507a-8cab-63b3c9368427,chr17:g.31156127delGTGA,NF1 X68_splice,Deletion,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+bb38eb33-4679-5d49-8ac9-e8dfe61b1285,chr17:g.31352332C>T,NF1 V2511=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+bb5c199a-3684-5b24-8831-30ef8880abb5,chr17:g.31258365C>T,NF1 Q1399*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+bb99e25a-f858-5cce-af06-b0c195606d32,chr17:g.31326253G>A,NF1 X1756_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+bba755dd-7205-51ef-8058-3f00978372bf,chr17:g.31230260G>T,NF1 R997S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.933
+bbc2617d-6c94-5a80-9186-42b9696410ae,chr17:g.31265325T>G,NF1 Y1607*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+bc49d782-9a72-58de-9b8b-299960c0ec46,chr17:g.31349143A>G,NF1 I2405V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.28,benign,0.0
+bc868dc7-6cec-5ddd-b14e-2f6f12edb06a,chr17:g.31229063delA,NF1 M817Cfs*4,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+bca23ea3-eb5c-57b3-9fca-489c48705348,chr17:g.31201052C>G,NF1 P360A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.09,benign,0.135
+bcdf2811-0f97-56b1-b532-916ed17a0de5,chr17:g.31200559T>G,NF1 I342M,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.724
+bd1729b6-74fc-54ae-8a48-f9812ab8bf1b,chr17:g.31327723G>T,NF1 W1831C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.979
+bd6f252d-25ac-5f84-8548-5efd8eee5d59,chr17:g.31229200C>T,NF1 T862I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.28,benign,0.196
+bdc791ce-563c-50b6-8ba2-66d12a3e5410,chr17:g.31337851G>T,NF1 W2225C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+bec5eada-7e53-5b89-bb58-fd44eb4c912e,chr17:g.31229401T>C,NF1 L929P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.921
+beff7b69-8f8a-57ae-8598-108026244fe7,chr17:g.31206286C>A,NF1 S436*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+bf3d1e81-0cb2-5730-af7f-b6106890f612,chr17:g.31232710T>C,NF1 L1109=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+bfe34172-e03d-54c4-a01b-3a345063a20e,chr17:g.31226658C>G,NF1 A742G,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,possibly_damaging,0.853
+c000b61a-71a7-5cfa-9458-a2ec7797d7e1,chr17:g.31249117C>T,NF1 Q1370*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c05a8525-8892-5d26-8ff1-59722a6c9e87,chr17:g.31206318C>T,NF1 L447F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,probably_damaging,0.972
+c097ed6f-62ec-5f24-b29d-a51e506b8210,chr17:g.31360559G>T,NF1 G2745*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c09cc4e8-887e-55b2-9b02-2aa08ca5af3f,chr17:g.31229233_31229234insT,NF1 K874*,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c0eef2d5-fc36-50be-99f0-4e3358fb97e9,chr17:g.31181474delAA,NF1 N214*,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c0f58c07-a2e1-5b41-ad4d-eaffc10f0ebe,chr17:g.31340585T>G,NF1 G2334=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+c125f02a-33fc-5a90-bcec-42aa9e3d5318,chr17:g.31233063C>T,NF1 I1186=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+c16b617d-9796-50d1-af5e-647e963a8ab5,chr17:g.31235648delCTCGGCATTTA,NF1 R1250Lfs*10,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c1757154-2b73-51c7-bde5-bf9872880639,chr17:g.31226684G>T,NF1 G751*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c1e7de24-eb4d-56b8-9ec4-2178e2825797,chr17:g.31181732A>C,NF1 N226T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,1.0,benign,0.003
+c1fa29c2-d78c-5074-860f-b9c8b0a5186a,chr17:g.31337409T>C,NF1 S2157P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,probably_damaging,0.969
+c21c21b9-848c-5d7d-87d2-8cf544aad283,chr17:g.31360470C>T,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+c23e9da9-fc97-5c5e-8aca-646dcc102af8,chr17:g.31223475delTTAAC,NF1 L585*,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c2a9746f-c30d-574f-8388-57b2d602204c,chr17:g.31334918G>A,NF1 D1965N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.09,benign,0.358
+c2bd0f03-b5b6-51e3-9572-ad174d63e632,chr17:g.31358571G>A,NF1 V2688M,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,1.0,benign,0.068
+c2c17402-1686-528a-91ac-25f2bd626e3e,chr17:g.31229171C>T,NF1 L852=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+c2e66520-aacc-510b-8dda-88ca628ce5e2,chr17:g.31357043G>T,NF1 E2608*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c2fbaedd-41cc-544b-b4c5-37cc39261b8e,chr17:g.31225146delG,NF1 D633Ifs*55,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c3a3c99f-fc97-5a0a-9e3f-7c74da19123a,chr17:g.31214531T>A,NF1 Y491*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c3d0548c-af32-5622-94b9-c4a90bd705a3,chr17:g.31156003G>A,NF1 Q27=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+c405caac-a16b-55af-8bb9-a643eee06460,chr17:g.31232725T>A,NF1 L1114M,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.13,possibly_damaging,0.829
+c411437c-77e4-52e7-a04d-23c546e27c33,chr17:g.31356979A>G,NF1 S2586=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+c4a42c86-e6fd-5654-a6b9-8073a4531788,chr17:g.31156042delGGAAT,NF1 E41Sfs*24,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c4c5f921-f40e-5572-b762-21267b14cabd,chr17:g.31261709A>T,NF1 X1526_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c4fe9ac3-6f1a-5abf-8979-5117668475b3,chr17:g.31226517T>C,NF1 L695P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+c52a9030-ba04-51b0-b790-4442d2de8954,chr17:g.31181490_31181491insT,NF1 X218_splice,Insertion,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c5430628-0c11-5fad-abb4-d0f14307f5f2,chr17:g.31349218G>C,NF1 E2430Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.21,benign,0.406
+c5ab185c-b3bb-5fdb-a6c1-7ecf26b04d15,chr17:g.31259083C>T,NF1 R1462W,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.19,probably_damaging,0.937
+c6075506-25c8-5385-b6df-8a5d333f2beb,chr17:g.31327595G>A,NF1 E1789K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.214
+c7752d17-2b5f-5f41-a0fc-438865e1ccc7,chr17:g.31327498G>A,NF1 X1757_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c7846237-8603-5127-91c8-ec310384e1c8,chr17:g.31169999T>C,NF1 X196_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c79301ab-5c40-5b7e-b985-d9863e0ee246,chr17:g.31358532delC,NF1 P2675Qfs*4,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c7dfe447-c700-570a-ab31-01d2c29adf2b,chr17:g.31214535C>T,NF1 L493F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+c82f5507-a667-5e94-847a-fb23c2719a49,chr17:g.31374101G>C,NF1 Q2822H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.01,probably_damaging,0.965
+c86b5898-74e2-5214-bec8-ed21d3fe3a4b,chr17:g.31156044delA,NF1 E41Dfs*3,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c8765773-31fd-55a0-9571-c9c81f0cfeb7,chr17:g.31229456C>T,NF1 S947=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+c87962d1-3591-5974-9592-3114cb24daaa,chr17:g.31227522G>T,NF1 X776_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c88ac7fd-72bf-5776-b999-40a4bc516a3f,chr17:g.31181718G>A,NF1 W221*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c8dd8e45-32f6-5ceb-b94c-552f8425b738,chr17:g.31330416delTA,NF1 I1911*,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c91876c7-1885-5f48-a972-de4ceb5c1c22,chr17:g.31261734delG,NF1 R1534Hfs*40,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+c92310da-2447-5e6f-9da7-878be138d647,chr17:g.31229956T>A,NF1 M991K,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.579
+c9341d20-31c3-5031-883a-ade0cc850ce3,chr17:g.31349220A>G,NF1 E2430=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+c9357fce-fbb7-5ce2-abf8-37ec3ef67aee,chr17:g.31357400T>G,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+ca1821fb-63b8-5458-8de7-dc2bc0baa26e,chr17:g.31229172C>T,NF1 Q853*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ca2a162d-378e-591c-be5a-badf12f35c0a,chr17:g.31221850G>T,NF1 A548S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.973
+ca4d9a2d-fe70-5c43-8cc5-1c98d900f7fd,chr17:g.31337401delCAGAGTTCTCATTACCCAAATTTTACTTG,NF1 E2155Vfs*4,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ca62eec7-8cb3-53dd-aa9a-dd19404f75a5,chr17:g.31261763G>A,NF1 A1544T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.967
+ca8cfd25-eb78-5dfa-9248-827e60a03656,chr17:g.31229140G>A,NF1 G842D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,probably_damaging,0.925
+cb23f0ed-65cb-58a8-ab40-f612679b2101,chr17:g.31326112G>A,NF1 D1710N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.699
+cb58e27b-1de2-599d-866f-5ca161ddfd4c,chr17:g.31330320T>A,NF1 C1878*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+cb8cf6a4-7af2-5400-b3d4-476cbb212492,chr17:g.31343046T>A,NF1 L2367Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.428
+cbad6c39-a14e-55eb-8fe5-e603af3e62e6,chr17:g.31249116C>A,NF1 Y1369*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+cbb04f90-13bd-50cd-b24c-336248ee8f51,chr17:g.31163301G>T,NF1 R135L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.14,benign,0.039
+cbc833ad-504d-5f11-9c9c-167b46b1bb1f,chr17:g.31343037G>A,NF1 R2364Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.862
+cbe4d1b1-3613-54f2-b05e-7700a16938db,chr17:g.31248983G>T,NF1 X1325_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+cbfea8b0-e76a-52bc-bd2a-47d5518571e9,chr17:g.31334892T>C,NF1 L1956P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+cc10f314-1c89-5eca-a100-cffdd54ddb51,chr17:g.31221883delG,NF1 D559Ifs*9,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+cc1326a3-a016-508c-ba77-4ac7057c5175,chr17:g.31258376C>T,NF1 I1402=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+cccbed96-c120-55b4-a398-8cde6ee56162,chr17:g.31260370delT,NF1 F1479Sfs*4,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ccfc97cb-298d-51f6-b03e-7a752e0fcbd5,chr17:g.31325835A>C,NF1 Q1617H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.175
+cd315a5a-6099-5d1b-978f-19dec60ab313,chr17:g.31336810C>A,NF1 T2108N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.889
+cd93c74d-aca6-5ef8-8500-3eec92f9808e,chr17:g.31327650G>A,NF1 G1807D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.06,benign,0.125
+cdc7fc5d-f22e-5fbf-8228-c0d1b7f547d3,chr17:g.31223496A>G,NF1 S592G,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.04,benign,0.009
+ce71469a-1285-5a51-8ad8-77b5525bdeb6,chr17:g.31221989G>A,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+ce9746e9-82ac-5759-80db-c212565dc1e4,chr17:g.31206361G>A,NF1 R461Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.738
+cf2b4d1d-8f9b-5b37-bf5d-6c6dbdc844b9,chr17:g.31214481C>A,NF1 L475I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.08,benign,0.376
+cf888705-a8d4-57e1-bcb1-bfc153ef69b3,chr17:g.31330373C>T,NF1 S1896L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.05,possibly_damaging,0.521
+cfbef0db-8648-57db-adfa-74c3e865471b,chr17:g.31229309G>T,NF1 L898=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+d01ebf5d-d67e-5ae7-b763-cf2562e644dd,chr17:g.31214586G>T,NF1 X509_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d0344a0a-d31c-5950-a0e7-00c3d4ef2f74,chr17:g.31327818G>C,NF1 G1863A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.938
+d0414fe6-0f83-5ad3-b1fb-6401f4d09ab6,chr17:g.31163271G>A,NF1 R125H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.56,benign,0.014
+d072558c-9014-58b0-a396-7ca0eb19c9e6,chr17:g.31334958T>C,NF1 L1978P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+d07f99e1-83e6-527a-bb3d-992e9fb87e74,chr17:g.31235621C>G,NF1 A1240G,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.905
+d09ff01b-fe48-5b46-b14c-fdd49fda1330,chr17:g.31230314delG,NF1 C1016Vfs*3,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d0f1077e-f328-56e0-9f81-3152b85c83e2,chr17:g.31232711T>G,NF1 L1109*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d102d3ca-3d82-5bbb-bb5a-e533c2616e13,chr17:g.31334975delA,NF1 N1984Mfs*28,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d116b814-a8fd-50e6-8242-4370ed45a668,chr17:g.31200492C>A,NF1 A320D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.945
+d13fd397-d10e-5ce5-88af-c1186ec41543,chr17:g.31260486G>A,NF1 E1516=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+d1a60f24-0113-5d3d-8991-989a5b379f52,chr17:g.31233081A>C,NF1 E1192D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.07,benign,0.118
+d1d64ef0-13e8-52f3-8508-3011d4e93483,chr17:g.31249031A>C,NF1 Q1341P,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.23,benign,0.433
+d2080b17-92d1-52be-ac08-601cc0041270,chr17:g.31227549G>A,NF1 W784*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d25d58a7-dbcd-534f-bcd6-bf6d85105a36,chr17:g.31095388G>A,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+d2621a6b-25d7-5567-bba1-88a322b0c3cd,chr17:g.31357336C>T,NF1 A2646V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.565
+d2a6dc56-66bc-5f1f-ab04-8634e123f4c1,chr17:g.31163328C>T,NF1 S144F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.11,possibly_damaging,0.795
+d2b74edd-9a5c-5738-be79-5848c39fbbfa,chr17:g.31357004A>T,NF1 K2595*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d37cf01f-3091-5dfc-a571-0c11176ef25f,chr17:g.31338737_31338738insA,NF1 Y2285*,Insertion,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d45b64d3-e124-58e2-bb64-5c4bd5d6d81a,chr17:g.31356965_31356966insA,NF1 R2583Efs*13,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d463cecc-8212-5ea9-8685-bd6afe0b207c,chr17:g.31357004A>G,NF1 K2595E,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.03,probably_damaging,0.931
+d4efd259-4f82-5f7b-90bc-a287ef4cfbbe,chr17:g.31359015G>T,NF1 K2720N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.1,benign,0.034
+d58955e4-4d45-54fa-a9ab-940f1bd57e9b,chr17:g.31327565C>T,NF1 L1779=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+d5aebe5c-238d-55b1-a552-8980eec34a5b,chr17:g.31265260G>A,NF1 A1586T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.34,benign,0.01
+d5b8282b-2ce8-54d5-91d6-02e1b334ba7d,chr17:g.31182600A>T,NF1 I275F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.194
+d5b980e9-0393-5f89-8ad5-89ecf9c2aa97,chr17:g.31338062G>T,NF1 A2248S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.08,probably_damaging,0.976
+d5e1856f-b38d-507f-875f-bfaeebea24d5,chr17:g.31326003C>T,NF1 N1673=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+d613984c-9303-52bd-bc2e-77dd574844a8,chr17:g.31337863G>A,NF1 W2229*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d698ad79-6097-5616-a6ef-956ed596ce50,chr17:g.31343007A>G,NF1 X2355_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d6c49ef1-323b-50e2-a060-1b9f2fe6b6dc,chr17:g.31233158A>G,NF1 Q1218R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,benign,0.04
+d74cf045-5ff0-5802-98c4-b60249ac8c82,chr17:g.31230879G>T,NF1 G1051*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d8103ffe-a546-58f2-941d-1354c9a97935,chr17:g.31378950C>A,NF1,Substitution,Downstream Gene,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+d820b08c-6a39-5721-ae57-e571cbf69f6d,chr17:g.31232072G>A,NF1 X1066_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+d8459dee-2c8f-5bce-bb92-454ebc663378,chr17:g.31349247A>T,NF1 L2439F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.987
+d91356d2-7ad8-54f8-bd7e-7178fc4d6496,chr17:g.31340614C>T,NF1 T2344I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.377
+d9b698d1-1b9c-5634-9922-53ed5f6da30c,chr17:g.31223488delAAATGCTTAGTAGCACAG,NF1 M590_E595del,Deletion,Inframe Deletion,1,4118,0.02,1,16508,0.01,MODERATE,,,,
+da0f95a0-3a9c-5f60-bfd4-8a1857876afa,chr17:g.31163345delT,NF1 F150Sfs*15,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+da56ae9b-b516-51ff-aefd-eae09364889f,chr17:g.31230297C>T,NF1 Q1010*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+da720f69-0a9a-58e6-9372-a7a6cc6918e8,chr17:g.31327676G>T,NF1 E1816*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+dc5a37f2-1c56-56cd-91a6-dc860c267072,chr17:g.31227261C>T,NF1 R765=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+dc60f51d-8d00-5b7e-abb7-978df8218bc8,chr17:g.31360534T>G,NF1 D2736E,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,1.0,benign,0.0
+dc7a43d4-fe93-5a23-97ea-ec61ad7c8257,chr17:g.31249120G>C,NF1 X1370_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+dcb0704e-309d-5d1a-8a40-d0b7c9258095,chr17:g.31327781C>T,NF1 P1851S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.92
+dd9b5961-e135-589f-bf83-aace75863ce9,chr17:g.31338006G>C,NF1,Substitution,Intron,1,4118,0.02,1,16508,0.01,MODIFIER,,,,
+de180715-fdcf-5804-81d6-2ca15bc2f2da,chr17:g.31327656C>T,NF1 P1809L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.28,benign,0.011
+de7dde5d-914c-5c12-bf4a-5183f15b4d66,chr17:g.31229838delTTATTGACTGA,NF1 L952Yfs*19,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+de97b90b-1595-58a8-9233-827495e0954a,chr17:g.31334845A>G,NF1 E1940=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+dfb11a95-3200-5052-8b0e-04180b6796f3,chr17:g.31206372G>T,NF1 X464_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+dff808dd-9dfc-5da3-ac65-d2cfd8af2aa6,chr17:g.31169938delATATAGAAT,NF1 D176Vfs*23,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e0134f50-e962-55df-9ab0-61311c033de8,chr17:g.31360702A>G,NF1 P2792=,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+e01bca16-6ff2-5d09-aab8-9a334a77fef3,chr17:g.31336771delATG,NF1 D2095Vfs*16,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e122b585-ea0b-52ab-9270-3c4262d77c77,chr17:g.31182598T>G,NF1 L274R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.999
+e15c76bd-9965-5d64-8249-24ca04693079,chr17:g.31159031_31159032insA,NF1 N78Kfs*29,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e1773539-598f-5354-a5ad-130bc58504d4,chr17:g.31325835A>T,NF1 Q1617H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.175
+e1c54e9b-cd99-58f2-b89e-510a25dd126d,chr17:g.31229130A>T,NF1 N839Y,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.63
+e1c6735b-2c2c-528b-a62d-47fd8cc67f5a,chr17:g.31233115delC,NF1 R1204Gfs*11,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e1cdd7aa-f6c3-51c8-aff4-d0740aec0123,chr17:g.31201070A>T,NF1 R366*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e1ff8e26-1d92-5d9f-b613-ff80e4214cce,chr17:g.31201041T>A,NF1 L356Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.04,probably_damaging,0.987
+e25232c2-b519-56a3-8495-f66255e69469,chr17:g.31219012G>T,NF1 R512I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.07,benign,0.013
+e26fad9a-e0f0-5139-b6ff-ce36d4f6498f,chr17:g.31227572T>A,NF1 L792H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.12,possibly_damaging,0.842
+e2d60912-a7f5-5faf-8a6a-e07294cffc5c,chr17:g.31330329T>G,NF1 T1881=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+e319aae0-8f62-56bf-9ccb-f92ec499c266,chr17:g.31338065C>G,NF1 L2249V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.418
+e325155b-9703-5dd7-bedf-40524e9bf9a8,chr17:g.31095312G>A,NF1 M1?,Substitution,Start Lost,1,4118,0.02,1,16508,0.01,HIGH,deleterious,0.01,probably_damaging,0.968
+e32dce47-e7c8-50b7-a324-5a1a3e5b432e,chr17:g.31201484A>T,NF1 N420I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.592
+e3786520-f32f-5183-b8c8-a09e6849dfc0,chr17:g.31326118delC,NF1 P1712Lfs*8,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e3811b17-5be4-58f4-b286-4d41bf3f92a2,chr17:g.31249063A>G,NF1 S1352G,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.21,benign,0.012
+e38c1d66-8dfb-5ab7-82d1-a68fee551a2c,chr17:g.31227259C>T,NF1 R765C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.634
+e3cf0a5b-4e16-574e-a8d9-6f98e5ac8248,chr17:g.31358586G>T,NF1 E2693*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e3cf4e1a-0fdb-5a74-81fb-e469344d68a2,chr17:g.31338790delG,NF1 Q2302Hfs*17,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e40cbd8e-142b-5e3c-a3d9-8fb3524a949a,chr17:g.31337876C>T,NF1 Q2234*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e4458c20-d147-5d15-b32d-bfbe545c65ff,chr17:g.31325853G>T,NF1 L1623=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+e463c84b-9103-58bc-93b9-298b04b3b2ff,chr17:g.31156031G>T,NF1 E37*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e498ab42-1d87-5dc1-b18b-dcd2d89caccd,chr17:g.31330307A>G,NF1 Y1874C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,1.0
+e4d0f661-0269-53d8-ba4c-b5531f076275,chr17:g.31337403G>T,NF1 E2155*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e4e12542-34fa-5c75-a530-deccc6e6dd9b,chr17:g.31265276G>A,NF1 S1591N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,1.0,benign,0.0
+e4f441c7-d558-5d6a-a273-21ba6bef1970,chr17:g.31201410G>A,NF1 X396_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e5b9fc05-dbaa-58c4-a314-5f56cc01b542,chr17:g.31334870delATGACTCCATGGCTGTCAA,NF1 M1949Ifs*2,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e60c6238-64aa-50fa-af30-c6cd179afa83,chr17:g.31336843G>C,NF1 R2119T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,1.0
+e651fa2b-d9ad-5e8e-9767-275421bae9e3,chr17:g.31223533T>A,NF1 L604*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e6869bb1-a0fc-5ca5-9608-e46d6df05d25,chr17:g.31356966delAG,NF1 R2583Dfs*12,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e6f174cc-7624-50c8-846f-f3bd1952c82e,chr17:g.31343130delTAAAAGG,NF1 X2397_splice,Deletion,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e7d85fa3-f87d-555a-8f22-34062274217e,chr17:g.31261725delT,NF1 G1532Efs*42,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e92dc254-92b9-51ec-b623-8135de528641,chr17:g.31200484delAG,NF1 E318Kfs*11,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+e943c065-06f5-552e-a8b7-988f49cc3e62,chr17:g.31260498G>A,NF1 Q1520=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+e95ce5f8-3bd0-5220-9605-94ef1014b227,chr17:g.31327674A>T,NF1 Q1815L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.13,benign,0.115
+e96f5d02-f44a-5628-992c-3f4a5a1f5a29,chr17:g.31163323A>G,NF1 L142=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+e9b33497-bfd8-5958-a36b-d41b57f76306,chr17:g.31225157delT,NF1 S637Vfs*51,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ea6f238f-8eaf-57cf-a37b-a1e46901e2a5,chr17:g.31219044G>T,NF1 A523S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.43,benign,0.063
+eab3de9d-0afa-5250-9727-b02411af0314,chr17:g.31219047G>T,NF1 E524*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+eac9a207-977f-5e5b-bf1e-eb8a6451a460,chr17:g.31226456G>C,NF1 G675R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.16,benign,0.042
+eafb4e54-cc60-5a7f-b992-55de2c740769,chr17:g.31156068A>T,NF1 Y49F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.15,benign,0.091
+eb18a29f-d9ec-563d-ad7f-5c211bdcdd28,chr17:g.31156055A>G,NF1 N45D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.21,benign,0.297
+eb4afdb4-8098-5b07-9543-dd6d268f13e0,chr17:g.31232815T>A,NF1 C1144S,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.2,benign,0.014
+ebda0454-31d7-5087-9417-67440c7c2a4b,chr17:g.31265245A>C,NF1 K1581Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.04,benign,0.09
+ebe3c769-3a92-5a60-9cee-6335111b185b,chr17:g.31230303A>C,NF1 K1012Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,possibly_damaging,0.599
+ece6911e-5730-5bdf-aabd-5e2d39621d62,chr17:g.31327810_31327811insA,NF1 N1861Kfs*6,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ecedeaa7-6152-548b-a9d2-00501d0ed94b,chr17:g.31201068C>G,NF1 S365*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ed03382c-ed3a-54f7-94e9-80e06cdac10b,chr17:g.31330351G>T,NF1 E1889*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ed9909e4-6f88-52ec-b4af-c588d1f082ea,chr17:g.31227608T>C,NF1 X803_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+edb910b9-207e-5954-8b3e-a8e95a1d06d8,chr17:g.31336704C>G,NF1 L2073V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.19,benign,0.119
+edbbe8b0-4f32-5d04-8803-7de6d42fb97f,chr17:g.31229182G>A,NF1 S856N,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.25,benign,0.001
+edf5a05d-ba9d-52cd-bc9b-b6f89f112556,chr17:g.31200464G>T,NF1 G311*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ee39d5e5-4831-5ad0-a674-62e9dbde7edd,chr17:g.31334849A>T,NF1 K1942*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ee7c83c1-f00d-5813-90f9-3abd80696b52,chr17:g.31229974G>T,NF1 R997M,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.867
+ee85f544-1ee2-563b-b163-17553f8965e9,chr17:g.31229445delT,NF1 F945Lfs*9,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ef13dbdd-7f44-51e9-b9f9-e1586d425f63,chr17:g.31327751C>T,NF1 Q1841*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+efd43a7d-dd06-5793-8fe1-9f2680d1b7e3,chr17:g.31374109G>C,NF1 R2825T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.01,probably_damaging,0.916
+f02cf4b5-3da2-5967-9f61-4effb9a81d13,chr17:g.31227260G>A,NF1 R765H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,possibly_damaging,0.466
+f05b67f7-da73-5f54-a6c5-fc4aa1ac9341,chr17:g.31169954G>A,NF1 Q181=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+f0781e66-7716-560f-aac7-aa2eee7766b5,chr17:g.31357275C>T,NF1 L2626=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+f0ad7f76-a4f9-5098-8ed4-53cc61cf187c,chr17:g.31336915G>C,NF1 X2143_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f0ebb386-1a8a-5616-9c3d-f807fb4f4238,chr17:g.31330331G>T,NF1 C1882F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.43,benign,0.009
+f0ebd120-84e2-5b34-a5da-b03a8c085efb,chr17:g.31226524delC,NF1 P698Lfs*50,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f1bd944d-d480-5900-92cf-b7d1811c2e72,chr17:g.31235989G>A,NF1 W1314*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f1dc48b6-c60c-56d7-ae21-58207f98ec88,chr17:g.31226580A>T,NF1 E716V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.983
+f1f3b960-f736-5f88-b887-057f07d3b8dd,chr17:g.31327498G>C,NF1 X1757_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f1f882e4-810e-5555-9cdb-001c98f3aaee,chr17:g.31334853delACCTTTGTTTG,NF1 H1943Rfs*17,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f210a230-3bcd-5826-a2b8-ad09077e4e76,chr17:g.31235692G>T,NF1 E1264*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f21fb943-57a8-51c9-b348-b51b2eb9dff5,chr17:g.31258425G>T,NF1 V1419F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.988
+f22c010d-6362-558c-81ef-fb4987af9c17,chr17:g.31225125_31225126insT,NF1 Y628Lfs*6,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f28fda4f-056c-5777-8c31-930932e0e809,chr17:g.31181763G>A,NF1 Q236=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+f2d6ea66-618c-5733-90c5-efaff5451fcb,chr17:g.31229859C>T,NF1 Q959*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f2fcc5ec-9a69-5941-acdb-d766bbd06396,chr17:g.31156099T>A,NF1 T59=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+f3265ead-8223-545c-b33f-ca9e3c7c3711,chr17:g.31330363C>A,NF1 L1893I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.02,possibly_damaging,0.824
+f376edb4-f0b2-5724-a9b7-14872d29f7d3,chr17:g.31235916A>T,NF1 X1291_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f37879cc-e188-5db8-bf22-559d377fc574,chr17:g.31229960G>A,NF1 M992I,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.13,benign,0.031
+f378f1c7-95e1-5173-a911-2e6a2fcdc650,chr17:g.31336688T>C,NF1 P2067=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+f3a6b32d-1785-50c8-93f8-c1a332734703,chr17:g.31338805G>A,NF1 K2307=,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+f3e6e556-eabd-53a0-a43f-dbeaa30bb169,chr17:g.31357017C>T,NF1 S2599F,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated_low_confidence,0.12,probably_damaging,0.974
+f40a3b07-738b-5f04-bcfc-3f6d7b84f53c,chr17:g.31229061C>T,NF1 R816*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f42ec78c-6176-51cf-aa7c-ef2574f5b18f,chr17:g.31229148T>C,NF1 C845R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,benign,0.284
+f4348bf4-dec9-520b-b15e-7a72e8aa1ee5,chr17:g.31225196_31225197insG,NF1 L650Vfs*20,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f53a84b8-2d23-592b-9436-f8ba5f4b70b0,chr17:g.31327646C>T,NF1 Q1806*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f5489b57-2f3d-586a-9c0f-33cf9e3f88d1,chr17:g.31156015T>G,NF1 H31Q,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.55,benign,0.039
+f553e047-deb2-585c-af21-29dcf565ccd6,chr17:g.31156096C>T,NF1 L58=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+f55dccb3-186d-5279-ae22-df3ba3cef147,chr17:g.31349156delCAGT,NF1 V2410Efs*7,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f5f09717-d785-58c0-a8dc-eb6758b31f8f,chr17:g.31163300delCGGA,NF1 R135Ifs*29,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f60e07c4-3340-5aeb-973a-bb808b07e7c3,chr17:g.31356474T>G,NF1 F2544V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious_low_confidence,0.03,probably_damaging,0.916
+f625c85d-7587-53c1-afbe-0169b8bc9c37,chr17:g.31156114T>C,NF1 N64=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+f62e648c-7dbc-5aa2-8882-9c0b18750cc1,chr17:g.31219026G>T,NF1 E517*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f7921b2d-d062-5ab9-9894-16147c118b4d,chr17:g.31260369G>A,NF1 R1477=,Substitution,Splice Region,1,4118,0.02,1,16508,0.01,LOW,,,,
+f79692be-2f73-5aa4-a0cf-52cd1de7bbc8,chr17:g.31230872G>A,NF1 W1048*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f7fbbfb6-db73-5dd0-bb30-4e6cabeb0d1a,chr17:g.31360552C>G,NF1 Y2742*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f83fca62-ea21-553c-b08f-3ddb651c2979,chr17:g.31340628C>T,NF1 R2349C,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.01,benign,0.224
+f889c061-26f1-5276-b27e-f52646a719b8,chr17:g.31169954G>T,NF1 Q181H,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.0,probably_damaging,0.994
+f88f292f-0e68-54dc-ac70-1313a4c8a31e,chr17:g.31327723_31327724insT,NF1 E1832*,Insertion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f8aeb0af-cbc3-5ad1-8689-dce883a6695a,chr17:g.31343137T>A,NF1 X2397_splice,Substitution,Splice Donor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+f982b877-de37-52a2-aeeb-f2625ad51f1c,chr17:g.31327757delACCAAG,NF1 T1843_K1844del,Deletion,Inframe Deletion,1,4118,0.02,1,16508,0.01,MODERATE,,,,
+fad639e4-d950-5ccc-a068-03840fc6ea15,chr17:g.31259059C>G,NF1 L1454V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.69,benign,0.053
+fb085ddb-3ce6-552e-bb6d-c5186f50482f,chr17:g.31330469delA,NF1 E1929Sfs*13,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+fb53eecb-a4b0-5741-8ef0-5e70554037e6,chr17:g.31337533C>T,NF1 A2198V,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.04,benign,0.306
+fb55b4d6-aab7-5a1b-918f-9e2c5259f3c6,chr17:g.31357322delAT,NF1 Y2642Lfs*17,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+fbdac631-d5d1-5e8e-9742-d7e275d2af2d,chr17:g.31326189G>T,NF1 E1735D,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,deleterious,0.04,benign,0.148
+fbf6cad3-c548-50f0-98ad-f59fa0909b67,chr17:g.31326010G>A,NF1 A1676T,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.1,benign,0.078
+fc79d04c-42c5-58ef-ba81-9e009639ec88,chr17:g.31227235delAA,NF1 R758Sfs*9,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+fcba9563-3ad4-52d4-82bc-064793969c57,chr17:g.31334939A>G,NF1 T1972A,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.61,benign,0.001
+fd0b6ec9-6243-5cc6-af24-4d2ee6af6167,chr17:g.31330350C>T,NF1 I1888=,Substitution,Synonymous,1,4118,0.02,1,16508,0.01,LOW,,,,
+fd154ac1-361b-556a-b911-62ef4f762fe4,chr17:g.31325929G>A,NF1 G1649R,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.07,probably_damaging,0.952
+fe491150-55d3-5eb7-a16c-abddb2cb62f5,chr17:g.31343008G>A,NF1 X2355_splice,Substitution,Splice Acceptor,1,4118,0.02,1,16508,0.01,HIGH,,,,
+fea02650-40be-5aef-9b6b-970fdb6f720c,chr17:g.31223461delACATCTGCAAGAA,NF1 I581*,Deletion,Frameshift,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ff4f3163-63ad-51eb-aeef-d63b2d9bbb14,chr17:g.31357278G>T,NF1 V2627L,Substitution,Missense,1,4118,0.02,1,16508,0.01,MODERATE,tolerated,0.11,probably_damaging,0.985
+ff5c254f-4ad0-5983-81fc-d1229f16b099,chr17:g.31163231C>T,NF1 Q112*,Substitution,Stop Gained,1,4118,0.02,1,16508,0.01,HIGH,,,,
+ffd7a706-624f-5cf1-badf-ffbc75dc2822,chr17:g.31223502delACAGAAATTCTCAAGTGGTTGCGG,NF1 T594_R601del,Deletion,Inframe Deletion,1,4118,0.02,1,16508,0.01,MODERATE,,,,
