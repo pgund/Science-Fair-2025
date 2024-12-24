@@ -1,0 +1,1 @@
+All the data for this project is located in this directory. Overall there is nearly 10,000 nucleotides.
