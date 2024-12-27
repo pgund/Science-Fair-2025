@@ -19,4 +19,3 @@ This project will first compete in the [Shrewsbury Public High School](https://s
 
 - **/data**: Contains all the genomic data used for the project.
 - **/code**: Includes all the scripts and code for data preprocessing, model development, and analysis.
-- **/documents**: Holds all the documentation related to the project, including reports and presentations.
